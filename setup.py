@@ -8,16 +8,16 @@ with open('metadata.json', encoding='utf-8') as fp:
 
 
 setup(
-    name='lexibank_heggartysndcmpmixe',
+    name='lexibank_sndcmpmixe',
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
-    py_modules=['lexibank_heggartysndcmpmixe'],
+    py_modules=['lexibank_sndcmpmixe'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'heggartysndcmpmixe=lexibank_heggartysndcmpmixe:Dataset',
+            'sndcmpmixe=lexibank_sndcmpmixe:Dataset',
         ]
     },
     install_requires=[
