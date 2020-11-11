@@ -1,0 +1,24 @@
+ID,Name,LongName,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,IndexInSource,IsProto
+Protomixezoque,Proto-Mixe-Zoque,,,,,,16.475,-95.45,,60002000000,True
+Protomixe,Proto-Mixe,,,,,,16.375,-95.25,,61002000000,True
+Ocotepec,Ocotepec,Mixe:  North Highland:  Santa María Ocotepec,ocot1241,Ocotepec Mixe,mto,North America,17.22722,-95.993611,Mixe-Zoque,61051255509,False
+Totontepec,Totontepec,Mixe:  North Highland:  Totontepec,toto1305,Totontepec Mixe,mto,North America,17.21667,-95.98333,Mixe-Zoque,61051257609,False
+Tlahuitoltepec,Tlahuitoltepec,Mixe:  South Highland:  Core:  Santa María Tlahuitoltepec,tlah1239,Tlahuitoltepec Mixe,mxp,North America,17.09602,-96.0664434,Mixe-Zoque,61051523409,False
+Tamazulapam,Tamazulápam,Mixe:  South Highland:  Core:  Tamazulápam del Espíritu Santo,lowl1268,Lowland-Midland-South Highland Mixe,,,17.055,-96.06528,Mixe-Zoque,61051527609,False
+Ayutla,Ayutla,Mixe:  South Highland:  Core:  Ayutla,tlah1239,Tlahuitoltepec Mixe,mxp,North America,17.03333,-96.06667,Mixe-Zoque,61051528509,False
+Tepantlali,Tepantlali,Mixe:  South Highland:  Fringe:  Santa María Tepantlali,lowl1268,Lowland-Midland-South Highland Mixe,,,16.96667,-96.03333,Mixe-Zoque,61051535509,False
+Alotepec,Alotepec,Mixe:  Midland:  Santa María Alotepec,midl1241,Midland Mixe,,,17.09306,-95.854722,Mixe-Zoque,61051545509,False
+Zacatepec,Zacatepec,Mixe:  Midland:  North:  Santiago Zacatepec,zaca1240,Zacatepec,neq,North America,17.15868,-95.9143625,Mixe-Zoque,61051553309,False
+Puxmetacan,Puxmetacán,Mixe:  Midland:  North:  Santa María Puxmetacán,puxm1238,Puxmetecín,,North America,17.26722,-95.62583,Mixe-Zoque,61051556709,False
+Cotzocon,Cotzocón,Mixe:  Midland:  North:  San Juan Cotzocón,mixe1283,,neq,,17.16667,-95.78333,,61051557509,False
+Cacalotepec,Cacalotepec,Mixe:  Midland:  South:  Asunción Cacalotepec,midl1241,Midland Mixe,,,17.03358,-95.9572924,Mixe-Zoque,61051563709,False
+Juquila,Juquila,Mixe:  Midland:  South:  San Juan Juquila,juqu1238,Juquila Mixe,mxq,North America,16.93333,-95.91667,Mixe-Zoque,61051567309,False
+Guichicovi,Guichicovi,Mixe:  Lowland:  San Juan Guichicovi,isth1238,Isthmus Mixe,mir,North America,16.96667,-95.08333,Mixe-Zoque,61051585509,False
+Protooaxacamixe,Proto-Oaxaca Mixe,,,,,,16.275,-95.05,,61052000000,True
+Nizaviguiti,Nizaviguiti,,,,,,16.669,-95.871,,61091005509,False
+Chapultenangospkr1,Chapultenango: spkr1,Zoque:  Chiapas:  Francisco León:  Chapultenango:  Speaker 1,chap1265,Chapultenango,zos,North America,17.34,-93.131,Mixe-Zoque,62041232309,False
+Chapultenangospkr2,Chapultenango: spkr2,Zoque:  Chiapas:  Francisco León:  Chapultenango:  Speaker 2,chap1265,Chapultenango,zos,North America,17.339,-93.129,Mixe-Zoque,62041232409,False
+Chapultenangospkr3,Chapultenango: spkr3,Zoque:  Chiapas:  Francisco León:  Chapultenango:  Speaker 3,chap1265,Chapultenango,zos,North America,17.3365,-93.1273,Mixe-Zoque,62041232509,False
+Ocotepecspkr1,Ocotepec: spkr1,Zoque:  Chiapas:  Copainalá:  Ocotepec:  Speaker 1,ocot1242,Ocotepec,zoc,North America,17.2235,-93.1656,Mixe-Zoque,62041432609,False
+Ocotepecspkr2,Ocotepec: spkr2,Zoque:  Chiapas:  Copainalá:  Ocotepec:  Speaker 2,ocot1242,Ocotepec,zoc,North America,17.21467,-93.13,Mixe-Zoque,62041432709,False
+Pantepec,Pantepec,Zoque:  Chiapas:  Rayón:  Pantepec,rayo1235,Rayón Zoque,zor,North America,17.1879,-93.0497,Mixe-Zoque,62041606309,False
