@@ -1,0 +1,200 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Spanish_Gloss
+1_one,one,1493,ONE,1-0,uno
+2_two,two,1498,TWO,2-0,dos
+3_three,three,492,THREE,3-0,tres
+4_four,four,1500,FOUR,4-0,cuatro
+5_year,year,1226,YEAR,51-0,año
+6_right,right,1019,RIGHT,81-0,(a la) derecha
+7_left,left,244,LEFT,82-0,(a la) izquierda   
+8_i,I,1209,I,101-0,yo
+9_weallexcl,"we  (all, EXcl.)",1130,WE (EXCLUSIVE),102-0,nosotros (excl.)
+10_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),102-3,nosotros (incl.)
+11_yousg,you  (sg.),1215,THOU,104-0,tú
+12_heshe,he/she,2642,HE OR SHE,106-0,"él, ella"
+13_theyall,they  (all),817,THEY,107-0,"ellos, ellas"
+14_nonot,"no, not",2279,NO OR NOT,112-0,no
+15_what,what,1236,WHAT,121-0,qué (pregunta)
+16_who,who,1235,WHO,122-0,quién (pregunta)
+17_where,where,1237,WHERE,123-0,dónde (pregunta)
+18_when,when,1238,WHEN,124-0,cuándo (pregunta)
+19_how,how,1239,HOW,125-0,cómo (pregunta)
+20_this,this,1214,THIS,131-0,este
+21_that,that,78,THAT,132-0,"ese, aquel"
+22_and,and,1577,AND,134-0,y
+23_above,above,1741,ABOVE,138-0,"encima, arriba, sobre    "
+24_below,below,1485,BELOW OR UNDER,139-0,abajo
+25_ininside,"in, inside",1460,IN,141-0,dentro 
+26_at,at,1461,AT,148-0,en
+27_head,head,1256,HEAD,201-0,cabeza
+28_hair,hair,1040,HAIR,205-0,pelo (de cabeza)
+29_eye,eye,1248,EYE,211-0,ojo
+30_nose,nose,1221,NOSE,212-0,nariz
+31_ear,ear,1247,EAR,213-0,oreja
+32_mouth,mouth,674,MOUTH,221-0,boca
+33_tongue,tongue,1205,TONGUE,223-0,lengua (órgano)
+34_tooth,tooth,1380,TOOTH,224-0,diente
+35_hand,hand,1277,HAND,231-0,mano           
+36_shoulder,shoulder,1482,SHOULDER,233-0,hombro
+37_neck,neck,1333,NECK,241-0,cuello
+38_back,back,1291,BACK,242-0,espalda
+39_leg,leg,2098,FOOT OR LEG,252-0,pierna/pie
+40_blood,blood,946,BLOOD,261-0,sangre
+41_bone,bone,1394,BONE,262-0,hueso
+42_skin,skin,763,SKIN,263-0,piel
+43_belly,belly,1251,BELLY,271-0,estómago
+44_intestines,intestines,1991,INTESTINES,272-0,intestinos
+45_breast,breast,1402,BREAST,274-0,pecho (de mujer)
+46_liver,liver,1224,LIVER,284-0,hígado
+47_dog,dog,2009,DOG,312-0,perro
+48_bird,bird,937,BIRD,321-0,pájaro
+49_fish,fish,227,FISH,324-0,"pez, pezcado"
+50_snake,snake,730,SNAKE,341-0,víbora
+51_worm,worm,1219,WORM,342-0,gusano (tierra)
+52_louse,louse,1392,LOUSE,343-0,piojo
+53_rat,rat,1490,RAT,345-0,rata
+54_spider,spider,843,SPIDER,349-0,araña
+55_mosquito,mosquito,1509,MOSQUITO,352-0,mosquito
+56_egg,egg,744,EGG,381-0,huevo
+57_tail,tail,1220,TAIL,383-0,cola
+58_wing,wing,1257,WING,384-0,ala
+59_feather,feather,1201,FEATHER,385-0,pluma (de pájaro)
+60_person,person,683,PERSON,401-0,persona
+61_man,man,2106,MALE PERSON,402-0,hombre
+62_woman,woman,2105,FEMALE PERSON,403-0,mujer
+63_child,child,2099,CHILD,405-0,niño
+64_name,name,1405,NAME,410-0,nombre
+65_mother,mother,1216,MOTHER,431-0,madre
+66_father,father,1217,FATHER,432-0,padre
+67_husband,husband,1200,HUSBAND,435-0,marido
+68_wife,wife,1199,WIFE,436-0,esposa 
+69_day,day,1225,DAY (NOT NIGHT),501-0,día
+70_night,night,1233,NIGHT,502-0,noche
+71_moon,moon,1313,MOON,512-0,luna
+72_star,star,1430,STAR,513-0,estrella
+73_sky,sky,1732,SKY,515-0,cielo
+74_water,water,948,WATER,521-0,agua
+75_lake,lake,624,LAKE,523-0,lago
+76_sea,sea,1474,SEA,524-0,mar
+77_fire,fire,221,FIRE,541-0,fuego
+78_smoke,smoke,778,SMOKE (EXHAUST),542-0,humo (del fuego)
+79_ash,ash,646,ASH,543-0,ceniza
+80_stone,stone,857,STONE,551-0,piedra
+81_earthsoil,"earth, soil",1228,EARTH (SOIL),552-0,"tierra, suelo"
+82_dust,dust,2,DUST,553-0,polvo
+83_sand,sand,671,SAND,554-0,arena
+84_rain,rain,658,RAIN (PRECIPITATION),581-0,lluvia
+85_cloud,cloud,1489,CLOUD,584-0,nube
+86_wind,wind,960,WIND,585-0,viento
+87_fog,fog,249,FOG,586-0,niebla
+88_thunder,thunder,1150,THUNDER,592-0,trueno
+89_lightning,lightning,1654,LIGHTNING,593-0,relámpago
+90_meatflesh,"meat, flesh",2615,FLESH OR MEAT,603-0,carne
+91_salt,salt,1274,SALT,604-0,sal
+92_fatgrease,"fat, grease",323,FAT (ORGANIC SUBSTANCE),606-0,grasa
+93_fruit,fruit,1507,FRUIT,609-0,fruta
+94_woodsforest,"woods, forest",420,FOREST,622-0,"bosque, selva, monte"
+95_root,root,670,ROOT,624-0,raíz
+96_branch,branch,1531,BRANCH,625-0,rama
+97_leaf,leaf,628,LEAF,626-0,hoja
+98_wood,wood,1295,STICK,628-0,palo (de madera)
+99_grass,grass,606,GRASS,631-0,hierba
+100_flower,flower,239,FLOWER,632-0,flor
+101_thatchroof,"thatch, roof",2100,THATCH OR ROOF,633-0,paja (techo)
+102_house,house,1252,HOUSE,651-0,casa
+103_rope,rope,1218,ROPE,662-0,"cuerda, mecate"
+104_needle,needle,1382,NEEDLE (FOR SEWING),663-0,aguja (para coser)
+105_roadpath,"road, path",2457,PATH OR ROAD,681-0,camino
+106_black,black,163,BLACK,701-0,negro
+107_white,white,1335,WHITE,702-0,blanco
+108_red,red,156,RED,703-0,rojo
+109_green,green,1425,GREEN,704-0,verde
+110_yellow,yellow,1424,YELLOW,705-0,amarillo
+111_big,big,1202,BIG,711-0,grande
+112_small,small,1246,SMALL,717-0,pequeño
+113_long,long,1203,LONG,721-0,largo (cosas)
+114_short,short,1645,SHORT,722-0,bajo
+115_thick,thick,1244,THICK,735-0,grueso 
+116_thin,thin,2308,THIN,736-0,delgado (cosas)
+117_narrow,narrow,1267,NARROW,737-0,angosto
+118_wide,wide,1243,WIDE,738-0,ancho
+119_sharp,sharp,1396,SHARP,741-0,"agudo, filoso"
+120_bluntdull,"blunt, dull",379,BLUNT,742-0,"despuntado, no filoso"
+121_shyashamed,"shy, ashamed",487,SHY,749-0,"tímido, avergonzado"
+122_old,old,1229,OLD,752-0,viejo (persona)
+123_painfulsick,"painful, sick",2103,PAINFUL OR SICK,763-0,doloroso
+124_good,good,1035,GOOD,771-0,bueno
+125_bad,bad,1292,BAD,772-0,malo
+126_correcttrue,"correct, true",1725,CORRECT (RIGHT),773-0,"correcto, cierto"
+127_dirty,dirty,1230,DIRTY,777-0,sucio
+128_rotten,rotten,1728,ROTTEN,780-0,podrido
+129_all,all,98,ALL,782-0,todos
+130_heavy,heavy,1210,HEAVY,786-0,pesado
+131_far,far,1406,FAR,788-0,lejos
+132_near,near,1942,NEAR,789-0,cerca
+133_warm,warm,1232,WARM,791-0,calor (tiempo)
+134_cold,cold,1287,COLD,792-0,frío  (tiempo)
+135_dry,dry,1398,DRY,793-0,secar (tr.)
+136_wet,wet,1726,WET,794-0,mojado
+137_new,new,1231,NEW,798-0,nuevo
+138_other,other,197,OTHER,799-0,otro
+139_come,come,1446,COME,802-0,llegar
+140_walk,walk,1443,WALK,803-0,caminar
+141_grow,grow,479,GROW,809-0,crecer
+142_stand,stand,1442,STAND,811-0,pararse
+143_sit,sit,1416,SIT,812-0,sentarse
+144_fall,fall,1280,FALL,813-0,caerse
+145_liedown,lie down,215,LIE DOWN,814-0,acostarse
+146_turn,turn,1588,TURN,815-0,voltear
+147_climb,climb,1102,CLIMB,818-0,subir (escalera)
+148_swim,swim,1439,SWIM,821-0,nadar
+149_flyverb,fly (verb),1441,FLY (MOVE THROUGH AIR),822-0,volar
+150_throw,throw,1456,THROW,826-0,tirar (piedra)
+151_hide,hide,602,HIDE (CONCEAL),827-0,esconderse
+152_chew,chew,321,CHEW,829-0,masticar
+153_eat,eat,1336,EAT,831-0,comer
+154_drink,drink,1401,DRINK,832-0,beber
+155_bite,bite,1403,BITE,833-0,morder
+156_suck,suck,1421,SUCK,834-0,amamantar
+157_yawn,yawn,1028,YAWN,836-0,bostezar
+158_spit,spit,1440,SPIT,837-0,escupir
+159_dream,dream,1920,DREAM (SOMETHING),840-0,soñar 
+160_sleep,sleep,1585,SLEEP,841-0,dormir
+161_live,live,1422,BE ALIVE,842-0,vivir
+162_die,die,2101,BE DEAD OR DIE,843-0,morir
+163_kill,kill,1417,KILL,844-0,matar
+164_see,see,1409,SEE,851-0,ver
+165_hear,hear,1408,HEAR,852-0,oír
+166_sniffsmell,"sniff, smell",1586,SMELL (PERCEIVE),854-0,oler
+167_know,know,1410,KNOW (SOMETHING),855-0,saber
+168_think,think,2271,THINK,856-0,pensar
+169_laugh,laugh,1355,LAUGH,858-0,reirse
+170_cry,cry,1839,CRY,859-0,llorar
+171_blow,blow,175,BLOW (OF WIND),867-0,soplar (viento)
+172_burn,burn,2102,BURN,868-0,quemar (algo)
+173_flow,flow,2003,FLOW,869-0,fluir
+174_sew,sew,1457,SEW,874-0,coser (ropa)
+175_pound,pound,354,POUND,880-0,"batir, moler"
+176_hit,hit,1433,HIT,881-0,pegar (con palo)
+177_cut,cut,1432,CUT,887-0,cortar (leña)
+178_split,split,1437,SPLIT,888-0,dividir
+179_dig,dig,1418,DIG,889-0,excavar
+180_hunt,hunt,1435,HUNT,892-0,cazar 
+181_hold,hold,1448,HOLD,893-0,"tener, agarrar"
+182_fear,fear,1419,FEAR (BE AFRAID),895-0,tener miedo
+183_count,count,1420,COUNT,896-0,contar (números)
+184_breathe,breathe,1407,BREATHE,897-0,respirar
+185_vomit,vomit,1278,VOMIT,900-0,vomitar
+186_tieup,tie (up),1094,FASTEN,901-0,"amarrar, atar"
+187_squeeze,squeeze,1414,SQUEEZE,902-0,exprimir (jugo)
+188_swell,swell,1573,SWELL,903-0,hincharse
+189_say,say,1458,SAY,904-0,decir
+190_scratch,scratch,1436,SCRATCH,905-0,razguñar
+191_stab,stab,1434,STAB,906-0,apuñalar
+192_buy,buy,1869,BUY,912-0,comprar
+193_steal,steal,713,STEAL,913-0,robar
+194_choose,choose,1750,CHOOSE,915-0,escojer
+195_plant,plant,1486,PLANT (SOMETHING),918-0,plantar
+196_cook,cook,1100,COOK (SOMETHING),922-0,cocinar (en general)
+197_shoot,shoot,1172,SHOOT,940-0,disparar (con flecha)
+198_work,work,1086,WORK (ACTIVITY),950-0,trabajar
+199_open,open,1156,OPEN,962-0,abrir

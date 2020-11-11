@@ -1,0 +1,35 @@
+{
+    "title": "Word list of Sound-Comparisons' study \u201cMixe-Zoque\u201d provided by Ana Kondi\u0107 - accessible via https:/soundcomparisons.com/MixeZoque",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Ana Kondic"
+        },
+        {
+            "name": "Paul Heggarty"
+        },
+        {
+            "name": "Darja D\u00ebrmaku-Appelganz"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ana Kondi\u0107 and Darja D\u00ebrmaku-Appelganz and Paul Heggarty. 2019. Word list of Sound-Comparisons&#x27; study \u201cMixe-Zoque\u201d. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https:/soundcomparisons.com/MixeZoque, Accessed on 2020-11-09.)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
