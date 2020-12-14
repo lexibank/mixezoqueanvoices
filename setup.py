@@ -7,19 +7,19 @@ with open('metadata.json', encoding='utf-8') as fp:
 
 
 setup(
-    name='lexibank_kondicmixe',
+    name='lexibank_mixezoqueanvoices',
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
-    py_modules=['lexibank_kondicmixe'],
+    py_modules=['lexibank_mixezoqueanvoices'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'kondicmixe=lexibank_kondicmixe:Dataset',
+            'mixezoqueanvoices=lexibank_mixezoqueanvoices:Dataset',
         ],
         "cldfbench.commands": [
-            "kondicmixe=kondicmixe_subcommands",
+            "mixezoqueanvoices=mixezoqueanvoices_subcommands",
         ]
     },
     install_requires=[

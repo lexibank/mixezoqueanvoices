@@ -12,7 +12,7 @@ class CustomConcept(SNDCMPConcept):
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = 'kondicmixe'
+    id = 'mixezoqueanvoices'
 
     study_name = 'MixeZoque'
     second_gloss_lang = 'Spanish'
