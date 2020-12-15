@@ -1,24 +1,23 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Ana Kondi\u0107 and Darja D\u00ebrmaku-Appelganz and Paul Heggarty. 2019. Word list of Sound-Comparisons' study \u201cMixe-Zoque\u201d. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https:/soundcomparisons.com/MixeZoque, Accessed on 2020-11-09.)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Blust-1981-200"
     ],
-    "dc:identifier": "https:/soundcomparisons.com/MixeZoque",
+    "dc:identifier": "https://mixezoqueanvoices.clld.org",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Word list of Sound-Comparisons' study \u201cMixe-Zoque\u201d provided by Ana Kondi\u0107 - accessible via https:/soundcomparisons.com/MixeZoque",
+    "dc:title": "Mixe-Zoque recordings provided by Ana Kondi\u0107",
     "dcat:accessURL": "https://github.com/lexibank/mixezoqueanvoices",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
-            "dc:created": "1a7dce6"
+            "dc:created": "dea79c3"
         },
         {
             "rdf:type": "prov:Entity",

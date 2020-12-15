@@ -1,10 +1,9 @@
 {
-    "id": "kondicmixe",
-    "title": "Word list of Sound-Comparisons' study “Mixe-Zoque” provided by Ana Kondić - accessible via https:/soundcomparisons.com/MixeZoque",
+    "id": "mixezoqueanvoices",
+    "title": "Mixe-Zoque recordings provided by Ana Kondić",
     "description": null,
-    "url": "https:/soundcomparisons.com/MixeZoque",
+    "url": "https://mixezoqueanvoices.clld.org",
     "license": "CC-BY-NC-4.0",
     "conceptlist": "Blust-1981-200",
-    "citation": "Ana Kondić and Darja Dërmaku-Appelganz and Paul Heggarty. 2019. Word list of Sound-Comparisons' study “Mixe-Zoque”. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https:/soundcomparisons.com/MixeZoque, Accessed on 2020-11-09.)"
-
+    "citation": null
 }

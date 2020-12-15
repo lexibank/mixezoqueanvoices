@@ -16,7 +16,7 @@ class Dataset(BaseDataset):
 
     study_name = 'MixeZoque'
     second_gloss_lang = 'Spanish'
-    source_id_array = ['Kondic2019']
+    source_id_array = []
     create_cognates = False
 
     only_proto_forms = True

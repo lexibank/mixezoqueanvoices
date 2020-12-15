@@ -1,12 +1,8 @@
-# Word list of Sound-Comparisons' study “Mixe-Zoque” provided by Ana Kondić - accessible via https:/soundcomparisons.com/MixeZoque
-
-Cite the source dataset as
-
-> Ana Kondić and Darja Dërmaku-Appelganz and Paul Heggarty. 2019. Word list of Sound-Comparisons' study “Mixe-Zoque”. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https:/soundcomparisons.com/MixeZoque, Accessed on 2020-11-09.)
+# Mixe-Zoque recordings provided by Ana Kondić
 
 This dataset is licensed under a CC-BY-NC-4.0 license
 
-Available online at https:/soundcomparisons.com/MixeZoque
+Available online at https://mixezoqueanvoices.clld.org
 
 
 Conceptlists in Concepticon:
@@ -16,13 +12,19 @@ Conceptlists in Concepticon:
 
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![Source: 8%](https://img.shields.io/badge/Source-8%25-red.svg "Source: 8%")
 
 - **Varieties:** 21
 - **Concepts:** 199
 - **Lexemes:** 3,665
-- **Sources:** 2
+- **Sources:** 1
 - **Synonymy:** 1.03
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 3380/3665 (92.22%)
 
 # Contributors
 
