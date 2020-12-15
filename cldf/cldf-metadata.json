@@ -8,17 +8,17 @@
     ],
     "dc:identifier": "https:/soundcomparisons.com/MixeZoque",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Word list of Sound-Comparisons' study \u201cMixe-Zoque\u201d provided by Ana Kondi\u0107 - accessible via https:/soundcomparisons.com/MixeZoque",
-    "dcat:accessURL": "https://github.com/lexibank/kondicmixe",
+    "dcat:accessURL": "https://github.com/lexibank/mixezoqueanvoices",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/kondicmixe",
-            "dc:created": "863a6bb"
+            "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
+            "dc:created": "1a7dce6"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,14 +42,14 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.7.9"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "kondicmixe",
+    "rdf:ID": "mixezoqueanvoices",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null

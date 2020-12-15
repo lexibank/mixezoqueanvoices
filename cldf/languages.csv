@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,LongName,IndexInSource,IsProto
-Protomixezoque,Proto-Mixe-Zoque,,,,,16.475,-95.45,,,60002000000,True
-Protomixe,Proto-Mixe,,,,,16.375,-95.25,,,61002000000,True
+Protomixezoque,Proto-Mixe-Zoque,mixe1284,,,,16.475,-95.45,,,60002000000,True
+Protomixe,Proto-Mixe,mixe1286,,,,16.375,-95.25,,,61002000000,True
 Ocotepec,Ocotepec,ocot1241,Ocotepec Mixe,mto,North America,17.22722,-95.993611,Mixe-Zoque,Mixe:  North Highland:  Santa María Ocotepec,61051255509,False
 Totontepec,Totontepec,toto1305,Totontepec Mixe,mto,North America,17.21667,-95.98333,Mixe-Zoque,Mixe:  North Highland:  Totontepec,61051257609,False
 Tlahuitoltepec,Tlahuitoltepec,tlah1239,Tlahuitoltepec Mixe,mxp,North America,17.09602,-96.0664434,Mixe-Zoque,Mixe:  South Highland:  Core:  Santa María Tlahuitoltepec,61051523409,False
@@ -14,7 +14,7 @@ Cotzocon,Cotzocón,mixe1283,,neq,,17.16667,-95.78333,,Mixe:  Midland:  North:  S
 Cacalotepec,Cacalotepec,midl1241,Midland Mixe,,,17.03358,-95.9572924,Mixe-Zoque,Mixe:  Midland:  South:  Asunción Cacalotepec,61051563709,False
 Juquila,Juquila,juqu1238,Juquila Mixe,mxq,North America,16.93333,-95.91667,Mixe-Zoque,Mixe:  Midland:  South:  San Juan Juquila,61051567309,False
 Guichicovi,Guichicovi,isth1238,Isthmus Mixe,mir,North America,16.96667,-95.08333,Mixe-Zoque,Mixe:  Lowland:  San Juan Guichicovi,61051585509,False
-Protooaxacamixe,Proto-Oaxaca Mixe,,,,,16.275,-95.05,,,61052000000,True
+Protooaxacamixe,Proto-Oaxaca Mixe,oaxa1241,,,,16.275,-95.05,,,61052000000,True
 Nizaviguiti,Nizaviguiti,,,,,16.669,-95.871,,,61091005509,False
 Chapultenangospkr1,Chapultenango: spkr1,chap1265,Chapultenango,zos,North America,17.34,-93.131,Mixe-Zoque,Zoque:  Chiapas:  Francisco León:  Chapultenango:  Speaker 1,62041232309,False
 Chapultenangospkr3,Chapultenango: spkr3,chap1265,Chapultenango,zos,North America,17.3365,-93.1273,Mixe-Zoque,Zoque:  Chiapas:  Francisco León:  Chapultenango:  Speaker 3,62041232509,False
