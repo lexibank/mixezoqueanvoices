@@ -1,4 +1,7 @@
-# Mixe-Zoque recordings provided by Ana Kondić
+# Mixe-Zoquean Voices
+
+
+Mixe-Zoquean Voices presents primary recordings of languages from the Mixe-Zoque language family.
 
 This dataset is licensed under a CC-BY-NC-4.0 license
 
@@ -30,8 +33,9 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Ana Kondic |  | author, data entry, audio recordings | Author
+Ana Kondić |  | author, data entry, audio recordings | Author
 Paul Heggarty |  | author, consultant | Author
 Darja Dërmaku-Appelganz |  | audio post-processing | Author
 Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other
+
 

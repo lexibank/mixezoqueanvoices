@@ -2,6 +2,7 @@
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Mixe-Zoquean Voices presents primary recordings of languages from the Mixe-Zoque language family.",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Blust-1981-200"
     ],
@@ -10,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Mixe-Zoque recordings provided by Ana Kondi\u0107",
+    "dc:title": "Mixe-Zoquean Voices",
     "dcat:accessURL": "https://github.com/lexibank/mixezoqueanvoices",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
-            "dc:created": "e6f389c"
+            "dc:created": "v1.0-1-g8079508"
         },
         {
             "rdf:type": "prov:Entity",
