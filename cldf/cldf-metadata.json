@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
-            "dc:created": "v1.0-1-g8079508"
+            "dc:created": "v1.0-3-gd07a4b1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.9"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 3665,
+            "dc:extent": 3616,
             "tableSchema": {
                 "columns": [
                     {
@@ -83,12 +83,14 @@
                         "titles": "Concept_ID"
                     },
                     {
+                        "dc:description": "\u25ba := no value, but audio",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
                     {
+                        "dc:description": "\u25ba := no form, but audio",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": true,
@@ -281,7 +283,7 @@
             "url": "parameters.csv"
         },
         {
-            "dc:extent": 9960,
+            "dc:extent": 9993,
             "tableSchema": {
                 "columns": [
                     {
