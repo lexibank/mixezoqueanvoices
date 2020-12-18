@@ -19,15 +19,15 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 21
 - **Concepts:** 199
-- **Lexemes:** 3,665
+- **Lexemes:** 3,616
 - **Sources:** 1
-- **Synonymy:** 1.03
+- **Synonymy:** 1.02
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 3380/3665 (92.22%)
+- Entries missing sources: 3331/3616 (92.12%)
 
 # Contributors
 
