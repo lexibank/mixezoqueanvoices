@@ -1,5 +1,12 @@
 # Mixe-Zoquean Voices
 
+## How to cite
+
+If you use these data please cite
+this dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 Mixe-Zoquean Voices presents primary recordings of languages from the Mixe-Zoque language family.
 
@@ -39,3 +46,10 @@ Darja Dërmaku-Appelganz |  | audio post-processing | Author
 Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
