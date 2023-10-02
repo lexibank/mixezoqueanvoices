@@ -5,13 +5,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 4_four,four,1500,FOUR,cuatro,4-0
 5_year,year,1226,YEAR,año,51-0
 6_right,right,1019,RIGHT,(a la) derecha,81-0
-7_left,left,244,LEFT,(a la) izquierda   ,82-0
+7_left,left,244,LEFT,(a la) izquierda,82-0
 8_i,I,1209,I,yo,101-0
-9_weallexcl,"we  (all, EXcl.)",1130,WE (EXCLUSIVE),nosotros (excl.),102-0
-10_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),nosotros (incl.),102-3
-11_yousg,you  (sg.),1215,THOU,tú,104-0
+9_weallexcl,"we (all, EXcl.)",1130,WE (EXCLUSIVE),nosotros (excl.),102-0
+10_weallincl,"we (all, INcl.)",1131,WE (INCLUSIVE),nosotros (incl.),102-3
+11_yousg,you (sg.),1215,THOU,tú,104-0
 12_heshe,he/she,2642,HE OR SHE,"él, ella",106-0
-13_theyall,they  (all),817,THEY,"ellos, ellas",107-0
+13_theyall,they (all),817,THEY,"ellos, ellas",107-0
 14_nonot,"no, not",2279,NO OR NOT,no,112-0
 15_what,what,1236,WHAT,qué (pregunta),121-0
 16_who,who,1235,WHO,quién (pregunta),122-0
@@ -21,9 +21,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 20_this,this,1214,THIS,este,131-0
 21_that,that,78,THAT,"ese, aquel",132-0
 22_and,and,1577,AND,y,134-0
-23_above,above,1741,ABOVE,"encima, arriba, sobre    ",138-0
+23_above,above,1741,ABOVE,"encima, arriba, sobre",138-0
 24_below,below,1485,BELOW OR UNDER,abajo,139-0
-25_ininside,"in, inside",1460,IN,dentro ,141-0
+25_ininside,"in, inside",1460,IN,dentro,141-0
 26_at,at,1461,AT,en,148-0
 27_head,head,1256,HEAD,cabeza,201-0
 28_hair,hair,1040,HAIR,pelo (de cabeza),205-0
@@ -33,7 +33,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 32_mouth,mouth,674,MOUTH,boca,221-0
 33_tongue,tongue,1205,TONGUE,lengua (órgano),223-0
 34_tooth,tooth,1380,TOOTH,diente,224-0
-35_hand,hand,1277,HAND,mano           ,231-0
+35_hand,hand,1277,HAND,mano,231-0
 36_shoulder,shoulder,1482,SHOULDER,hombro,233-0
 37_neck,neck,1333,NECK,cuello,241-0
 38_back,back,1291,BACK,espalda,242-0
@@ -66,7 +66,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 65_mother,mother,1216,MOTHER,madre,431-0
 66_father,father,1217,FATHER,padre,432-0
 67_husband,husband,1200,HUSBAND,marido,435-0
-68_wife,wife,1199,WIFE,esposa ,436-0
+68_wife,wife,1199,WIFE,esposa,436-0
 69_day,day,1225,DAY (NOT NIGHT),día,501-0
 70_night,night,1233,NIGHT,noche,502-0
 71_moon,moon,1313,MOON,luna,512-0
@@ -113,7 +113,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 112_small,small,1246,SMALL,pequeño,717-0
 113_long,long,1203,LONG,largo (cosas),721-0
 114_short,short,1645,SHORT,bajo,722-0
-115_thick,thick,1244,THICK,grueso ,735-0
+115_thick,thick,1244,THICK,grueso,735-0
 116_thin,thin,2308,THIN,delgado (cosas),736-0
 117_narrow,narrow,1267,NARROW,angosto,737-0
 118_wide,wide,1243,WIDE,ancho,738-0
@@ -132,7 +132,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 131_far,far,1406,FAR,lejos,788-0
 132_near,near,1942,NEAR,cerca,789-0
 133_warm,warm,1232,WARM,calor (tiempo),791-0
-134_cold,cold,1287,COLD,frío  (tiempo),792-0
+134_cold,cold,1287,COLD,frío (tiempo),792-0
 135_dry,dry,1398,DRY,secar (tr.),793-0
 136_wet,wet,1726,WET,mojado,794-0
 137_new,new,1231,NEW,nuevo,798-0
@@ -157,7 +157,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 156_suck,suck,1421,SUCK,amamantar,834-0
 157_yawn,yawn,1028,YAWN,bostezar,836-0
 158_spit,spit,1440,SPIT,escupir,837-0
-159_dream,dream,1920,DREAM (SOMETHING),soñar ,840-0
+159_dream,dream,1920,DREAM (SOMETHING),soñar,840-0
 160_sleep,sleep,1585,SLEEP,dormir,841-0
 161_live,live,1422,BE ALIVE,vivir,842-0
 162_die,die,2101,BE DEAD OR DIE,morir,843-0
@@ -178,7 +178,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,IndexInSource
 177_cut,cut,1432,CUT,cortar (leña),887-0
 178_split,split,1437,SPLIT,dividir,888-0
 179_dig,dig,1418,DIG,excavar,889-0
-180_hunt,hunt,1435,HUNT,cazar ,892-0
+180_hunt,hunt,1435,HUNT,cazar,892-0
 181_hold,hold,1448,HOLD,"tener, agarrar",893-0
 182_fear,fear,1419,FEAR (BE AFRAID),tener miedo,895-0
 183_count,count,1420,COUNT,contar (números),896-0
