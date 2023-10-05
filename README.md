@@ -22,27 +22,22 @@ Conceptlists in Concepticon:
 
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 8%](https://img.shields.io/badge/Source-8%25-red.svg "Source: 8%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 21
 - **Concepts:** 199
 - **Lexemes:** 3,616
-- **Sources:** 1
+- **Sources:** 2
 - **Synonymy:** 1.02
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 3331/3616 (92.12%)
 
 # Contributors
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Ana Kondić |  | author, data entry, audio recordings | Author
-Paul Heggarty |  | author, consultant | Author
+Paul Heggarty |  | Founded and manages https://soundcomparisons.com where this data was initially published | Other
 Darja Dërmaku-Appelganz |  | audio post-processing | Author
+Russell Gray |  | Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Mixe-Zoquean study. | Author
 Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other
 
 
