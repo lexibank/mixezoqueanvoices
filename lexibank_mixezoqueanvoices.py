@@ -141,6 +141,7 @@ class Dataset(BaseDataset):
                         value = row[0].strip()
                         if i > 0:
                             param_id = row[1].strip()
+                            comment = row[2].strip() if len(row) > 2 else None
                             if param_id in known_param_ids:
                                 if value == '►' or language['IsProto'] == 'True':
                                     new = ds.add_form_with_segments(
@@ -150,6 +151,7 @@ class Dataset(BaseDataset):
                                         Value=value,
                                         Form=self.form_spec.clean(self.lexemes.get(value, value)),
                                         Segments=[''],
+                                        Comment=comment,
                                         Loan=False,
                                         Source=source,
                                     )
@@ -160,6 +162,7 @@ class Dataset(BaseDataset):
                                         Parameter_ID=param_id,
                                         Value=value,
                                         Form=self.form_spec.clean(self.lexemes.get(value, value)),
+                                        Comment=comment,
                                         Loan=False,
                                         Source=source,
                                     )
