@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1-9-g56144e0",
+            "dc:created": "v1.0.1-10-g47136cb",
             "dc:title": "Repository"
         },
         {
@@ -274,7 +274,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 9993,
+            "dc:extent": 12168,
             "tableSchema": {
                 "columns": [
                     {
