@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1-10-g47136cb",
+            "dc:created": "v1.0.1-11-g84e897b",
             "dc:title": "Repository"
         },
         {
