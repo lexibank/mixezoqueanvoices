@@ -20,6 +20,7 @@ məheji,23_above,
 kəʔəji,24_below,
 hohməʔ,26_at,
 kopak,27_head,
+waj,28_hair,
 witəm,29_eye,
 kina,30_nose,
 ta:tsək,31_ear,
@@ -59,7 +60,7 @@ tsuʔuj,70_night,
 ma:tsaʔ,72_star,
 ko:tsək,73_sky,
 nəʔ,74_water,
-kana,75_lake,
+nəʔ,75_lake,
 huktek,77_fire,
 joko,78_smoke,
 tsaʔ,80_stone,
@@ -70,6 +71,7 @@ tuh,84_rain,
 sawa,86_wind,
 nəja:nəjə,88_thunder,
 sis,90_meatflesh,
+kana,91_salt,
 məhata:nə,94_woodsforest,
 taʔanə,96_branch,
 jaj,97_leaf,
@@ -89,8 +91,10 @@ teteʔ,112_small,
 pəhəji,113_long,
 tʃətəʔ,114_short,
 tsanga,115_thick,
+kaji,116_thin,
 məjaʔ,117_narrow,
 təpah,123_painfulsick,
+tsa:mbə,122_old,
 wəhəʔ,124_good,
 ja:tsi,125_bad,
 wəhti,126_correcttrue,
@@ -98,6 +102,8 @@ putspəw,128_rotten,
 hemets,130_heavy,
 jaʔaji,131_far,
 tomeʔ,132_near,
+nəɲə:tsɲamu,133_warm,
+mamnəmba,134_cold,
 təjtsu,135_dry,təjts-PAST 'he dried (it) < təjts- 'to dry (it)'
 məhpə:w,136_wet,
 homeʔ,137_new,
@@ -108,10 +114,12 @@ məhaʔaja,141_grow,
 te:ntʃujə,142_stand,te:ntʃuj-PAST 'he stood' < te:ntʃuj- 'to stand'
 po:ksə,143_sit,po:ks-PAST 'he sat' < po:ks- 'to sit'
 kekpa,144_fall,kek-IMP 'fall!' < kek- 'to fall'
+kənmajə,146_turn,
 ke:mə,147_climb,ke:m-PAST 'he climbed' < ke:m- 'to climb'
 nəwihu,148_swim,nəwih-PAST 'he swam' <nəwih- 'to swim'
 ʃitihtu,149_flyverb,???
 patspə,150_throw,patsp-IMP  'threw!' < patsp- 'to throw'
+aŋəwə:nə,151_hide,aŋəwə:n-PAST 'he hid' < aŋəwə:n- 'to hide'
 kəsə,152_chew,kəs-PAST 'he chewed' < kəs- 'to chew'
 wiʔikə,153_eat,w i.ʔ.i k-PAST 'he ate' < w i.ʔ.i k- 'to eat'
 ukə,154_drink,uk-PAST 'he drank' < uk- 'to drink'
@@ -129,7 +137,9 @@ mʲuspa,167_know,Mus-PAST 'he knew' < mus- 'to know'
 kʲipspa,168_think,Kips-PAST 'he thought' < kips- 'to think'
 sikpa,169_laugh,sik-IMP 'laugh!' < sik- 'to laugh'
 wʲehu,170_cry,Weh-PAST 'he cried' < weh- 'to cry'
+nəpjombə:,172_burn,nəpjom-PAST 'he burnt (it)' <nəpjom- 'to burn (it)'
 nəmʲa:mə,173_flow,???
+naksə,176_hit,naks-PAST 'he hit' < naks- 'to hit' 
 təksə,177_cut,təks-PAST 'he cut'< təks- 'to cut'
 nəputə,179_dig,nəput-PAST 'he dag' < nəput- 'to dig'
 nəpahku,181_hold,nəpahk-PAST 'he held' < nəpahk- 'to hold'

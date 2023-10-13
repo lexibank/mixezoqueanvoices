@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1-7-gdc88b7e",
+            "dc:created": "v1.0.1-8-g9ef9717",
             "dc:title": "Repository"
         },
         {
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 4304,
+            "dc:extent": 4341,
             "tableSchema": {
                 "columns": [
                     {

@@ -950,6 +950,7 @@ Chapultenangospkr4-23_above-1,,Chapultenangospkr4,23_above,kə:si,kə:si,k ə: s
 Chapultenangospkr4-24_below-1,,Chapultenangospkr4,24_below,mə:nə,mə:nə,m ə: n ə,,Kondic2023,,false,^ m ə: n ə $,default
 Chapultenangospkr4-26_at-1,,Chapultenangospkr4,26_at,hohmo,hohmo,h o h m o,,Kondic2023,,false,^ h o h m o $,default
 Chapultenangospkr4-27_head-1,,Chapultenangospkr4,27_head,kowahk,kowahk,k o w a h k,,Kondic2023,,false,^ k o w a h k $,default
+Chapultenangospkr4-28_hair-1,,Chapultenangospkr4,28_hair,wahʲ,wahʲ,w a hʲ,,Kondic2023,,false,^ w a hʲ $,default
 Chapultenangospkr4-29_eye-1,,Chapultenangospkr4,29_eye,wi:dəm,wi:dəm,w i: d ə m,,Kondic2023,,false,^ w i: d ə m $,default
 Chapultenangospkr4-30_nose-1,,Chapultenangospkr4,30_nose,ki:nə,ki:nə,k i: n ə,,Kondic2023,,false,^ k i: n ə $,default
 Chapultenangospkr4-31_ear-1,,Chapultenangospkr4,31_ear,tatsəhk,tatsəhk,t a ts ə h k,,Kondic2023,,false,^ t a ts ə h k $,default
@@ -1030,10 +1031,12 @@ Chapultenangospkr4-112_small-1,,Chapultenangospkr4,112_small,tsətə,tsətə,ts 
 Chapultenangospkr4-113_long-1,,Chapultenangospkr4,113_long,pəji:wə,pəji:wə,p ə j i: w ə,,Kondic2023,,false,^ p ə j i: w ə $,default
 Chapultenangospkr4-114_short-1,,Chapultenangospkr4,114_short,kənə,kənə,k ə n ə,,Kondic2023,,false,^ k ə n ə $,default
 Chapultenangospkr4-115_thick-1,,Chapultenangospkr4,115_thick,məhawə,məhawə,m ə h a w ə,,Kondic2023,,false,^ m ə h a w ə $,default
+Chapultenangospkr4-116_thin-1,,Chapultenangospkr4,116_thin,təhtsuwə,təhtsuwə,t ə h ts u w ə,,Kondic2023,,false,^ t ə h ts u w ə $,default
 Chapultenangospkr4-117_narrow-1,,Chapultenangospkr4,117_narrow,məha,məha,m ə h a,,Kondic2023,,false,^ m ə h a $,default
 Chapultenangospkr4-118_wide-1,,Chapultenangospkr4,118_wide,məhapə,məhapə,m ə h a p ə,,Kondic2023,,false,^ m ə h a p ə $,default
 Chapultenangospkr4-120_bluntdull-1,,Chapultenangospkr4,120_bluntdull,jaɲi:də kowajk,jaɲi:də kowajk,j a ɲ i: d ə + k o w a j k,,Kondic2023,,false,^ j a ɲ i: d ə + k o w a j k $,default
 Chapultenangospkr4-121_shyashamed-1,,Chapultenangospkr4,121_shyashamed,jahkʃu,jahkʃu,j a h k ʃ u,,Kondic2023,,false,^ j a h k ʃ u $,default
+Chapultenangospkr4-122_old-1,,Chapultenangospkr4,122_old,atʃpə,atʃpə,a tʃ p ə,,Kondic2023,,false,^ a tʃ p ə $,default
 Chapultenangospkr4-123_painfulsick-1,,Chapultenangospkr4,123_painfulsick,təwija:wə,təwija:wə,t ə w i j a: w ə,,Kondic2023,,false,^ t ə w i j a: w ə $,default
 Chapultenangospkr4-124_good-1,,Chapultenangospkr4,124_good,wəwə,wəwə,w ə w ə,,Kondic2023,,false,^ w ə w ə $,default
 Chapultenangospkr4-125_bad-1,,Chapultenangospkr4,125_bad,hatʃkuj,hatʃkuj,h a tʃ k u j,,Kondic2023,,false,^ h a tʃ k u j $,default
@@ -1042,6 +1045,8 @@ Chapultenangospkr4-129_all-1,,Chapultenangospkr4,129_all,əhtsi:dəm,əhtsi:dəm
 Chapultenangospkr4-130_heavy-1,,Chapultenangospkr4,130_heavy,hemets,hemets,h e m e ts,,Kondic2023,,false,^ h e m e ts $,default
 Chapultenangospkr4-131_far-1,,Chapultenangospkr4,131_far,jaji:wə,jaji:wə,j a j i: w ə,,Kondic2023,,false,^ j a j i: w ə $,default
 Chapultenangospkr4-132_near-1,,Chapultenangospkr4,132_near,təme:wə,təme:wə,t ə m e: w ə,,Kondic2023,,false,^ t ə m e: w ə $,default
+Chapultenangospkr4-133_warm-1,,Chapultenangospkr4,133_warm,ningə,ningə,n i n g ə,,Kondic2023,,false,^ n i n g ə $,default
+Chapultenangospkr4-134_cold-1,,Chapultenangospkr4,134_cold,mamba,mamba,m a m b a,,Kondic2023,,false,^ m a m b a $,default
 Chapultenangospkr4-135_dry-1,,Chapultenangospkr4,135_dry,təhtsəj,təhtsəj,t ə h ts ə j,təhts-PAST 'he dried (it)' < təhts- 'to dry',Kondic2023,,false,^ t ə h ts ə j $,default
 Chapultenangospkr4-137_new-1,,Chapultenangospkr4,137_new,homewə,homewə,h o m e w ə,,Kondic2023,,false,^ h o m e w ə $,default
 Chapultenangospkr4-138_other-1,,Chapultenangospkr4,138_other,eja:pə,eja:pə,e j a: p ə,,Kondic2023,,false,^ e j a: p ə $,default
@@ -1051,6 +1056,8 @@ Chapultenangospkr4-141_grow-1,,Chapultenangospkr4,141_grow,pu:ahkuj,pu:ahkuj,p u
 Chapultenangospkr4-142_stand-1,,Chapultenangospkr4,142_stand,te:na,te:na,t e: n a,te:n-PAST 'he stood' < te:n- 'to stand',Kondic2023,,false,^ t e: n a $,default
 Chapultenangospkr4-143_sit-1,,Chapultenangospkr4,143_sit,po:ksə,po:ksə,p o: k s ə,po:ks-PAST 'he sat' < poks- 'to sit',Kondic2023,,false,^ p o: k s ə $,default
 Chapultenangospkr4-144_fall-1,,Chapultenangospkr4,144_fall,kehkuj,kehkuj,k e h k u j,kehk-PAST 'he fell' < kehk- 'to fall',Kondic2023,,false,^ k e h k u j $,default
+Chapultenangospkr4-146_turn-1,,Chapultenangospkr4,146_turn,a:mə,a:mə,a: m ə,,Kondic2023,,false,^ a: m ə $,default
+Chapultenangospkr4-147_climb-1,,Chapultenangospkr4,147_climb,kəsij,kəsij,k ə s i j,kəs-PAST 'he hid' < kəs- 'to hide',Kondic2023,,false,^ k ə s i j $,default
 Chapultenangospkr4-149_flyverb-1,,Chapultenangospkr4,149_flyverb,sidihk,sidihk,s i d i h k,???,Kondic2023,,false,^ s i d i h k $,default
 Chapultenangospkr4-150_throw-1,,Chapultenangospkr4,150_throw,tsijə,tsijə,ts i j ə,tsij-PAST 'he threw' <tsij-  'to throw',Kondic2023,,false,^ ts i j ə $,default
 Chapultenangospkr4-152_chew-1,,Chapultenangospkr4,152_chew,kəʔəsə,kəʔəsə,k ə.ʔ.ə s ə,?? k ə.ʔ.ə s-?? '???' < kə.ʔ.ə s- 'to chew',Kondic2023,,false,^ k əʔə s ə $,default
@@ -1070,7 +1077,9 @@ Chapultenangospkr4-168_think-1,,Chapultenangospkr4,168_think,kipsokjuj,kipsokjuj
 Chapultenangospkr4-169_laugh-1,,Chapultenangospkr4,169_laugh,sihkuj,sihkuj,s i h k u j,sihk-PAST 'I laughed' < sihk- 'to laugh',Kondic2023,,false,^ s i h k u j $,default
 Chapultenangospkr4-170_cry-1,,Chapultenangospkr4,170_cry,həkjuj,həkjuj,h ə k j u j,?? həkj-PAST 'I cried' < həkj- 'to cry',Kondic2023,,false,^ h ə k j u j $,default
 Chapultenangospkr4-171_blow-1,,Chapultenangospkr4,171_blow,tʃisagwa,tʃisagwa,tʃ i s a g w a,tʃisagwa …....???? Tisa-???,Kondic2023,,false,^ tʃ i s a g w a $,default
+Chapultenangospkr4-172_burn-1,,Chapultenangospkr4,172_burn,mapəwij,mapəwij,m a p ə w i j,mapəw-PAST 'he burnt (it)'< mapəw- 'to dry',Kondic2023,,false,^ m a p ə w i j $,default
 Chapultenangospkr4-173_flow-1,,Chapultenangospkr4,173_flow,mangbanə,mangbanə,m a n g b a n ə,???,Kondic2023,,false,^ m a n g b a n ə $,default
+Chapultenangospkr4-176_hit-1,,Chapultenangospkr4,176_hit,tsiʔjə,tsiʔjə,ts i ʔ j ə,tsiʔ-PAST 'he hit' < tsiʔ- 'to hit',Kondic2023,,false,^ ts i ʔ j ə $,default
 Chapultenangospkr4-178_split-1,,Chapultenangospkr4,178_split,idəkoma,idəkoma,i d ə k o m a,??,Kondic2023,,false,^ i d ə k o m a $,default
 Chapultenangospkr4-179_dig-1,,Chapultenangospkr4,179_dig,nəwədə,nəwədə,n ə w ə d ə,nəwəd-PAST 'he dag' < nəwəd- 'to dig',Kondic2023,,false,^ n ə w ə d ə $,default
 Chapultenangospkr4-180_hunt-1,,Chapultenangospkr4,180_hunt,ka:kopən,ka:kopən,k a: k o p ə n,???,Kondic2023,,false,^ k a: k o p ə n $,default
@@ -1300,6 +1309,7 @@ Franciscoleon-23_above-1,,Franciscoleon,23_above,məheji,məheji,m ə h e j i,,K
 Franciscoleon-24_below-1,,Franciscoleon,24_below,kəʔəji,kəʔəji,k ə.ʔ.ə j i,,Kondic2023,,false,^ k əʔə j i $,default
 Franciscoleon-26_at-1,,Franciscoleon,26_at,hohməʔ,hohməʔ,h o h m ə ʔ,,Kondic2023,,false,^ h o h m ə ʔ $,default
 Franciscoleon-27_head-1,,Franciscoleon,27_head,kopak,kopak,k o p a k,,Kondic2023,,false,^ k o p a k $,default
+Franciscoleon-28_hair-1,,Franciscoleon,28_hair,waj,waj,w a j,,Kondic2023,,false,^ w a j $,default
 Franciscoleon-29_eye-1,,Franciscoleon,29_eye,witəm,witəm,w i t ə m,,Kondic2023,,false,^ w i t ə m $,default
 Franciscoleon-30_nose-1,,Franciscoleon,30_nose,kina,kina,k i n a,,Kondic2023,,false,^ k i n a $,default
 Franciscoleon-31_ear-1,,Franciscoleon,31_ear,ta:tsək,ta:tsək,t a: ts ə k,,Kondic2023,,false,^ t a: ts ə k $,default
@@ -1339,7 +1349,7 @@ Franciscoleon-70_night-1,,Franciscoleon,70_night,tsuʔuj,tsuʔuj,ts u.ʔ.u j,,Ko
 Franciscoleon-72_star-1,,Franciscoleon,72_star,ma:tsaʔ,ma:tsaʔ,m a: ts a ʔ,,Kondic2023,,false,^ m a: ts a ʔ $,default
 Franciscoleon-73_sky-1,,Franciscoleon,73_sky,ko:tsək,ko:tsək,k o: ts ə k,,Kondic2023,,false,^ k o: ts ə k $,default
 Franciscoleon-74_water-1,,Franciscoleon,74_water,nəʔ,nəʔ,n ə ʔ,,Kondic2023,,false,^ n ə ʔ $,default
-Franciscoleon-75_lake-1,,Franciscoleon,75_lake,kana,kana,k a n a,,Kondic2023,,false,^ k a n a $,default
+Franciscoleon-75_lake-1,,Franciscoleon,75_lake,nəʔ,nəʔ,n ə ʔ,,Kondic2023,,false,^ n ə ʔ $,default
 Franciscoleon-77_fire-1,,Franciscoleon,77_fire,huktek,huktek,h u k t e k,,Kondic2023,,false,^ h u k t e k $,default
 Franciscoleon-78_smoke-1,,Franciscoleon,78_smoke,joko,joko,j o k o,,Kondic2023,,false,^ j o k o $,default
 Franciscoleon-80_stone-1,,Franciscoleon,80_stone,tsaʔ,tsaʔ,ts a ʔ,,Kondic2023,,false,^ ts a ʔ $,default
@@ -1350,6 +1360,7 @@ Franciscoleon-84_rain-1,,Franciscoleon,84_rain,tuh,tuh,t u h,,Kondic2023,,false,
 Franciscoleon-86_wind-1,,Franciscoleon,86_wind,sawa,sawa,s a w a,,Kondic2023,,false,^ s a w a $,default
 Franciscoleon-88_thunder-1,,Franciscoleon,88_thunder,nəja:nəjə,nəja:nəjə,n ə j a: n ə j ə,,Kondic2023,,false,^ n ə j a: n ə j ə $,default
 Franciscoleon-90_meatflesh-1,,Franciscoleon,90_meatflesh,sis,sis,s i s,,Kondic2023,,false,^ s i s $,default
+Franciscoleon-91_salt-1,,Franciscoleon,91_salt,kana,kana,k a n a,,Kondic2023,,false,^ k a n a $,default
 Franciscoleon-94_woodsforest-1,,Franciscoleon,94_woodsforest,məhata:nə,məhata:nə,m ə h a t a: n ə,,Kondic2023,,false,^ m ə h a t a: n ə $,default
 Franciscoleon-96_branch-1,,Franciscoleon,96_branch,taʔanə,taʔanə,t a.ʔ.a n ə,,Kondic2023,,false,^ t aʔa n ə $,default
 Franciscoleon-97_leaf-1,,Franciscoleon,97_leaf,jaj,jaj,j a j,,Kondic2023,,false,^ j a j $,default
@@ -1369,8 +1380,10 @@ Franciscoleon-112_small-1,,Franciscoleon,112_small,teteʔ,teteʔ,t e t e ʔ,,Kon
 Franciscoleon-113_long-1,,Franciscoleon,113_long,pəhəji,pəhəji,p ə h ə j i,,Kondic2023,,false,^ p ə h ə j i $,default
 Franciscoleon-114_short-1,,Franciscoleon,114_short,tʃətəʔ,tʃətəʔ,tʃ ə t ə ʔ,,Kondic2023,,false,^ tʃ ə t ə ʔ $,default
 Franciscoleon-115_thick-1,,Franciscoleon,115_thick,tsanga,tsanga,ts a n g a,,Kondic2023,,false,^ ts a n g a $,default
+Franciscoleon-116_thin-1,,Franciscoleon,116_thin,kaji,kaji,k a j i,,Kondic2023,,false,^ k a j i $,default
 Franciscoleon-117_narrow-1,,Franciscoleon,117_narrow,məjaʔ,məjaʔ,m ə j a ʔ,,Kondic2023,,false,^ m ə j a ʔ $,default
 Franciscoleon-123_painfulsick-1,,Franciscoleon,123_painfulsick,təpah,təpah,t ə p a h,,Kondic2023,,false,^ t ə p a h $,default
+Franciscoleon-122_old-1,,Franciscoleon,122_old,tsa:mbə,tsa:mbə,ts a: m b ə,,Kondic2023,,false,^ ts a: m b ə $,default
 Franciscoleon-124_good-1,,Franciscoleon,124_good,wəhəʔ,wəhəʔ,w ə h ə ʔ,,Kondic2023,,false,^ w ə h ə ʔ $,default
 Franciscoleon-125_bad-1,,Franciscoleon,125_bad,ja:tsi,ja:tsi,j a: ts i,,Kondic2023,,false,^ j a: ts i $,default
 Franciscoleon-126_correcttrue-1,,Franciscoleon,126_correcttrue,wəhti,wəhti,w ə h t i,,Kondic2023,,false,^ w ə h t i $,default
@@ -1378,6 +1391,8 @@ Franciscoleon-128_rotten-1,,Franciscoleon,128_rotten,putspəw,putspəw,p u ts p 
 Franciscoleon-130_heavy-1,,Franciscoleon,130_heavy,hemets,hemets,h e m e ts,,Kondic2023,,false,^ h e m e ts $,default
 Franciscoleon-131_far-1,,Franciscoleon,131_far,jaʔaji,jaʔaji,j a.ʔ.a j i,,Kondic2023,,false,^ j aʔa j i $,default
 Franciscoleon-132_near-1,,Franciscoleon,132_near,tomeʔ,tomeʔ,t o m e ʔ,,Kondic2023,,false,^ t o m e ʔ $,default
+Franciscoleon-133_warm-1,,Franciscoleon,133_warm,nəɲə:tsɲamu,nəɲə:tsɲamu,n ə ɲ ə: ts ɲ a m u,,Kondic2023,,false,^ n ə ɲ ə: ts ɲ a m u $,default
+Franciscoleon-134_cold-1,,Franciscoleon,134_cold,mamnəmba,mamnəmba,m a m n ə m b a,,Kondic2023,,false,^ m a m n ə m b a $,default
 Franciscoleon-135_dry-1,,Franciscoleon,135_dry,təjtsu,təjtsu,t ə j ts u,təjts-PAST 'he dried (it) < təjts- 'to dry (it)',Kondic2023,,false,^ t ə j ts u $,default
 Franciscoleon-136_wet-1,,Franciscoleon,136_wet,məhpə:w,məhpə:w,m ə h p ə: w,,Kondic2023,,false,^ m ə h p ə: w $,default
 Franciscoleon-137_new-1,,Franciscoleon,137_new,homeʔ,homeʔ,h o m e ʔ,,Kondic2023,,false,^ h o m e ʔ $,default
@@ -1388,10 +1403,12 @@ Franciscoleon-141_grow-1,,Franciscoleon,141_grow,məhaʔaja,məhaʔaja,m ə h a.
 Franciscoleon-142_stand-1,,Franciscoleon,142_stand,te:ntʃujə,te:ntʃujə,t e: n tʃ u j ə,te:ntʃuj-PAST 'he stood' < te:ntʃuj- 'to stand',Kondic2023,,false,^ t e: n tʃ u j ə $,default
 Franciscoleon-143_sit-1,,Franciscoleon,143_sit,po:ksə,po:ksə,p o: k s ə,po:ks-PAST 'he sat' < po:ks- 'to sit',Kondic2023,,false,^ p o: k s ə $,default
 Franciscoleon-144_fall-1,,Franciscoleon,144_fall,kekpa,kekpa,k e k p a,kek-IMP 'fall!' < kek- 'to fall',Kondic2023,,false,^ k e k p a $,default
+Franciscoleon-146_turn-1,,Franciscoleon,146_turn,kənmajə,kənmajə,k ə n m a j ə,,Kondic2023,,false,^ k ə n m a j ə $,default
 Franciscoleon-147_climb-1,,Franciscoleon,147_climb,ke:mə,ke:mə,k e: m ə,ke:m-PAST 'he climbed' < ke:m- 'to climb',Kondic2023,,false,^ k e: m ə $,default
 Franciscoleon-148_swim-1,,Franciscoleon,148_swim,nəwihu,nəwihu,n ə w i h u,nəwih-PAST 'he swam' <nəwih- 'to swim',Kondic2023,,false,^ n ə w i h u $,default
 Franciscoleon-149_flyverb-1,,Franciscoleon,149_flyverb,ʃitihtu,ʃitihtu,ʃ i t i h t u,???,Kondic2023,,false,^ ʃ i t i h t u $,default
 Franciscoleon-150_throw-1,,Franciscoleon,150_throw,patspə,patspə,p a ts p ə,patsp-IMP  'threw!' < patsp- 'to throw',Kondic2023,,false,^ p a ts p ə $,default
+Franciscoleon-151_hide-1,,Franciscoleon,151_hide,aŋəwə:nə,aŋəwə:nə,a ŋ ə w ə: n ə,aŋəwə:n-PAST 'he hid' < aŋəwə:n- 'to hide',Kondic2023,,false,^ a ŋ ə w ə: n ə $,default
 Franciscoleon-152_chew-1,,Franciscoleon,152_chew,kəsə,kəsə,k ə s ə,kəs-PAST 'he chewed' < kəs- 'to chew',Kondic2023,,false,^ k ə s ə $,default
 Franciscoleon-153_eat-1,,Franciscoleon,153_eat,wiʔikə,wiʔikə,w i ʔ i k ə,w i.ʔ.i k-PAST 'he ate' < w i.ʔ.i k- 'to eat',Kondic2023,,false,^ w i ʔ i k ə $,default
 Franciscoleon-154_drink-1,,Franciscoleon,154_drink,ukə,ukə,u k ə,uk-PAST 'he drank' < uk- 'to drink',Kondic2023,,false,^ u k ə $,default
@@ -1409,7 +1426,9 @@ Franciscoleon-167_know-1,,Franciscoleon,167_know,mʲuspa,mʲuspa,mʲ u s p a,Mus
 Franciscoleon-168_think-1,,Franciscoleon,168_think,kʲipspa,kʲipspa,kʲ i p s p a,Kips-PAST 'he thought' < kips- 'to think',Kondic2023,,false,^ kʲ i p s p a $,default
 Franciscoleon-169_laugh-1,,Franciscoleon,169_laugh,sikpa,sikpa,s i k p a,sik-IMP 'laugh!' < sik- 'to laugh',Kondic2023,,false,^ s i k p a $,default
 Franciscoleon-170_cry-1,,Franciscoleon,170_cry,wʲehu,wʲehu,wʲ e h u,Weh-PAST 'he cried' < weh- 'to cry',Kondic2023,,false,^ wʲ e h u $,default
+Franciscoleon-172_burn-1,,Franciscoleon,172_burn,nəpjombə:,nəpjombə:,n ə p j o m b ə:,nəpjom-PAST 'he burnt (it)' <nəpjom- 'to burn (it)',Kondic2023,,false,^ n ə p j o m b ə: $,default
 Franciscoleon-173_flow-1,,Franciscoleon,173_flow,nəmʲa:mə,nəmʲa:mə,n ə mʲ a: m ə,???,Kondic2023,,false,^ n ə mʲ a: m ə $,default
+Franciscoleon-176_hit-1,,Franciscoleon,176_hit,naksə,naksə,n a k s ə,naks-PAST 'he hit' < naks- 'to hit',Kondic2023,,false,^ n a k s ə $,default
 Franciscoleon-177_cut-1,,Franciscoleon,177_cut,təksə,təksə,t ə k s ə,təks-PAST 'he cut'< təks- 'to cut',Kondic2023,,false,^ t ə k s ə $,default
 Franciscoleon-179_dig-1,,Franciscoleon,179_dig,nəputə,nəputə,n ə p u t ə,nəput-PAST 'he dag' < nəput- 'to dig',Kondic2023,,false,^ n ə p u t ə $,default
 Franciscoleon-181_hold-1,,Franciscoleon,181_hold,nəpahku,nəpahku,n ə p a h k u,nəpahk-PAST 'he held' < nəpahk- 'to hold',Kondic2023,,false,^ n ə p a h k u $,default
@@ -3019,6 +3038,7 @@ Rayon-24_below-1,,Rayon,24_below,kəwehkohmə,kəwehkohmə,k ə w e h k o h m ə
 Rayon-25_ininside-1,,Rayon,25_ininside,hohməʔ,hohməʔ,h o h m ə ʔ,,Kondic2023,,false,^ h o h m ə ʔ $,default
 Rayon-26_at-1,,Rayon,26_at,hohməʔ,hohməʔ,h o h m ə ʔ,,Kondic2023,,false,^ h o h m ə ʔ $,default
 Rayon-27_head-1,,Rayon,27_head,kowak,kowak,k o w a k,,Kondic2023,,false,^ k o w a k $,default
+Rayon-28_hair-1,,Rayon,28_hair,waj,waj,w a j,,Kondic2023,,false,^ w a j $,default
 Rayon-29_eye-1,,Rayon,29_eye,wi:dəp,wi:dəp,w i: d ə p,,Kondic2023,,false,^ w i: d ə p $,default
 Rayon-30_nose-1,,Rayon,30_nose,kinə,kinə,k i n ə,,Kondic2023,,false,^ k i n ə $,default
 Rayon-31_ear-1,,Rayon,31_ear,ta:tsək,ta:tsək,t a: ts ə k,,Kondic2023,,false,^ t a: ts ə k $,default
@@ -3104,10 +3124,12 @@ Rayon-112_small-1,,Rayon,112_small,tʃəbə,tʃəbə,tʃ ə b ə,,Kondic2023,,fa
 Rayon-113_long-1,,Rayon,113_long,pəhi:wə,pəhi:wə,p ə h i: w ə,,Kondic2023,,false,^ p ə h i: w ə $,default
 Rayon-114_short-1,,Rayon,114_short,konoʔwə,konoʔwə,k o n o ʔ w ə,,Kondic2023,,false,^ k o n o ʔ w ə $,default
 Rayon-115_thick-1,,Rayon,115_thick,məjtsa:wjə,məjtsa:wjə,m ə j ts a: w j ə,,Kondic2023,,false,^ m ə j ts a: w j ə $,default
+Rayon-116_thin-1,,Rayon,116_thin,kaji:wə,kaji:wə,k a j i: w ə,,Kondic2023,,false,^ k a j i: w ə $,default
 Rayon-117_narrow-1,,Rayon,117_narrow,kaji:wə,kaji:wə,k a j i: w ə,,Kondic2023,,false,^ k a j i: w ə $,default
 Rayon-118_wide-1,,Rayon,118_wide,peʔetsi:wə,peʔetsi:wə,p e ʔ e ts i: w ə,,Kondic2023,,false,^ p e ʔ e ts i: w ə $,default
 Rayon-119_sharp-1,,Rayon,119_sharp,wiʔinaʔaw,wiʔinaʔaw,w i ʔ i n a.ʔ.a w,,Kondic2023,,false,^ w i ʔ i n aʔa w $,default
 Rayon-121_shyashamed-1,,Rayon,121_shyashamed,tsaʔahkuj,tsaʔahkuj,ts a.ʔ.a h k u j,,Kondic2023,,false,^ ts aʔa h k u j $,default
+Rayon-122_old-1,,Rayon,122_old,ka:nak,ka:nak,k a: n a k,,Kondic2023,,false,^ k a: n a k $,default
 Rayon-123_painfulsick-1,,Rayon,123_painfulsick,tobja:wə,tobja:wə,t o b j a: w ə,,Kondic2023,,false,^ t o b j a: w ə $,default
 Rayon-124_good-1,,Rayon,124_good,wəbə,wəbə,w ə b ə,,Kondic2023,,false,^ w ə b ə $,default
 Rayon-125_bad-1,,Rayon,125_bad,dawəbə,dawəbə,d a w ə b ə,,Kondic2023,,false,^ d a w ə b ə $,default
@@ -3118,6 +3140,8 @@ Rayon-129_all-1,,Rayon,129_all,mumudap,mumudap,m u m u d a p,,Kondic2023,,false,
 Rayon-130_heavy-1,,Rayon,130_heavy,hemets,hemets,h e m e ts,,Kondic2023,,false,^ h e m e ts $,default
 Rayon-131_far-1,,Rayon,131_far,jaʔajə,jaʔajə,j a.ʔ.a j ə,,Kondic2023,,false,^ j aʔa j ə $,default
 Rayon-132_near-1,,Rayon,132_near,tomeʔ,tomeʔ,t o m e ʔ,,Kondic2023,,false,^ t o m e ʔ $,default
+Rayon-133_warm-1,,Rayon,133_warm,me:ŋə,me:ŋə,m e: ŋ ə,,Kondic2023,,false,^ m e: ŋ ə $,default
+Rayon-134_cold-1,,Rayon,134_cold,pakak,pakak,p a k a k,,Kondic2023,,false,^ p a k a k $,default
 Rayon-135_dry-1,,Rayon,135_dry,pəhtsu,pəhtsu,p ə h ts u,pəhts-PAST 'he dried' < pəhts- 'to dry',Kondic2023,,false,^ p ə h ts u $,default
 Rayon-136_wet-1,,Rayon,136_wet,tsoko,tsoko,ts o k o,,Kondic2023,,false,^ ts o k o $,default
 Rayon-137_new-1,,Rayon,137_new,homjə:wə,homjə:wə,h o m j ə: w ə,,Kondic2023,,false,^ h o m j ə: w ə $,default
@@ -3129,10 +3153,12 @@ Rayon-142_stand-1,,Rayon,142_stand,tenakʲu,tenakʲu,t e n a kʲ u,tenaK-PAST 'h
 Rayon-143_sit-1,,Rayon,143_sit,poksku,poksku,p o k s k u,poksk-PAST 'he sat' < poksk- 'to sit down',Kondic2023,,false,^ p o k s k u $,default
 Rayon-144_fall-1,,Rayon,144_fall,kehku,kehku,k e h k u,kehk-PAST 'it fell' < kehk- 'to fall',Kondic2023,,false,^ k e h k u $,default
 Rayon-145_liedown-1,,Rayon,145_liedown,janakʲuj,janakʲuj,j a n a kʲ u j,janaK-PAST 'he lied down' < janak- 'to lie down',Kondic2023,,false,^ j a n a kʲ u j $,default
+Rayon-146_turn-1,,Rayon,146_turn,pakseʔədu,pakseʔədu,p a k s e.ʔ.ə d u,,Kondic2023,,false,^ p a k s eʔə d u $,default
 Rayon-147_climb-1,,Rayon,147_climb,kimgu,kimgu,k i m g u,kimg-PAST 'he climbed' < kimg- 'to climb',Kondic2023,,false,^ k i m g u $,default
 Rayon-148_swim-1,,Rayon,148_swim,suŋuj,suŋuj,s u ŋ u j,suŋ-PAST 'he swam' <suŋ- 'to swim',Kondic2023,,false,^ s u ŋ u j $,default
 Rayon-149_flyverb-1,,Rayon,149_flyverb,kəjəʔəkuj,kəjəʔəkuj,k ə j ə.ʔ.ə k u j,k ə j ə.ʔ.ə k-PAST 'it flew' < k ə j ə.ʔ.ə k- 'to fly',Kondic2023,,false,^ k ə j əʔə k u j $,default
 Rayon-150_throw-1,,Rayon,150_throw,tənbə:ku,tənbə:ku,t ə n b ə: k u,tənbə:k-PAST 'he threw' < tənbə:k- 'to throw',Kondic2023,,false,^ t ə n b ə: k u $,default
+Rayon-151_hide-1,,Rayon,151_hide,kəwəŋa,kəwəŋa,k ə w ə ŋ a,kəwəŋ-PAST 'he hide' < kəwəŋ- 'to hide',Kondic2023,,false,^ k ə w ə ŋ a $,default
 Rayon-152_chew-1,,Rayon,152_chew,waskuj,waskuj,w a s k u j,wask-PAST 'he chewed' < wask- 'to chew',Kondic2023,,false,^ w a s k u j $,default
 Rayon-153_eat-1,,Rayon,153_eat,ku:tkuj,ku:tkuj,k u: t k u j,ku:tk-PAST 'he ate' < ku:tk- 'to eat',Kondic2023,,false,^ k u: t k u j $,default
 Rayon-154_drink-1,,Rayon,154_drink,toʔoŋuj,toʔoŋuj,t o.ʔ.o ŋ u j,t o.ʔ.o ŋ-PAST 'he drank' < t o.ʔ.o ŋ-  'to drink',Kondic2023,,false,^ t oʔo ŋ u j $,default
@@ -3153,9 +3179,11 @@ Rayon-168_think-1,,Rayon,168_think,kipsu,kipsu,k i p s u,kips-PAST 'he thought' 
 Rayon-169_laugh-1,,Rayon,169_laugh,sikuj,sikuj,s i k u j,sik-PAST 'he laughed' < sik- 'to laugh',Kondic2023,,false,^ s i k u j $,default
 Rayon-170_cry-1,,Rayon,170_cry,həkjuj,həkjuj,h ə k j u j,həkj-PAST 'he cried' < həkj- 'to cry',Kondic2023,,false,^ h ə k j u j $,default
 Rayon-171_blow-1,,Rayon,171_blow,suhkuj,suhkuj,s u h k u j,suhk-PAST 'he blew' < suhk- 'to blow',Kondic2023,,false,^ s u h k u j $,default
+Rayon-172_burn-1,,Rayon,172_burn,po:mu,po:mu,p o: m u,po:m-PAST 'he burnt (it)' < po:m- 'to burn',Kondic2023,,false,^ p o: m u $,default
 Rayon-173_flow-1,,Rayon,173_flow,powjawənəʔ,powjawənəʔ,p o w j a w ə n ə ʔ,powjawənəʔ  ?????,Kondic2023,,false,^ p o w j a w ə n ə ʔ $,default
 Rayon-174_sew-1,,Rayon,174_sew,nakuj,nakuj,n a k u j,nak-PAST 'he sewed' < nak- 'to sew',Kondic2023,,false,^ n a k u j $,default
 Rayon-175_pound-1,,Rayon,175_pound,jʲuʔudu,jʲuʔudu,jʲ u.ʔ.u d u,J u.ʔ.u d-PAST 'he beated' < h u.ʔ.u d u- 'to beat',Kondic2023,,false,^ jʲ uʔu d u $,default
+Rayon-176_hit-1,,Rayon,176_hit,ɲaksu,ɲaksu,ɲ a k s u,ɲaks-PAST 'he hit' < naks- 'to hit',Kondic2023,,false,^ ɲ a k s u $,default
 Rayon-177_cut-1,,Rayon,177_cut,jʲahku,jʲahku,jʲ a h k u,Jahk-PAST 'he cut' < jahk- 'to cut',Kondic2023,,false,^ jʲ a h k u $,default
 Rayon-178_split-1,,Rayon,178_split,kʲukwe:no,kʲukwe:no,kʲ u k w e: n o,Kukwe:no ???,Kondic2023,,false,^ kʲ u k w e: n o $,default
 Rayon-179_dig-1,,Rayon,179_dig,tahkuj,tahkuj,t a h k u j,tahk-PAST 'he dag' < tahk- 'to dig',Kondic2023,,false,^ t a h k u j $,default
@@ -3371,6 +3399,7 @@ Tapalapa-24_below-1,,Tapalapa,24_below,kə:jihka,kə:jihka,k ə: j i h k a,,Kond
 Tapalapa-25_ininside-1,,Tapalapa,25_ininside,hohmu,hohmu,h o h m u,,Kondic2023,,false,^ h o h m u $,default
 Tapalapa-26_at-1,,Tapalapa,26_at,hohmu,hohmu,h o h m u,,Kondic2023,,false,^ h o h m u $,default
 Tapalapa-27_head-1,,Tapalapa,27_head,kowak,kowak,k o w a k,,Kondic2023,,false,^ k o w a k $,default
+Tapalapa-28_hair-1,,Tapalapa,28_hair,waj,waj,w a j,,Kondic2023,,false,^ w a j $,default
 Tapalapa-29_eye-1,,Tapalapa,29_eye,wi:dəm,wi:dəm,w i: d ə m,,Kondic2023,,false,^ w i: d ə m $,default
 Tapalapa-30_nose-1,,Tapalapa,30_nose,kina,kina,k i n a,,Kondic2023,,false,^ k i n a $,default
 Tapalapa-31_ear-1,,Tapalapa,31_ear,ta:tsəhk,ta:tsəhk,t a: ts ə h k,,Kondic2023,,false,^ t a: ts ə h k $,default
@@ -3458,11 +3487,13 @@ Tapalapa-112_small-1,,Tapalapa,112_small,tʃətəpə,tʃətəpə,tʃ ə t ə p �
 Tapalapa-113_long-1,,Tapalapa,113_long,pə:ji:wə,pə:ji:wə,p ə: j i: w ə,,Kondic2023,,false,^ p ə: j i: w ə $,default
 Tapalapa-114_short-1,,Tapalapa,114_short,ko:ɲo,ko:ɲo,k o: ɲ o,,Kondic2023,,false,^ k o: ɲ o $,default
 Tapalapa-115_thick-1,,Tapalapa,115_thick,tsangawə,tsangawə,ts a n g a w ə,,Kondic2023,,false,^ ts a n g a w ə $,default
+Tapalapa-116_thin-1,,Tapalapa,116_thin,kaji,kaji,k a j i,,Kondic2023,,false,^ k a j i $,default
 Tapalapa-117_narrow-1,,Tapalapa,117_narrow,tʃetu:k,tʃetu:k,tʃ e t u: k,,Kondic2023,,false,^ tʃ e t u: k $,default
 Tapalapa-118_wide-1,,Tapalapa,118_wide,mə:ha:wə,mə:ha:wə,m ə: h a: w ə,,Kondic2023,,false,^ m ə: h a: w ə $,default
 Tapalapa-119_sharp-1,,Tapalapa,119_sharp,itubeʃwi:t,itubeʃwi:t,i t u b e ʃ w i: t,,Kondic2023,,false,^ i t u b e ʃ w i: t $,default
 Tapalapa-120_bluntdull-1,,Tapalapa,120_bluntdull,ha:dəbeʃwi:t,ha:dəbeʃwi:t,h a: d ə b e ʃ w i: t,,Kondic2023,,false,^ h a: d ə b e ʃ w i: t $,default
 Tapalapa-121_shyashamed-1,,Tapalapa,121_shyashamed,tsa:lwja,tsa:lwja,ts a: l w j a,,Kondic2023,,false,^ ts a: l w j a $,default
+Tapalapa-122_old-1,,Tapalapa,122_old,kananpət,kananpət,k a n a n p ə t,,Kondic2023,,false,^ k a n a n p ə t $,default
 Tapalapa-123_painfulsick-1,,Tapalapa,123_painfulsick,totʃuhpa,totʃuhpa,t o tʃ u h p a,,Kondic2023,,false,^ t o tʃ u h p a $,default
 Tapalapa-124_good-1,,Tapalapa,124_good,wə:wə,wə:wə,w ə: w ə,,Kondic2023,,false,^ w ə: w ə $,default
 Tapalapa-125_bad-1,,Tapalapa,125_bad,jatsi:wə,jatsi:wə,j a ts i: w ə,,Kondic2023,,false,^ j a ts i: w ə $,default
@@ -3473,6 +3504,8 @@ Tapalapa-129_all-1,,Tapalapa,129_all,əhtsi:dəm,əhtsi:dəm,ə h ts i: d ə m,,
 Tapalapa-130_heavy-1,,Tapalapa,130_heavy,hemets,hemets,h e m e ts,,Kondic2023,,false,^ h e m e ts $,default
 Tapalapa-131_far-1,,Tapalapa,131_far,jaʔi,jaʔi,j a ʔ i,,Kondic2023,,false,^ j a ʔ i $,default
 Tapalapa-132_near-1,,Tapalapa,132_near,to:mi,to:mi,t o: m i,,Kondic2023,,false,^ t o: m i $,default
+Tapalapa-133_warm-1,,Tapalapa,133_warm,pihnə:,pihnə:,p i h n ə:,,Kondic2023,,false,^ p i h n ə: $,default
+Tapalapa-134_cold-1,,Tapalapa,134_cold,pakak,pakak,p a k a k,,Kondic2023,,false,^ p a k a k $,default
 Tapalapa-135_dry-1,,Tapalapa,135_dry,təhtspa,təhtspa,t ə h ts p a,təhts-IMP 'dry!' < təhts- 'to dry',Kondic2023,,false,^ t ə h ts p a $,default
 Tapalapa-136_wet-1,,Tapalapa,136_wet,tso:kowə,tso:kowə,ts o: k o w ə,,Kondic2023,,false,^ ts o: k o w ə $,default
 Tapalapa-137_new-1,,Tapalapa,137_new,jomə:wə,jomə:wə,j o m ə: w ə,,Kondic2023,,false,^ j o m ə: w ə $,default
@@ -3484,10 +3517,12 @@ Tapalapa-142_stand-1,,Tapalapa,142_stand,deɲu:mba,deɲu:mba,d e ɲ u: m b a,de�
 Tapalapa-143_sit-1,,Tapalapa,143_sit,bjo:kspa,bjo:kspa,b j o: k s p a,?? n-pjo:ks-IMP 'I sat?' < po:ks- 'to sit',Kondic2023,,false,^ b j o: k s p a $,default
 Tapalapa-144_fall-1,,Tapalapa,144_fall,tehkpa,tehkpa,t e h k p a,tehk-IMP 'fall!' < tehk- 'fall',Kondic2023,,false,^ t e h k p a $,default
 Tapalapa-145_liedown-1,,Tapalapa,145_liedown,ə:kəmdjo:spa,ə:kəmdjo:spa,ə: k ə m d j o: s p a,??? ə:kəm-djo:s-pa  ??-sleep-??-IMP,Kondic2023,,false,^ ə: k ə m d j o: s p a $,default
+Tapalapa-146_turn-1,,Tapalapa,146_turn,bjahkpiduwa,bjahkpiduwa,b j a h k p i d u w a,,Kondic2023,,false,^ b j a h k p i d u w a $,default
 Tapalapa-147_climb-1,,Tapalapa,147_climb,ki:mba,ki:mba,k i: m b a,ki:m-IMP 'climb!' <ki:m- 'to climb',Kondic2023,,false,^ k i: m b a $,default
 Tapalapa-148_swim-1,,Tapalapa,148_swim,he:nba,he:nba,h e: n b a,he:n-IMP 'swim!' < he:n- 'to swim',Kondic2023,,false,^ h e: n b a $,default
 Tapalapa-149_flyverb-1,,Tapalapa,149_flyverb,kejewa,kejewa,k e j e w a,??keje-wa ???  keje- 'fly',Kondic2023,,false,^ k e j e w a $,default
 Tapalapa-150_throw-1,,Tapalapa,150_throw,te:kənbə:wa,te:kənbə:wa,t e: k ə n b ə: w a,???,Kondic2023,,false,^ t e: k ə n b ə: w a $,default
+Tapalapa-151_hide-1,,Tapalapa,151_hide,kəwəmba,kəwəmba,k ə w ə m b a,kəwəm-IMP 'hide!' < kəwəm- 'to hide',Kondic2023,,false,^ k ə w ə m b a $,default
 Tapalapa-152_chew-1,,Tapalapa,152_chew,waspa,waspa,w a s p a,was-'IMP 'cook!' < was- 'to cook',Kondic2023,,false,^ w a s p a $,default
 Tapalapa-153_eat-1,,Tapalapa,153_eat,juhpa,juhpa,j u h p a,juh-IMP 'eat!' < juh- 'to eat,Kondic2023,,false,^ j u h p a $,default
 Tapalapa-154_drink-1,,Tapalapa,154_drink,domba,domba,d o m b a,m-ton-IMP  'drink!' < ton- 'to drink',Kondic2023,,false,^ d o m b a $,default
@@ -3508,9 +3543,11 @@ Tapalapa-168_think-1,,Tapalapa,168_think,ki:pspa,ki:pspa,k i: p s p a,ki:ps-IMP 
 Tapalapa-169_laugh-1,,Tapalapa,169_laugh,sihkpa,sihkpa,s i h k p a,sihk-IMP 'laugh!' <sihk- 'to laugh',Kondic2023,,false,^ s i h k p a $,default
 Tapalapa-170_cry-1,,Tapalapa,170_cry,hjə:wia,hjə:wia,h j ə: w i a,hjə:-???? '??' <  hjə:- 'to cry',Kondic2023,,false,^ h j ə: w i a $,default
 Tapalapa-171_blow-1,,Tapalapa,171_blow,suhpa,suhpa,s u h p a,suh-IMP 'blow!' <suh- 'to blow',Kondic2023,,false,^ s u h p a $,default
+Tapalapa-172_burn-1,,Tapalapa,172_burn,po:kəmba,po:kəmba,p o: k ə m b a,po:kəm-IMP 'burn!' <po:kəm- 'to burn',Kondic2023,,false,^ p o: k ə m b a $,default
 Tapalapa-173_flow-1,,Tapalapa,173_flow,makabənə,makabənə,m a k a b ə n ə,?????,Kondic2023,,false,^ m a k a b ə n ə $,default
 Tapalapa-174_sew-1,,Tapalapa,174_sew,na:kpat,na:kpat,n a: k p a t,na:k-IMP 'sew (it)!' <na:k- 'to sew',Kondic2023,,false,^ n a: k p a t $,default
 Tapalapa-175_pound-1,,Tapalapa,175_pound,mə:kpa,mə:kpa,m ə: k p a,mə:k-IMP 'squeeze (it)!' < mə:k- 'to squeeze',Kondic2023,,false,^ m ə: k p a $,default
+Tapalapa-176_hit-1,,Tapalapa,176_hit,ta:kspat,ta:kspat,t a: k s p a t,ta:ks-IMP-?? 'hit!' < ta:ks- 'to hit',Kondic2023,,false,^ t a: k s p a t $,default
 Tapalapa-177_cut-1,,Tapalapa,177_cut,nə:ktspa,nə:ktspa,n ə: k ts p a,nə:kts-IMP 'cut!' < nə:kts- 'to cut',Kondic2023,,false,^ n ə: k ts p a $,default
 Tapalapa-178_split-1,,Tapalapa,178_split,kukwemba,kukwemba,k u k w e m b a,kukwem-IMP 'split (it)!' < kukwem- 'to split',Kondic2023,,false,^ k u k w e m b a $,default
 Tapalapa-179_dig-1,,Tapalapa,179_dig,na:stahpa,na:stahpa,n a: s t a h p a,na:stah-IMP 'dig!' < na:stah- 'to dig',Kondic2023,,false,^ n a: s t a h p a $,default

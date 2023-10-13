@@ -24,6 +24,7 @@ kə:si,23_above,
 mə:nə,24_below,
 hohmo,26_at,
 kowahk,27_head,
+wahʲ,28_hair,
 wi:dəm,29_eye,
 ki:nə,30_nose,
 tatsəhk,31_ear,
@@ -104,10 +105,12 @@ tsətə,112_small,
 pəji:wə,113_long,
 kənə,114_short,
 məhawə,115_thick,
+təhtsuwə,116_thin,
 məha,117_narrow,
 məhapə,118_wide,
 jaɲi:də kowajk,120_bluntdull,
 jahkʃu,121_shyashamed,
+atʃpə,122_old,
 təwija:wə,123_painfulsick,
 wəwə,124_good,
 hatʃkuj,125_bad,
@@ -116,6 +119,8 @@ həwə,126_correcttrue,
 hemets,130_heavy,
 jaji:wə,131_far,
 təme:wə,132_near,
+ningə,133_warm,
+mamba,134_cold,
 təhtsəj,135_dry,təhts-PAST 'he dried (it)' < təhts- 'to dry'
 homewə,137_new,
 eja:pə,138_other,
@@ -125,6 +130,8 @@ pu:ahkuj,141_grow,pu:ahk-PAST 'he grew' <pu:ahk- 'to grow'
 te:na,142_stand,te:n-PAST 'he stood' < te:n- 'to stand'
 po:ksə,143_sit,po:ks-PAST 'he sat' < poks- 'to sit'
 kehkuj,144_fall,kehk-PAST 'he fell' < kehk- 'to fall'
+a:mə,146_turn,
+kəsij,147_climb,kəs-PAST 'he hid' < kəs- 'to hide'
 sidihk,149_flyverb,???
 tsijə,150_throw,tsij-PAST 'he threw' <tsij-  'to throw'
 kəʔəsə,152_chew,?? k ə.ʔ.ə s-?? '???' < kə.ʔ.ə s- 'to chew'
@@ -144,7 +151,9 @@ kipsokjuj,168_think,kipsokj-uj 'I thought' <kipsok- 'to think'
 sihkuj,169_laugh,sihk-PAST 'I laughed' < sihk- 'to laugh'
 həkjuj,170_cry,?? həkj-PAST 'I cried' < həkj- 'to cry'
 tʃisagwa,171_blow,tʃisagwa …....???? Tisa-???
+mapəwij,172_burn,mapəw-PAST 'he burnt (it)'< mapəw- 'to dry'
 mangbanə,173_flow,???
+tsiʔjə,176_hit,tsiʔ-PAST 'he hit' < tsiʔ- 'to hit'
 idəkoma,178_split,??
 nəwədə,179_dig,nəwəd-PAST 'he dag' < nəwəd- 'to dig'
 ka:kopən,180_hunt,???

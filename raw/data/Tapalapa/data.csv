@@ -25,6 +25,7 @@ kə:jihka,24_below,
 hohmu,25_ininside,
 hohmu,26_at,
 kowak,27_head,
+waj,28_hair,
 wi:dəm,29_eye,
 kina,30_nose,
 ta:tsəhk,31_ear,
@@ -112,11 +113,13 @@ tʃətəpə,112_small,
 pə:ji:wə,113_long,
 ko:ɲo,114_short,
 tsangawə,115_thick,
+kaji,116_thin,
 tʃetu:k,117_narrow,
 mə:ha:wə,118_wide,
 itubeʃwi:t,119_sharp,
 ha:dəbeʃwi:t,120_bluntdull,
 tsa:lwja,121_shyashamed,
+kananpət,122_old,
 totʃuhpa,123_painfulsick,
 wə:wə,124_good,
 jatsi:wə,125_bad,
@@ -127,6 +130,8 @@ tokoju:bə,128_rotten,
 hemets,130_heavy,
 jaʔi,131_far,
 to:mi,132_near,
+pihnə:,133_warm,
+pakak,134_cold,
 təhtspa,135_dry,təhts-IMP 'dry!' < təhts- 'to dry'
 tso:kowə,136_wet,
 jomə:wə,137_new,
@@ -138,10 +143,12 @@ deɲu:mba,142_stand,deɲu:mba >n-teɲu:m-ba 'let me stand!' < teɲu:m- 'to stand
 bjo:kspa,143_sit,?? n-pjo:ks-IMP 'I sat?' < po:ks- 'to sit'
 tehkpa,144_fall,tehk-IMP 'fall!' < tehk- 'fall'
 ə:kəmdjo:spa,145_liedown,??? ə:kəm-djo:s-pa  ??-sleep-??-IMP
+bjahkpiduwa,146_turn,
 ki:mba,147_climb,ki:m-IMP 'climb!' <ki:m- 'to climb'
 he:nba,148_swim,he:n-IMP 'swim!' < he:n- 'to swim'
 kejewa,149_flyverb,??keje-wa ???  keje- 'fly'
 te:kənbə:wa,150_throw,???
+kəwəmba,151_hide,kəwəm-IMP 'hide!' < kəwəm- 'to hide'
 waspa,152_chew,was-'IMP 'cook!' < was- 'to cook'
 juhpa,153_eat,juh-IMP 'eat!' < juh- 'to eat
 domba,154_drink,m-ton-IMP  'drink!' < ton- 'to drink'
@@ -162,9 +169,11 @@ ki:pspa,168_think,ki:ps-IMP 'think!' < ki:ps- 'to think'
 sihkpa,169_laugh,sihk-IMP 'laugh!' <sihk- 'to laugh'
 hjə:wia,170_cry,hjə:-???? '??' <  hjə:- 'to cry'
 suhpa,171_blow,suh-IMP 'blow!' <suh- 'to blow'
+po:kəmba,172_burn,po:kəm-IMP 'burn!' <po:kəm- 'to burn'
 makabənə,173_flow,?????
 na:kpat,174_sew,na:k-IMP 'sew (it)!' <na:k- 'to sew'
 mə:kpa,175_pound,mə:k-IMP 'squeeze (it)!' < mə:k- 'to squeeze'
+ta:kspat,176_hit,ta:ks-IMP-?? 'hit!' < ta:ks- 'to hit'
 nə:ktspa,177_cut,nə:kts-IMP 'cut!' < nə:kts- 'to cut'
 kukwemba,178_split,kukwem-IMP 'split (it)!' < kukwem- 'to split'
 na:stahpa,179_dig,na:stah-IMP 'dig!' < na:stah- 'to dig'

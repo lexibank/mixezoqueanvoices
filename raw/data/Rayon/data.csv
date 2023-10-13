@@ -24,6 +24,7 @@ kəwehkohmə,24_below,
 hohməʔ,25_ininside,
 hohməʔ,26_at,
 kowak,27_head,
+waj,28_hair,
 wi:dəp,29_eye,
 kinə,30_nose,
 ta:tsək,31_ear,
@@ -109,10 +110,12 @@ tʃəbə,112_small,
 pəhi:wə,113_long,
 konoʔwə,114_short,
 məjtsa:wjə,115_thick,
+kaji:wə,116_thin,
 kaji:wə,117_narrow,
 peʔetsi:wə,118_wide,
 wiʔinaʔaw,119_sharp,
 tsaʔahkuj,121_shyashamed,
+ka:nak,122_old,
 tobja:wə,123_painfulsick,
 wəbə,124_good,
 dawəbə,125_bad,
@@ -123,6 +126,8 @@ mumudap,129_all,
 hemets,130_heavy,
 jaʔajə,131_far,
 tomeʔ,132_near,
+me:ŋə,133_warm,
+pakak,134_cold,
 pəhtsu,135_dry,pəhts-PAST 'he dried' < pəhts- 'to dry'
 tsoko,136_wet,
 homjə:wə,137_new,
@@ -134,10 +139,12 @@ tenakʲu,142_stand,tenaK-PAST 'he stood' < tenak- 'to stand'
 poksku,143_sit,poksk-PAST 'he sat' < poksk- 'to sit down'
 kehku,144_fall,kehk-PAST 'it fell' < kehk- 'to fall'
 janakʲuj,145_liedown,janaK-PAST 'he lied down' < janak- 'to lie down'
+pakseʔədu,146_turn,
 kimgu,147_climb,kimg-PAST 'he climbed' < kimg- 'to climb'
 suŋuj,148_swim,suŋ-PAST 'he swam' <suŋ- 'to swim'
 kəjəʔəkuj,149_flyverb,k ə j ə.ʔ.ə k-PAST 'it flew' < k ə j ə.ʔ.ə k- 'to fly'
 tənbə:ku,150_throw,tənbə:k-PAST 'he threw' < tənbə:k- 'to throw'
+kəwəŋa,151_hide,kəwəŋ-PAST 'he hide' < kəwəŋ- 'to hide'
 waskuj,152_chew,wask-PAST 'he chewed' < wask- 'to chew'
 ku:tkuj,153_eat,ku:tk-PAST 'he ate' < ku:tk- 'to eat'
 toʔoŋuj,154_drink,t o.ʔ.o ŋ-PAST 'he drank' < t o.ʔ.o ŋ-  'to drink'
@@ -158,9 +165,11 @@ kipsu,168_think,kips-PAST 'he thought' < kips- 'to think'
 sikuj,169_laugh,sik-PAST 'he laughed' < sik- 'to laugh'
 həkjuj,170_cry,həkj-PAST 'he cried' < həkj- 'to cry'
 suhkuj,171_blow,suhk-PAST 'he blew' < suhk- 'to blow'
+po:mu,172_burn,po:m-PAST 'he burnt (it)' < po:m- 'to burn'
 powjawənəʔ,173_flow,powjawənəʔ  ?????
 nakuj,174_sew,nak-PAST 'he sewed' < nak- 'to sew'
 jʲuʔudu,175_pound,J u.ʔ.u d-PAST 'he beated' < h u.ʔ.u d u- 'to beat'
+ɲaksu,176_hit,ɲaks-PAST 'he hit' < naks- 'to hit'
 jʲahku,177_cut,Jahk-PAST 'he cut' < jahk- 'to cut'
 kʲukwe:no,178_split,Kukwe:no ???
 tahkuj,179_dig,tahk-PAST 'he dag' < tahk- 'to dig'
