@@ -5,23 +5,23 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 378 | ✓ | ✓ |
-| ə | 344 | ✓ | ✓ |
+| a | 394 | ✓ | ✓ |
+| ə | 359 | ✓ | ✓ |
 | k | 313 | ✓ | ✓ |
 | j | 244 | ✓ | ✓ |
+| u | 237 | ✓ | ✓ |
 | h | 214 | ✓ | ✓ |
-| u | 209 | ✓ | ✓ |
 | m | 185 | ✓ | ✓ |
 | p | 160 | ✓ | ✓ |
 | t | 154 | ✓ | ✓ |
 | n | 144 | ✓ | ✓ |
 | ts | 143 | ✓ | ✓ |
 | w | 136 | ✓ | ✓ |
+| ʔ | 134 | ✓ | ✓ |
 | i | 128 | ✓ | ✓ |
-| o | 100 | ✓ | ✓ |
+| o | 124 | ✓ | ✓ |
 | s | 95 | ✓ | ✓ |
-| ʔ | 92 | ✓ | ✓ |
-| e | 83 | ✓ | ✓ |
+| e | 84 | ✓ | ✓ |
 | a: | 72 | ✓ | ✓ |
 | ə: | 59 | ✓ | ✓ |
 | b | 44 | ✓ | ✓ |
@@ -34,25 +34,20 @@
 | g | 16 | ✓ | ✓ |
 | ʃ | 16 | ✓ | ✓ |
 | ɲ | 15 | ✓ | ✓ |
-| u.ʔ.u | 14 | ? | ? |
 | e: | 12 | ✓ | ✓ |
-| o.ʔ.o | 12 | ? | ? |
 | + | 9 | ✓ | ✓ |
 | hʲ | 9 | ✓ | ✓ |
 | kʲ | 9 | ✓ | ✓ |
-| a.ʔ.a | 8 | ? | ? |
-| ə.ʔ.ə | 7 | ? | ? |
 | jʲ | 4 | ✓ | ✓ |
 | mʲ | 3 | ✓ | ✓ |
 | dz | 2 | ✓ | ✓ |
 | l | 2 | ✓ | ✓ |
 | pʲ | 2 | ✓ | ✓ |
 | x | 2 | ✓ | ✓ |
-| e.ʔ.ə | 1 | ? | ? |
 | r | 1 | ✓ | ✓ |
 | wʲ | 1 | ✓ | ✓ |
 
-(46 rows)
+(41 rows)
 
 
 
@@ -168,50 +163,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------|:-------------------|:---------------|:-----------|:-----------------------------|
-| Chapultenangospkr4-152_chew-1 | Chapultenangospkr4 | 152_chew | kəʔəsə | k <s> ə.ʔ.ə </s> s ə |
-| Chapultenangospkr4-155_bite-1 | Chapultenangospkr4 | 155_bite | kəʔəsə | k <s> ə.ʔ.ə </s> s ə |
-| Chapultenangospkr4-185_vomit-1 | Chapultenangospkr4 | 185_vomit | uʔutsi | <s> u.ʔ.u </s> ts i |
-| Chapultenangospkr4-191_stab-1 | Chapultenangospkr4 | 191_stab | kaʔaʔ | k <s> a.ʔ.a </s> ʔ |
-| Chapultenangospkr4-193_steal-1 | Chapultenangospkr4 | 193_steal | ɲuʔumu | ɲ <s> u.ʔ.u </s> m u |
-| Chapultenangospkr4-20_this-1 | Chapultenangospkr4 | 20_this | jəʔə | j <s> ə.ʔ.ə </s> |
-| Chapultenangospkr4-47_dog-1 | Chapultenangospkr4 | 47_dog | tuʔuj | t <s> u.ʔ.u </s> j |
-| Chapultenangospkr4-79_ash-1 | Chapultenangospkr4 | 79_ash | təʔənə | t <s> ə.ʔ.ə </s> n ə |
-| Chapultenangospkr4-82_dust-1 | Chapultenangospkr4 | 82_dust | poʔojo | p <s> o.ʔ.o </s> j o |
-| Chapultenangospkr4-83_sand-1 | Chapultenangospkr4 | 83_sand | poʔojo | p <s> o.ʔ.o </s> j o |
-| Franciscoleon-131_far-1 | Franciscoleon | 131_far | jaʔaji | j <s> a.ʔ.a </s> j i |
-| Franciscoleon-139_come-1 | Franciscoleon | 139_come | nuʔuku | n <s> u.ʔ.u </s> k u |
-| Franciscoleon-141_grow-1 | Franciscoleon | 141_grow | məhaʔaja | m ə h <s> a.ʔ.a </s> j a |
-| Franciscoleon-163_kill-1 | Franciscoleon | 163_kill | kaʔa | k <s> a.ʔ.a </s> |
-| Franciscoleon-24_below-1 | Franciscoleon | 24_below | kəʔəji | k <s> ə.ʔ.ə </s> j i |
-| Franciscoleon-3_three-1 | Franciscoleon | 3_three | tuʔukaj | t <s> u.ʔ.u </s> k a j |
-| Franciscoleon-44_intestines-1 | Franciscoleon | 44_intestines | pʲuʔu | pʲ <s> u.ʔ.u </s> |
-| Franciscoleon-70_night-1 | Franciscoleon | 70_night | tsuʔuj | ts <s> u.ʔ.u </s> j |
-| Franciscoleon-82_dust-1 | Franciscoleon | 82_dust | poʔojo | p <s> o.ʔ.o </s> j o |
-| Franciscoleon-96_branch-1 | Franciscoleon | 96_branch | taʔanə | t <s> a.ʔ.a </s> n ə |
-| Rayon-119_sharp-1 | Rayon | 119_sharp | wiʔinaʔaw | w i ʔ i n <s> a.ʔ.a </s> w |
-| Rayon-121_shyashamed-1 | Rayon | 121_shyashamed | tsaʔahkuj | ts <s> a.ʔ.a </s> h k u j |
-| Rayon-131_far-1 | Rayon | 131_far | jaʔajə | j <s> a.ʔ.a </s> j ə |
-| Rayon-140_walk-1 | Rayon | 140_walk | tuʔunahkuj | t <s> u.ʔ.u </s> n a h k u j |
-| Rayon-146_turn-1 | Rayon | 146_turn | pakseʔədu | p a k s <s> e.ʔ.ə </s> d u |
-| Rayon-149_flyverb-1 | Rayon | 149_flyverb | kəjəʔəkuj | k ə j <s> ə.ʔ.ə </s> k u j |
-| Rayon-154_drink-1 | Rayon | 154_drink | toʔoŋuj | t <s> o.ʔ.o </s> ŋ u j |
-| Rayon-166_sniffsmell-1 | Rayon | 166_sniffsmell | suʔuku | s <s> u.ʔ.u </s> k u |
-| Rayon-175_pound-1 | Rayon | 175_pound | jʲuʔudu | jʲ <s> u.ʔ.u </s> d u |
-| Rayon-18_when-1 | Rayon | 18_when | huhtʃəʔə k | h u h tʃ <s> ə.ʔ.ə </s> + k |
-| Rayon-192_buy-1 | Rayon | 192_buy | huʔukʲuj | h <s> u.ʔ.u </s> kʲ u j |
-| Rayon-44_intestines-1 | Rayon | 44_intestines | puʔu | p <s> u.ʔ.u </s> |
-| Rayon-47_dog-1 | Rayon | 47_dog | tuʔuwiʔ | t <s> u.ʔ.u </s> w i ʔ |
-| Rayon-48_bird-1 | Rayon | 48_bird | hoʔot | h <s> o.ʔ.o </s> t |
-| Rayon-79_ash-1 | Rayon | 79_ash | poʔojo | p <s> o.ʔ.o </s> j o |
-| Rayon-82_dust-1 | Rayon | 82_dust | poʔojo | p <s> o.ʔ.o </s> j o |
-| Rayon-83_sand-1 | Rayon | 83_sand | poʔojo | p <s> o.ʔ.o </s> j o |
-| Tapalapa-47_dog-1 | Tapalapa | 47_dog | tuʔuj | t <s> u.ʔ.u </s> j |
-| Tapalapa-71_moon-1 | Tapalapa | 71_moon | poʔoja | p <s> o.ʔ.o </s> j a |
-| Tapalapa-82_dust-1 | Tapalapa | 82_dust | poʔojo | p <s> o.ʔ.o </s> j o |
-| Tapalapa-85_cloud-1 | Tapalapa | 85_cloud | oʔona | <s> o.ʔ.o </s> n a |
-| Tapalapa-87_fog-1 | Tapalapa | 87_fog | na:ksoʔona | n a: k s <s> o.ʔ.o </s> n a |
+|------|------------|-----------|--------|------------|
 
-(42 rows)
+(0 rows)
 
 
