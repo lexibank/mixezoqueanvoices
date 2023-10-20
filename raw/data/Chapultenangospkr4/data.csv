@@ -60,7 +60,7 @@ nəji,64_name,
 majiʔ,65_mother,
 hara,66_father,
 hajə,67_husband,
-n-jomo,68_wife,
+njomo,68_wife,
 hama,69_day,
 piʔitsə,70_night,
 poja,71_moon,
@@ -83,12 +83,12 @@ məʔə,88_thunder,
 məʔa,89_lightning,
 siʔis,90_meatflesh,
 kana,91_salt,
-mjanteʔeka,92_fatgrease,
+mʲanteʔeka,92_fatgrease,
 təʔəp,93_fruit,
 məhawkuhʲ,94_woodsforest,
 jahʲ,96_branch,
 ahʲ,97_leaf,
-kuh,98_wood,
+kuhʲ,98_wood,
 taʔanə,99_grass,
 həjə,100_flower,
 məjaməʔək,101_thatchroof,
@@ -144,12 +144,12 @@ mawasəj,159_dream,mawas-PAST 'he dreamt' <mawas- 'to dream'
 onguj,160_sleep,ong-PAST 'he slept' < ong- 'to sleep'
 ihtkuj,161_live,ijtk-PAST 'he lived' < ijtk- 'to live'
 kaʔaw,162_die,??
-kjaʔaw,163_kill,??
+kʲaʔaw,163_kill,??
 amguj,164_see,amg-PAST 'he saw' < amg- 'to see'
 musokjuj,167_know,musokj-PAST 'I knew' <musok- 'to know'
-kipsokjuj,168_think,kipsokj-uj 'I thought' <kipsok- 'to think'
+kipsokʲuj,168_think,kipsokj-uj 'I thought' <kipsok- 'to think'
 sihkuj,169_laugh,sihk-PAST 'I laughed' < sihk- 'to laugh'
-həkjuj,170_cry,?? həkj-PAST 'I cried' < həkj- 'to cry'
+həkʲuj,170_cry,?? həkj-PAST 'I cried' < həkj- 'to cry'
 tʃiʔsagwa,171_blow,tʃisagwa …....???? Tisa-???
 mapəwə,172_burn,mapəw-PAST 'he burnt (it)'< mapəw- 'to dry'
 maŋbənə,173_flow,???
