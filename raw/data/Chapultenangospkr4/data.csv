@@ -9,7 +9,7 @@ wingəʔ,6_right,
 əhtsiʔidəm,9_weallexcl,
 əhtsiʔidəm,10_weallincl,
 mihtsi,11_yousg,
-teʔ,12_heshe,
+te,12_heshe,
 hikədə,13_theyall,
 hinə,14_nonot,
 tijə,15_what,
@@ -18,8 +18,8 @@ huʔudə,17_where,
 hutʃe,18_when,
 huhtʃe,19_how,
 jəʔə,20_this,
-teʔeʔ,21_that,
-teʔesedikə,22_and,
+teʔ,21_that,
+teʔsedikə,22_and,
 kəʔəsi,23_above,
 məʔənə,24_below,
 hohmu,26_at,
@@ -30,7 +30,7 @@ kinə,30_nose,
 tatsəhk,31_ear,
 agnaka,32_mouth,
 təts,33_tongue,
-təʔəhts,34_tooth,
+təhts,34_tooth,
 kəʔ,35_hand,
 peki,36_shoulder,
 kəʔənə,37_neck,
@@ -41,7 +41,7 @@ pahk,41_bone,
 ɲaka,42_skin,'his skin' < naka 'skin'
 tsehk,43_belly,
 puʔ,44_intestines,
-tsuʔutsiʔ,45_breast,
+tsuʔutsi,45_breast,
 paʔat,46_liver,
 tuʔuj,47_dog,
 hontʃi,48_bird,
@@ -65,13 +65,13 @@ hama,69_day,
 piʔitsə,70_night,
 poja,71_moon,
 matsa,72_star,
-kətsəhk,73_sky,
+kəʔətsəhk,73_sky,
 nəʔ,74_water,
 mejaʔ,75_lake,
 muhamejaʔ,76_sea,
 huktəhk,77_fire,
 hoko,78_smoke,
-təʔənə,79_ash,
+toʔonə,79_ash,
 tsaʔ,80_stone,
 nas,81_earthsoil,
 poʔojo,82_dust,
@@ -98,10 +98,10 @@ akuxa,104_needle,
 tuk,105_roadpath,
 jehk,106_black,
 powoʔ,107_white,
-tsəhtsiʔiwə,109_green,
+tsəhtsiwə,109_green,
 pəʔətsa,110_yellow,
 məha,111_big,
-tsətə,112_small,
+tsəʔətə,112_small,
 pəjiʔiwə,113_long,
 kənə,114_short,
 məhapə,115_thick,
@@ -111,14 +111,14 @@ məhapə,118_wide,
 haɲiʔidə kowak,120_bluntdull,
 jahʃu,121_shyashamed,
 atʃpə,122_old,
-təwijaʔawə,123_painfulsick,
+təwijaʔabə,123_painfulsick,
 wəwə,124_good,
 jatʃkuj,125_bad,
 həwə,126_correcttrue,
 əhtsidəm,129_all,
 hemets,130_heavy,
 jajiʔiwə,131_far,
-təmeʔewə,132_near,
+təmewo,132_near,
 ningə,133_warm,
 mamba,134_cold,
 təhtsəj,135_dry,təhts-PAST 'he dried (it)' < təhts- 'to dry'
@@ -127,18 +127,18 @@ ejapə,138_other,
 nuʔukuj,139_come,nuʔuk-PAST 'arrived'<nuʔuk- 'to arrive'
 wihtkuj,140_walk,wijtk-PAST 'walked' <wihtk- 'to walk'
 punahkuj,141_grow,puʔuahk-PAST 'he grew' <puʔuahk- 'to grow'
-teʔena,142_stand,teʔen-PAST 'he stood' < teʔen- 'to stand'
+tena,142_stand,teʔen-PAST 'he stood' < teʔen- 'to stand'
 poʔoksə,143_sit,poʔoks-PAST 'he sat' < poks- 'to sit'
 kehkuj,144_fall,kehk-PAST 'he fell' < kehk- 'to fall'
 aʔamə,146_turn,
 kəsij,147_climb,kəs-PAST 'he hid' < kəs- 'to hide'
 sidihk,149_flyverb,???
-tsijə,150_throw,tsij-PAST 'he threw' <tsij-  'to throw'
+tsijəʔ,150_throw,tsij-PAST 'he threw' <tsij-  'to throw'
 kəʔəsə,152_chew,?? k ə.ʔ.ə s-?? '???' < kə.ʔ.ə s- 'to chew'
 wejkuj,153_eat,wejk-PAST 'I ate' < wejk- 'to eat'
 uhkuj,154_drink,ujk-PAST 'He drank' < ujk- 'to drink'
 kəʔəsə,155_bite,???
-tsəkə,156_suck,tsək-PAST 'he sucked' < tsək-  'to suck'
+təʔəkə,156_suck,tsək-PAST 'he sucked' < tsək-  'to suck'
 məʔəwəj,157_yawn,məʔəw-PAST 'he yawned' < məʔəw- 'to yawn'
 mawasəj,159_dream,mawas-PAST 'he dreamt' <mawas- 'to dream'
 onguj,160_sleep,ong-PAST 'he slept' < ong- 'to sleep'
@@ -150,27 +150,27 @@ musokjuj,167_know,musokj-PAST 'I knew' <musok- 'to know'
 kipsokjuj,168_think,kipsokj-uj 'I thought' <kipsok- 'to think'
 sihkuj,169_laugh,sihk-PAST 'I laughed' < sihk- 'to laugh'
 həkjuj,170_cry,?? həkj-PAST 'I cried' < həkj- 'to cry'
-tʃisagwa,171_blow,tʃisagwa …....???? Tisa-???
+tʃiʔsagwa,171_blow,tʃisagwa …....???? Tisa-???
 mapəwə,172_burn,mapəw-PAST 'he burnt (it)'< mapəw- 'to dry'
 maŋbənə,173_flow,???
-tsiʔjə,176_hit,tsiʔ-PAST 'he hit' < tsiʔ- 'to hit'
+tsijə,176_hit,tsiʔ-PAST 'he hit' < tsiʔ- 'to hit'
 idəkoma,178_split,??
 nəwədə,179_dig,nəwəd-PAST 'he dag' < nəwəd- 'to dig'
 kaʔakopən,180_hunt,???
 pəkəj,181_hold,pəʔək-PAST 'he held' < pəʔək-  'to hold'
 naʔatsu,182_fear,naʔats-PAST 'I feared' < naʔats- 'to fear'
 anmaju,183_count,anmaj-PAST 'he counted' < anmaj- 'to count'
-səʔəkəsawa,184_breathe,???
+suʔukosawa,184_breathe,???
 uʔutsi,185_vomit,???
 nəwədəɲəʔ,187_squeeze,???
 məhtsəhkuj,188_swell,məhtsəhk-PAST 'it swelled' < məhtsəhk-  'to swell'
-tsaʔamə,189_say,tsaʔam-PAST 'he said' < tsaʔam- 'to say'
+tsamə,189_say,tsaʔam-PAST 'he said' < tsaʔam- 'to say'
 kaʔaʔ,191_stab,???
 həjə,192_buy,həj-PAST 'he bought' < həj- 'to buy'
 ɲuʔumu,193_steal,ɲu.ʔ.um-PAST 'he stole' < nu.ʔ.um- 'to steal'
 pəkə,194_choose,pək-PAST 'he chose' < pək- 'to choose'
 niʔibə,195_plant,niʔib-PAST  'he planted' < niʔib- 'to plant'
-tsəʔəkwiʔikəj,196_cook,?? tsəʔəkwiʔik-PAST 'he cooked' < tsəʔəkwiʔik- 'to cook'
+tsəkəwiʔikəj,196_cook,?? tsəʔəkwiʔik-PAST 'he cooked' < tsəʔəkwiʔik- 'to cook'
 tuhkuj,197_shoot,"tujk-PAST 'he shot' < tujk- 'to shoot"""
 joʃkuj,198_work,joʃk-PAST 'he worked' < joʃk-  'to work'
 akwahkə,199_open,akwahk-PAST 'he opened' < akwahk- 'to open'
