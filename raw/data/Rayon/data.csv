@@ -61,7 +61,7 @@ pəʔət,61_man,
 jomoʔ,62_woman,
 uneʔ,63_child,
 nəji,64_name,
-mama,65_mother,
+maʔama,65_mother,
 hadaʔ,66_father,
 haja,67_husband,
 jomoʔ,68_wife,POSS-omoʔ 'his spouse' < omoʔ 'wife'
@@ -77,7 +77,7 @@ huʔuktək,77_fire,
 joko,78_smoke,
 poʔojo,79_ash,
 tsaʔ,80_stone,
-naʃ,81_earthsoil,
+nasʲ,81_earthsoil,
 poʔojo,82_dust,
 poʔojo,83_sand,
 tuh,84_rain,
@@ -94,7 +94,7 @@ tsaʔamədək,94_woodsforest,
 watsi,95_root,
 aweks,96_branch,
 ajʲ,97_leaf,
-kuj,98_wood,
+kuhʲ,98_wood,
 taʔanəʔ,99_grass,
 həjə,100_flower,
 təhk,102_house,
@@ -105,11 +105,11 @@ poʔoboʔ,107_white,
 tsaʔawas,108_red,
 tsuhtsuʔ,109_green,
 puʔutʃə,110_yellow,
-məjaʔabə,111_big,
+məhaʔabə,111_big,
 tʃəbə,112_small,
 pəhiʔiwə,113_long,
 koʔonowəʔ,114_short,
-məjtsaʔawjə,115_thick,
+məhtsaʔawjə,115_thick,
 kajiwə,116_thin,
 kajiwə,117_narrow,
 peʔetsiʔiwə,118_wide,
@@ -158,7 +158,7 @@ itku,161_live,iʔitk-PAST 'he lived' < iʔitk- 'to live'
 kaʔakuj,162_die,kaʔak-PAST 'he died' < kaʔak- 'to die'
 ahkaʔakuj,163_kill,ajkaʔak-PAST 'he killed' < ajkaʔak- 'to kill'
 kəʔəŋu,164_see,kəʔəŋ-PAST 'he saw' < kəʔəŋ- 'to see'
-madəmokəj,165_hear,madəmok-PAST 'he heard' < madəmok-  'to hear'
+madəmokʲuj,165_hear,madəmok-PAST 'he heard' < madəmok-  'to hear'
 suʔuku,166_sniffsmell,s u.ʔ.u k-PAST 'he sniffed' < s u.ʔ.u k-  'to sniff'
 muskuj,167_know,musk-PAST 'he knew' < musk- 'to know'
 kipsu,168_think,kips-PAST 'he thought' < kips- 'to think'
@@ -188,6 +188,6 @@ huʔukʲuj,192_buy,h u.ʔ.u K-PAST 'he bought' < h u.ʔ.u k- 'to buy'
 ɲuʔmu,193_steal,ɲuʔm-PAST 'he stole' < nuʔm- 'to steal'
 kobiŋuj,194_choose,koping-PAST 'he chose' < koping- 'to choose'
 nipkuj,195_plant,nibk-PAST 'he planted' < nipk- 'to plant'
-kutkutʃəhku,196_cook,kutkutʃəhk-PAST 'he cooked' < kutkutʃəhk- 'to cook'
+kuʔutkutʃəhku,196_cook,kutkutʃəhk-PAST 'he cooked' < kutkutʃəhk- 'to cook'
 josku,198_work,josk-PAST 'he worked' < josk-  'to work'
 taŋuj,199_open,taŋ-PAST 'he opened' < taŋ- 'to open'
