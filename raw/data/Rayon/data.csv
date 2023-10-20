@@ -13,7 +13,7 @@ hiktap,13_theyall,
 nda,14_nonot,
 tijə,15_what,
 iʔijə,16_who,
-juʔuwə,17_where,
+huwəʔ,17_where,
 huhtʃəʔək,18_when,
 huʔutsə,19_how,
 jəmə,20_this,
@@ -31,7 +31,7 @@ taʔatsək,31_ear,
 agnaka,32_mouth,
 tohts,33_tongue,
 təhts,34_tooth,
-kəʔə,35_hand,
+kəʔ,35_hand,
 peki,36_shoulder,
 kəʔənə,37_neck,
 ukaʔ,38_back,
@@ -73,7 +73,7 @@ tsaʔap,73_sky,
 nəʔ,74_water,
 mejaʔ,75_lake,
 mejaʔ,76_sea,
-juʔuktək,77_fire,
+huʔuktək,77_fire,
 joko,78_smoke,
 poʔojo,79_ash,
 tsaʔ,80_stone,
@@ -108,14 +108,14 @@ puʔutʃə,110_yellow,
 məjaʔabə,111_big,
 tʃəbə,112_small,
 pəhiʔiwə,113_long,
-konoʔwə,114_short,
+koʔonowəʔ,114_short,
 məjtsaʔawjə,115_thick,
-kajiʔiwə,116_thin,
-kajiʔiwə,117_narrow,
+kajiwə,116_thin,
+kajiwə,117_narrow,
 peʔetsiʔiwə,118_wide,
 wiʔinaʔaw,119_sharp,
 tsaʔahkuj,121_shyashamed,
-kaʔanak,122_old,
+kanak,122_old,
 tobjaʔawə,123_painfulsick,
 wəbə,124_good,
 dawəbə,125_bad,
@@ -144,7 +144,7 @@ kimgu,147_climb,kimg-PAST 'he climbed' < kimg- 'to climb'
 suŋuj,148_swim,suŋ-PAST 'he swam' <suŋ- 'to swim'
 kəjəʔəkuj,149_flyverb,k ə j ə.ʔ.ə k-PAST 'it flew' < k ə j ə.ʔ.ə k- 'to fly'
 tənbəʔəku,150_throw,tənbəʔək-PAST 'he threw' < tənbəʔək- 'to throw'
-kəwəŋa,151_hide,kəwəŋ-PAST 'he hide' < kəwəŋ- 'to hide'
+kəwəŋu,151_hide,kəwəŋ-PAST 'he hide' < kəwəŋ- 'to hide'
 waskuj,152_chew,wask-PAST 'he chewed' < wask- 'to chew'
 kuʔutkuj,153_eat,kuʔutk-PAST 'he ate' < kuʔutk- 'to eat'
 toʔoŋuj,154_drink,t o.ʔ.o ŋ-PAST 'he drank' < t o.ʔ.o ŋ-  'to drink'
@@ -171,7 +171,7 @@ nakuj,174_sew,nak-PAST 'he sewed' < nak- 'to sew'
 jʲuʔudu,175_pound,J u.ʔ.u d-PAST 'he beated' < h u.ʔ.u d u- 'to beat'
 ɲaksu,176_hit,ɲaks-PAST 'he hit' < naks- 'to hit'
 jʲahku,177_cut,Jahk-PAST 'he cut' < jahk- 'to cut'
-kʲukweʔeno,178_split,Kukweʔeno ???
+kʲukweʔenu,178_split,Kukweʔeno ???
 tahkuj,179_dig,tahk-PAST 'he dag' < tahk- 'to dig'
 mahkuj,180_hunt,mahk-PAST 'he hant' < mahk- 'to hunt'
 ɲuhku,181_hold,ɲuhk-PAST 'he held' < nuhk- 'to hold'
@@ -182,7 +182,7 @@ hejpəhkuj,184_breathe,hejpəhk-PAST 'he breathed' < hejpəhk- 'to breath'
 moksə,186_tieup,moks-PAST 'he tiedup' < moks- 'to tie up'
 siŋu,188_swell,siŋ-PAST 'it swelled' < siŋ- 'to swell'
 tsaʔamgu,189_say,tsaʔamg-PAST 'he said' < tsaʔamk- 'to say'
-jetsmaʔaskuj,190_scratch,jetsmaʔask-PAST 'he scratched' < jetsmaʔask- 'to scratch'
+hetsmaʔaskuj,190_scratch,jetsmaʔask-PAST 'he scratched' < jetsmaʔask- 'to scratch'
 tahmaʔaskuj,191_stab,tahmaʔask-PAST 'he stabbed' < tahmaʔask- 'to stab'
 huʔukʲuj,192_buy,h u.ʔ.u K-PAST 'he bought' < h u.ʔ.u k- 'to buy'
 ɲuʔmu,193_steal,ɲuʔm-PAST 'he stole' < nuʔm- 'to steal'
