@@ -128,19 +128,19 @@ tsap,73_sky,
 nandzuera,71_moon,
 madza,72_star,
 ona,85_cloud,
-nəonəj,87_fog,'se está nublando'
+nəonəj,87_fog,'se está nublando'<nə-onəj  PROGR-make.fog
 tuʔu,84_rain,
-nənakʃ ,88_thunder,'está tonando'
+nənakʃ ,88_thunder,'está tonando'<nə-nakʃ PROGR-thunder
 məj,89_lightning,
 ʃawa,86_wind,
-nəpoj ʃawa,171_blow,'está corriendo el viento'
+nəpoj ʃawa,171_blow,'está corriendo el viento'<nə-poj PROGR-run ʃawa 'air,wind'
 niʔingə,133_warm,
 pagak,134_cold,
 təʔətspa,135_dry,
 muʔu,136_wet,
 hemets,130_heavy,
 juktu,77_fire,
-poʔogba,172_burn,
+poʔogba,172_burn,<poʔok-pa burn-INC
 hogo,78_smoke,
 hap,79_ash,
 jəkək,106_black,
@@ -167,8 +167,8 @@ tsuʔu,70_night,
 hama,69_day,
 ame,5_year,
 tʃora,18_when,
-kuwutpa,151_hide,
-kimba,147_climb,
+kuwutpa,151_hide,<kuwut-pa hide-INC
+kimba,147_climb,<kim-pa climb-INC
 ek,26_at,
 jomo,25_ininside,
 kəʃmə,23_above,
