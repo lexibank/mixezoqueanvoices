@@ -47,8 +47,8 @@ wiʔidək,29_eye,
 kjedba,164_see, <'he sees' j-ked-pa  3SG-see-INC
 nə ʃjutəwi,157_yawn,<nə-j-sut-əwi PROGR-3SG-want-sleep 'he wants to sleep' 
 əgba,160_sleep,< əg-ba  sleep-INC
-kəmnaj,145_liedown, <kəmn-aj liedown-?
-mawaʃəj,159_dream,<mawaʃ-əj dream-?
+kəmnaj,145_liedown, <kəmn-aj liedown-AP?
+mawaʃəj,159_dream,<mawaʃ-əj dream-AP?
 pokʃpa,143_sit,<pokʃ-pa sit-INC
 tenawa,142_stand, <tena-pa  stand-INC
 pət,60_person,
@@ -61,9 +61,9 @@ nana,65_mother,
 dada,66_father, n-tata 1SG-father
 tək,102_house,
 nəj,64_name,
-tʲamba,189_say,<'he sais' j-tam-ba 3SG-say-INC
+tʲamba,189_say,<'he sais' j-tam-pa 3SG-say-INC
 tsaj,103_rope,
-warej,186_tieup, <war-ej tieup-???????
+warej,186_tieup, <war-ej tieup-AP? 
 natpa,174_sew,<nat-pa sew-INC
 aguʃa,104_needle,
 jakawa kowət,180_hunt,'mata animales' <jak-ka-pa CAUS-die-INC kowət 'animal' ????
@@ -71,27 +71,27 @@ tuʔpa,197_shoot, < tuʔ-pa  shoot-INC
 jutspa,191_stab, <juts-pa  stab-INC
 tʃiʔba,176_hit,<tʃiʔ-pa hit-INC
 numba,193_steal,<num-pa steal-INC
-jakawa,163_kill,<jak-ka-wa  CAUS-die-INC?????
-kawa,162_die,<ka-wa die-INC?????
+jakawa,163_kill,<jak-ka-wa  CAUS-die-INC
+kawa,162_die,<ka-wa die-INC
 itpa,161_live,<it-pa live-INC
 jetspa,190_scratch,<jets-pa scratch-INC
 jakpa,177_cut,<jak-pa cut-INC
 kuj,98_wood,
-pjowa,178_split,<j-pow-a???? 3SG-split-????
+pjowa,178_split,<j-pow-pa 3SG-split-INC
 ɲət wit,119_sharp,
 ɲət kini,120_bluntdull,
 joʃku,198_work,<'worked' joʃ-ku work-COM
-ɲipa,195_plant,<'he plants'????? j-ni'pa  3SG-plant-INC ??????
+ɲipa,195_plant,<'he plants' j-ni'-pa  3SG-plant-INC 
 kjowimba,194_choose,'he chooses' j-kowim-pa 3SG-choose-INC
 jegba,141_grow,<jeg-pa grow-INC
 ʃikba,188_swell,<ʃik-ba swell-INC
 mjəʔətpa,187_squeeze,<j-məʔət-pa 3SG-squeeze-INC
-ɲət,181_hold,????
-tʃapa,179_dig,<j-tap-pa 3SG-dig-INC?????
-juʔubja,192_buy,<juʔub-ja buy- ???????
-tʃaʔabəwa,199_open,<tʃaʔabə-wa  j-taʔabə-pa 3SG-open-INC????
+ɲət,181_hold,<j-nə't 3SG-hold
+tʃapa,179_dig,<j-tap-pa 3SG-dig-INC
+juʔubja,192_buy,<juʔuj-pa buy-INC
+tʃaʔabəwa,199_open,<tʃaʔabə-wa  j-taʔabə-pa 3SG-open-INC
 mjaʔatspa,175_pound,<'he pounds' j-maʔats-pa 3SG-pound-INC
-wəʔəpəwa,150_throw,<wəʔəp-ə-wa throw-?-INC????
+wəʔəpəwa,150_throw,<wəʔəpəj-pa throw-INC
 kekpa,144_fall,<kek-pa fall-INC
 tuj,47_dog,
 hoʔodune,48_bird,
@@ -128,12 +128,12 @@ tsap,73_sky,
 nandzuera,71_moon,
 madza,72_star,
 ona,85_cloud,
-nəonəj,87_fog,'se está nublando'<nə-onəj  PROGR-make.fog
+nəonəj,87_fog,<'se está nublando' nə-onəj  PROGR-get.foggy
 tuʔu,84_rain,
-nənakʃ ,88_thunder,'está tonando'<nə-nakʃ PROGR-thunder
+nənakʃ ,88_thunder,<nə-nakʃ PROGR-thunder 'está tonando'
 məj,89_lightning,
 ʃawa,86_wind,
-nəpoj ʃawa,171_blow,"'está corriendo el viento'<nə-poj PROGR-run ʃawa 'air,wind'"
+nəpoj ʃawa,171_blow,<nə-poj PROGR-run ʃawa 'air,wind'  'está corriendo el viento'
 niʔingə,133_warm,
 pagak,134_cold,
 təʔətspa,135_dry,
@@ -190,7 +190,7 @@ eap,138_other,
 əʔəta,129_all,
 hutʃe,19_how,
 hinda,14_nonot,
-maʔabia,183_count,<maʔa-bia????
+maʔabia,183_count,<maʔaj-pa count-INC
 tuʔum,1_one,
 metsa,2_two,
 tuktsa,3_three,
