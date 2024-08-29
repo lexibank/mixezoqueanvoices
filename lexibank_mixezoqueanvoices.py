@@ -265,3 +265,5 @@ class Dataset(BaseDataset):
                         res[k] += ' and '
                     res[k] += contrib['Contributor']
                 args.writer.objects['contributions.csv'].append(res)
+
+            ds.objects['FormTable'].sort(key=lambda r: (r['Language_ID'], int(r['Parameter_ID'].split('_')[0]), r['ID']))
