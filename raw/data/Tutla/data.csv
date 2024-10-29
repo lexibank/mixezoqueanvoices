@@ -111,7 +111,7 @@ pəʔəʃ,55_mosquito,
 poʔoʃʲ,54_spider,
 keʔepʲ,49_fish,
 puʔuts,128_rotten,
-kəʔəʔaʔaʃ,96_branch,
+kəʔəʔakʃ,96_branch,
 aʔaj,97_leaf,
 tiks,95_root,
 pəhʲ,100_flower,
@@ -135,10 +135,10 @@ tunəʔə,84_rain,
 anaʔa,88_thunder,
 wutsuk,89_lightning,
 poh,86_wind,
-poh,171_blow,Imperative
+pohp,171_blow, < poh-p  blow-GR 'it blows' < poh- 'to blow'
 ambə,133_warm,
 təʔətʲ,134_cold,
-təʔəts,135_dry,"Imperative sécalo, dry it"
+təʔəts,135_dry, < təʔəts 'dried'
 ʃoʔok,136_wet,
 hempʃʲ,130_heavy,
 jəʔən,77_fire,
