@@ -3011,6 +3011,9 @@ ff7ff0c4454a6ece4e59412f23e020c7,Chapultenangospkr4_181_hold.wav,EAEA0-B69D-1756
 43553984c9f473b2ebba99e80c3f097f,Chapultenangospkr4_179_dig.mp3,EAEA0-03A9-2E8F-A5DA-0,15535,Chapultenangospkr4-179_dig-1,audio/mpeg
 8a41855c4e0dfdfb660c55ad239ddaf1,Chapultenangospkr4_179_dig.ogg,EAEA0-03A9-2E8F-A5DA-0,17931,Chapultenangospkr4-179_dig-1,audio/ogg
 bc52f774061896e83e855e6930574249,Chapultenangospkr4_179_dig.wav,EAEA0-03A9-2E8F-A5DA-0,171678,Chapultenangospkr4-179_dig-1,audio/wav
+ee7166b723b372776e0e4a65d0d10aba,Chapultenangospkr4_192_buy.mp3,EAEA0-2845-71E3-20CF-0,10540,Chapultenangospkr4-192_buy-1,audio/mpeg
+1db5ab184b8b390b4b0f5f97d11d474f,Chapultenangospkr4_192_buy.ogg,EAEA0-2845-71E3-20CF-0,15742,Chapultenangospkr4-192_buy-1,audio/ogg
+e4d4337d6c37dab1e70d4e378fe49561,Chapultenangospkr4_192_buy.wav,EAEA0-2845-71E3-20CF-0,114458,Chapultenangospkr4-192_buy-1,audio/wav
 f29448f2b81ce9c7dc936fecddcf04a8,Chapultenangospkr4_199_open.mp3,EAEA0-E14C-B68D-F7A8-0,13231,Chapultenangospkr4-199_open-1,audio/mpeg
 efd7d772531f72e7ae172c6b83a29eb6,Chapultenangospkr4_199_open.ogg,EAEA0-E14C-B68D-F7A8-0,17382,Chapultenangospkr4-199_open-1,audio/ogg
 4479ee4495f553ae52d3a3be4ee1caa3,Chapultenangospkr4_199_open.wav,EAEA0-E14C-B68D-F7A8-0,143454,Chapultenangospkr4-199_open-1,audio/wav
@@ -3107,9 +3110,6 @@ af876bedeebe951ae7bafaca2e192dac,Chapultenangospkr4_73_sky.wav,EAEA0-624B-88A1-C
 df1034ceb9351e38b64e7ee5dae301f6,Chapultenangospkr4_72_star.mp3,EAEA0-C257-EFFC-1984-0,13995,Chapultenangospkr4-72_star-1,audio/mpeg
 9c1cb41789102dd9a2f9f59cda6d30f2,Chapultenangospkr4_72_star.ogg,EAEA0-C257-EFFC-1984-0,18322,Chapultenangospkr4-72_star-1,audio/ogg
 5c244092a28319d9f7dc12cf7b3784dc,Chapultenangospkr4_72_star.wav,EAEA0-C257-EFFC-1984-0,154778,Chapultenangospkr4-72_star-1,audio/wav
-90afed1420d5e6f61682511a281ed6f4,Chapultenangospkr4_87_fog.mp3,EAEA0-B248-7D5F-FA3B-0,12074,Chapultenangospkr4-87_fog-1,audio/mpeg
-f197804934b9adff5b3e465a90764a59,Chapultenangospkr4_87_fog.ogg,EAEA0-B248-7D5F-FA3B-0,14925,Chapultenangospkr4-87_fog-1,audio/ogg
-6db2950aefe79a0008edd2499b1576af,Chapultenangospkr4_87_fog.wav,EAEA0-B248-7D5F-FA3B-0,133464,Chapultenangospkr4-87_fog-1,audio/wav
 49d45371ee097f6feee37a59d9f75b15,Chapultenangospkr4_84_rain.mp3,EAEA0-FEE5-3029-02BE-0,13611,Chapultenangospkr4-84_rain-1,audio/mpeg
 d66a9ff27d88faa9032be711b103ca1a,Chapultenangospkr4_84_rain.ogg,EAEA0-FEE5-3029-02BE-0,16276,Chapultenangospkr4-84_rain-1,audio/ogg
 f217fdb5ecfc7212348176ea7dd7c8d9,Chapultenangospkr4_84_rain.wav,EAEA0-FEE5-3029-02BE-0,151130,Chapultenangospkr4-84_rain-1,audio/wav
@@ -4370,9 +4370,6 @@ ad82a6351f9ce0092aebe29065ffac82,Franciscoleon_168_think.mp3,EAEA0-E7D4-C904-704
 fbf8fed22cdc1003cf65dd14883ae02f,Franciscoleon_182_fear.mp3,EAEA0-734C-81C8-490A-0,15913,Franciscoleon-182_fear-1,audio/mpeg
 22e4f3dc72aa68327b4df67e74bb3cbd,Franciscoleon_182_fear.ogg,EAEA0-734C-81C8-490A-0,17845,Franciscoleon-182_fear-1,audio/ogg
 72a522fa4c770873c852756972fd6cb7,Franciscoleon_182_fear.wav,EAEA0-734C-81C8-490A-0,178390,Franciscoleon-182_fear-1,audio/wav
-f29f68e3d333f8fa32f16fc0fc5aabd6,Franciscoleon_40_blood.mp3,EAEA0-9D9B-5066-CEE6-0,13225,Franciscoleon-40_blood-1,audio/mpeg
-b82dc9726359db08f5bb7fabad14ee00,Franciscoleon_40_blood.ogg,EAEA0-9D9B-5066-CEE6-0,14645,Franciscoleon-40_blood-1,audio/ogg
-a0cc4a3f8ba7781e517dfe1e37e9de1b,Franciscoleon_40_blood.wav,EAEA0-9D9B-5066-CEE6-0,144790,Franciscoleon-40_blood-1,audio/wav
 778211558d187924cc15776444a114d3,Franciscoleon_27_head.mp3,EAEA0-9021-E3AE-CC7C-0,17062,Franciscoleon-27_head-1,audio/mpeg
 1310084f647accc24a6df68be1b96d9d,Franciscoleon_27_head.ogg,EAEA0-9021-E3AE-CC7C-0,18545,Franciscoleon-27_head-1,audio/ogg
 bfbdeba1d9c6920e675466f084e3d0c3,Franciscoleon_27_head.wav,EAEA0-9021-E3AE-CC7C-0,192788,Franciscoleon-27_head-1,audio/wav
@@ -4400,9 +4397,6 @@ ad4604de0865d94257a0f70d1d2ca454,Franciscoleon_34_tooth.wav,EAEA0-8008-0EDA-006D
 08b011685c84c47c370bee4bcc23128e,Franciscoleon_169_laugh.mp3,EAEA0-57FC-664D-324A-0,15528,Franciscoleon-169_laugh-1,audio/mpeg
 381a6b819beca38b4b92ae86190837d2,Franciscoleon_169_laugh.ogg,EAEA0-57FC-664D-324A-0,18597,Franciscoleon-169_laugh-1,audio/ogg
 65829f2656d60078ae275e3f382cc8d9,Franciscoleon_169_laugh.wav,EAEA0-57FC-664D-324A-0,174934,Franciscoleon-169_laugh-1,audio/wav
-722dd8fe027872a688d7e2ed855df1a1,Franciscoleon_170_cry.mp3,EAEA0-8A15-F521-435B-0,12839,Franciscoleon-170_cry-1,audio/mpeg
-4b949d2f6eaa31dbda1900242740fe02,Franciscoleon_170_cry.ogg,EAEA0-8A15-F521-435B-0,14204,Franciscoleon-170_cry-1,audio/ogg
-453bf686a72e4ba1e76ead7b6b4852b6,Franciscoleon_170_cry.wav,EAEA0-8A15-F521-435B-0,140180,Franciscoleon-170_cry-1,audio/wav
 eea718d4316376f6883daf98b32cd994,Franciscoleon_185_vomit.mp3,EAEA0-9AF7-8175-D147-0,12841,Franciscoleon-185_vomit-1,audio/mpeg
 0886ad46472f2ccbe2675988e265f20d,Franciscoleon_185_vomit.ogg,EAEA0-9AF7-8175-D147-0,15657,Franciscoleon-185_vomit-1,audio/ogg
 e74cac3030462ea3ebc644a389d2c021,Franciscoleon_185_vomit.wav,EAEA0-9AF7-8175-D147-0,141142,Franciscoleon-185_vomit-1,audio/wav
@@ -4439,9 +4433,6 @@ d290bea4a6f55b9581375cc6764a8d54,Franciscoleon_157_yawn.mp3,EAEA0-9B3E-97AA-6A1B
 98ff0783b6c80ebc959e56ebd1522ed1,Franciscoleon_160_sleep.mp3,EAEA0-83B7-8AA3-5C74-0,10153,Franciscoleon-160_sleep-1,audio/mpeg
 ba253b7f1d918181b30b4588b859f3b5,Franciscoleon_160_sleep.ogg,EAEA0-83B7-8AA3-5C74-0,12823,Franciscoleon-160_sleep-1,audio/ogg
 a879a9fd55222ceb569f53876498833c,Franciscoleon_160_sleep.wav,EAEA0-83B7-8AA3-5C74-0,108310,Franciscoleon-160_sleep-1,audio/wav
-0b92bf12cb67bf381db69dc06dfd8323,Franciscoleon_159_dream.mp3,EAEA0-E233-8A75-4207-0,17454,Franciscoleon-159_dream-1,audio/mpeg
-2d235b7acde43c28bd720393a2a3b0a1,Franciscoleon_159_dream.ogg,EAEA0-E233-8A75-4207-0,19586,Franciscoleon-159_dream-1,audio/ogg
-7dd398355c726d82ea866b64290b7ed7,Franciscoleon_159_dream.wav,EAEA0-E233-8A75-4207-0,194524,Franciscoleon-159_dream-1,audio/wav
 7d3a53967e096c2a1dbda8b609dcf025,Franciscoleon_143_sit.mp3,EAEA0-C158-5E28-42F3-0,12072,Franciscoleon-143_sit-1,audio/mpeg
 9ec36dc7c0a4945173fe7d4d0daed9d8,Franciscoleon_143_sit.ogg,EAEA0-C158-5E28-42F3-0,15338,Franciscoleon-143_sit-1,audio/ogg
 9ffe39a6deefc4890b512b68fd670146,Franciscoleon_143_sit.wav,EAEA0-C158-5E28-42F3-0,131542,Franciscoleon-143_sit-1,audio/wav
@@ -4547,9 +4538,6 @@ e36a53df0ca70a0f703e683645b2032e,Franciscoleon_179_dig.wav,EAEA0-CED0-7573-F23B-
 d80778644b678ec8fc5878a603ed3ae4,Franciscoleon_199_open.mp3,EAEA0-A319-4871-80F0-0,13610,Franciscoleon-199_open-1,audio/mpeg
 47797eb5813431aca776f27208f0c812,Franciscoleon_199_open.ogg,EAEA0-A319-4871-80F0-0,15957,Franciscoleon-199_open-1,audio/ogg
 6797f860aedb854aeca0430d34e6dbfd,Franciscoleon_199_open.wav,EAEA0-A319-4871-80F0-0,151896,Franciscoleon-199_open-1,audio/wav
-4f3116a7a5c32e9650e8e97f63c3cf6e,Franciscoleon_150_throw.mp3,EAEA0-DC54-C287-5F83-0,12074,Franciscoleon-150_throw-1,audio/mpeg
-65d0056c11021f6c636fc89ac18161a9,Franciscoleon_150_throw.ogg,EAEA0-DC54-C287-5F83-0,16213,Franciscoleon-150_throw-1,audio/ogg
-72cc345b98021dfdaa6183a24d678c76,Franciscoleon_150_throw.wav,EAEA0-DC54-C287-5F83-0,131352,Franciscoleon-150_throw-1,audio/wav
 d891f7efd00d430884413577f4c59da9,Franciscoleon_144_fall.mp3,EAEA0-E08E-BD83-30E0-0,15143,Franciscoleon-144_fall-1,audio/mpeg
 fb1ee082d822885b3124d82c27b14de0,Franciscoleon_144_fall.ogg,EAEA0-E08E-BD83-30E0-0,16100,Franciscoleon-144_fall-1,audio/ogg
 1b08f2cfc91e6a3cd4c4801ba838a4d5,Franciscoleon_144_fall.wav,EAEA0-E08E-BD83-30E0-0,167060,Franciscoleon-144_fall-1,audio/wav
@@ -4616,9 +4604,6 @@ d4b7b72ed499d169e256f0be32d0adae,Franciscoleon_74_water.wav,EAEA0-EFCF-EAEC-524D
 9487f9ae9f93031b44a4ed0cdbc63271,Franciscoleon_75_lake.mp3,EAEA0-E266-B07B-B4E4-0,9766,Franciscoleon-75_lake-1,audio/mpeg
 b4596222ac3d568bf5bef65ed79cf942,Franciscoleon_75_lake.ogg,EAEA0-E266-B07B-B4E4-0,11584,Franciscoleon-75_lake-1,audio/ogg
 652cedd909209c71f285aeac91fbcc8b,Franciscoleon_75_lake.wav,EAEA0-E266-B07B-B4E4-0,103700,Franciscoleon-75_lake-1,audio/wav
-a49253d205501e657f90c16ab5574033,Franciscoleon_94_woodsforest.mp3,EAEA0-2F78-E412-5E37-0,18611,Franciscoleon-94_woodsforest-1,audio/mpeg
-8d8fd48cbd11ec31ebda0ec94d532e91,Franciscoleon_94_woodsforest.ogg,EAEA0-2F78-E412-5E37-0,19752,Franciscoleon-94_woodsforest-1,audio/ogg
-a9df8c4a24fc9cc77b4e15db59d1d1ac,Franciscoleon_94_woodsforest.wav,EAEA0-2F78-E412-5E37-0,207776,Franciscoleon-94_woodsforest-1,audio/wav
 b1b3109fa20a7a2141fe4653d944b368,Franciscoleon_73_sky.mp3,EAEA0-1537-15DA-9BEC-0,13224,Franciscoleon-73_sky-1,audio/mpeg
 90dce685447d1288b70eb9db190e2133,Franciscoleon_73_sky.ogg,EAEA0-1537-15DA-9BEC-0,16693,Franciscoleon-73_sky-1,audio/ogg
 a790b6dd789425d7878adb662c52f5f1,Franciscoleon_73_sky.wav,EAEA0-1537-15DA-9BEC-0,147286,Franciscoleon-73_sky-1,audio/wav
@@ -9233,9 +9218,6 @@ e84b5fd9098395167db2618cd7f3de06,Rayon_39_leg.ogg,EAEA0-B159-287D-FC6B-0,16449,R
 a32c8730ca2731b9ad48498660240e28,Rayon_140_walk.mp3,EAEA0-DAB3-71CB-31D5-0,17829,Rayon-140_walk-1,audio/mpeg
 8d2a9dbe41a9ae6888414fa078a97690,Rayon_140_walk.ogg,EAEA0-DAB3-71CB-31D5-0,22659,Rayon-140_walk-1,audio/ogg
 4602c94d36652ca6990dbb588f643402,Rayon_140_walk.wav,EAEA0-DAB3-71CB-31D5-0,199890,Rayon-140_walk-1,audio/wav
-a088b247f59b470ac059f96c5d4de52d,Rayon_139_come.mp3,EAEA0-1E84-EBAC-95BD-0,13983,Rayon-139_come-1,audio/mpeg
-41543126bb73b847bbd067ee5c591f93,Rayon_139_come.ogg,EAEA0-1E84-EBAC-95BD-0,16666,Rayon-139_come-1,audio/ogg
-2acd582e6d3248049b2d91c448eeabe1,Rayon_139_come.wav,EAEA0-1E84-EBAC-95BD-0,153804,Rayon-139_come-1,audio/wav
 09d7a78d2a2cd2c59face3b5f4d4bea2,Rayon_146_turn.mp3,EAEA0-C41A-C265-1532-0,17061,Rayon-146_turn-1,audio/mpeg
 e9728cdf70a28eaae186ed8972d71d5a,Rayon_146_turn.ogg,EAEA0-C41A-C265-1532-0,21824,Rayon-146_turn-1,audio/ogg
 ff8e8a542f27ba9798925c4128377671,Rayon_146_turn.wav,EAEA0-C41A-C265-1532-0,190290,Rayon-146_turn-1,audio/wav
@@ -9473,12 +9455,6 @@ fadb58619e5316642a3542acc0857ead,Rayon_181_hold.ogg,EAEA0-7AB0-DCA6-9C97-0,22116
 a3a2b7ace098a1e8ca9c32ad19c988bc,Rayon_179_dig.mp3,EAEA0-DBE0-7638-A2D0-0,15519,Rayon-179_dig-1,audio/mpeg
 977621fbb89d05aac2d8e9d5bd5b4419,Rayon_179_dig.ogg,EAEA0-DBE0-7638-A2D0-0,18061,Rayon-179_dig-1,audio/ogg
 fa8352d62053413b2d477500ad6c94d8,Rayon_179_dig.wav,EAEA0-DBE0-7638-A2D0-0,175116,Rayon-179_dig-1,audio/wav
-6931aadd8eae0f351227b7e136040e91,Rayon_192_buy.mp3,EAEA0-2B6F-17C8-F38A-0,16291,Rayon-192_buy-1,audio/mpeg
-587a66f369f102e622eb79e8caa8a790,Rayon_192_buy.ogg,EAEA0-2B6F-17C8-F38A-0,18869,Rayon-192_buy-1,audio/ogg
-4ae860f0b5761ab63560af293bc1ccbc,Rayon_192_buy.wav,EAEA0-2B6F-17C8-F38A-0,181456,Rayon-192_buy-1,audio/wav
-dda3272ea7460c73fa0a76087db00a3a,Rayon_199_open.mp3,EAEA0-5681-8948-4925-0,15136,Rayon-199_open-1,audio/mpeg
-70b6d2e20261d4dbadc9d5dbe1d22b3a,Rayon_199_open.ogg,EAEA0-5681-8948-4925-0,21198,Rayon-199_open-1,audio/ogg
-578fa9174e05f20f9770478fe952e4e2,Rayon_199_open.wav,EAEA0-5681-8948-4925-0,168782,Rayon-199_open-1,audio/wav
 6bbb2ec28c9ad1f8b8b8f62663abab67,Rayon_175_pound.mp3,EAEA0-2E5C-7EF0-520B-0,16292,Rayon-175_pound-1,audio/mpeg
 7459049ff13bc7e0de0bdac3c1f5a057,Rayon_175_pound.ogg,EAEA0-2E5C-7EF0-520B-0,17691,Rayon-175_pound-1,audio/ogg
 2fc22d6cdd76e44600ba2e38a1f77219,Rayon_175_pound.wav,EAEA0-2E5C-7EF0-520B-0,181650,Rayon-175_pound-1,audio/wav
@@ -10844,9 +10820,6 @@ d4605ac09ba94cc609bd59a054d79db8,Tapalapa_131_far.ogg,EAEA0-7033-88F0-6F50-0,171
 ee3fa2ad4bafc4f57c3c9206b45c91a0,Tapalapa_17_where.mp3,EAEA0-6D0D-4A3D-F141-0,11683,Tapalapa-17_where-1,audio/mpeg
 e6d40b57c697e4c35d251576f1201eb4,Tapalapa_17_where.ogg,EAEA0-6D0D-4A3D-F141-0,13405,Tapalapa-17_where-1,audio/ogg
 2df824a5cbcd91714f92f2e51c733e69,Tapalapa_17_where.wav,EAEA0-6D0D-4A3D-F141-0,125586,Tapalapa-17_where-1,audio/wav
-92a8de1bb64c9fc867c8bb75c9f80334,Tapalapa_8_i.mp3,EAEA0-33CE-E43F-DDC0-0,14366,Tapalapa-8_i-1,audio/mpeg
-0c626202e1a23a523a992ad234f43638,Tapalapa_8_i.ogg,EAEA0-33CE-E43F-DDC0-0,16473,Tapalapa-8_i-1,audio/ogg
-a229630015e634540f0e03195b4a1b25,Tapalapa_8_i.wav,EAEA0-33CE-E43F-DDC0-0,159564,Tapalapa-8_i-1,audio/wav
 4f8751ec446d4d3ff4e34b957992e784,Tapalapa_11_yousg.mp3,EAEA0-699C-0D10-924D-0,14371,Tapalapa-11_yousg-1,audio/mpeg
 8c9abc35b04d0aec8c71b42b5790ddee,Tapalapa_11_yousg.ogg,EAEA0-699C-0D10-924D-0,16309,Tapalapa-11_yousg-1,audio/ogg
 f0e8526b3fcede4a2ecd382261a0b599,Tapalapa_11_yousg.wav,EAEA0-699C-0D10-924D-0,160530,Tapalapa-11_yousg-1,audio/wav
@@ -13154,9 +13127,6 @@ eab874f40c2181a646712f7cd631e870,Tutla_131_far.ogg,EAEA0-B2AC-C006-AA7A-0,18495,
 25b32bd73ba84c93b0f1b7dd1296eda9,Tutla_17_where.mp3,EAEA0-1D98-976E-307F-0,13983,Tutla-17_where-1,audio/mpeg
 f239af917380836d3655d6e905a5e30c,Tutla_17_where.ogg,EAEA0-1D98-976E-307F-0,15545,Tutla-17_where-1,audio/ogg
 d3ba2531041c44e9e0879a5853ea06cf,Tutla_17_where.wav,EAEA0-1D98-976E-307F-0,155148,Tutla-17_where-1,audio/wav
-9168dfcf702878c3fa01ab2bb8dcdba5,Tutla_8_i.mp3,EAEA0-844C-A802-3EB5-0,15902,Tutla-8_i-1,audio/mpeg
-9558d5494ff99958d6cb324964b6c575,Tutla_8_i.ogg,EAEA0-844C-A802-3EB5-0,18766,Tutla-8_i-1,audio/ogg
-8e4017a45462ab0bfc922b14f47274ef,Tutla_8_i.wav,EAEA0-844C-A802-3EB5-0,175692,Tutla-8_i-1,audio/wav
 68f0734d483140cf686fee9a16942387,Tutla_11_yousg.mp3,EAEA0-242E-5917-4219-0,14754,Tutla-11_yousg-1,audio/mpeg
 5cf0b8d289697393bff78d98fd58910e,Tutla_11_yousg.ogg,EAEA0-242E-5917-4219-0,16873,Tutla-11_yousg-1,audio/ogg
 5e6dc0b4fb45cdda812fc626ed58faa5,Tutla_11_yousg.wav,EAEA0-242E-5917-4219-0,162064,Tutla-11_yousg-1,audio/wav
