@@ -122,27 +122,27 @@ aʃəʔək,125_bad,
 ojəʔə,126_correcttrue,
 hewjək,127_dirty,
 təmjaʔan,128_rotten,
-,129_all,
-neʔihtʲ,130_heavy,
+neʔihtʲ,129_all,
+heʔemtʲ,130_heavy,
 hagam,131_far,
 wingon,132_near,
-►,133_warm,
-►,134_cold,
-►,135_dry,
-►,136_wet,
-►,137_new,
-►,138_other,
-►,139_come,
-►,140_walk,
-►,141_grow,
-►,142_stand,
-►,143_sit,
-►,145_liedown,
-►,146_turn,
-►,147_climb,
-►,148_swim,
-►,149_flyverb,
-►,151_hide,
+ambəkp,133_warm,
+pakʲ,134_cold,
+jahtəʔəts,135_dry, <jah-təʔəts CAUS-dry 'dried'
+ʃoʔok,136_wet,
+anak,137_new,
+jəʔəhətʲ,138_other,
+tihjaʔatʲ,139_come, <imp 'come!'
+joʔoj ►,140_walk, IMP 'walk!'
+jaʔakp,141_grow, <jaʔak-p grow-GR 'grows'
+wakuk,142_stand, IMPER 'stand!'
+teknaʔap,143_sit, teknaʔa-p sit-GR 'sits'
+koknaʔap,145_liedown, <koknaʔa-p lie.down-GR 'lies down'
+koʔumbit,146_turn, <koʔumbit IMP 'turn around!'
+pat,147_climb, IMP 'climb!'
+jun,148_swim, <jun IMP 'swim!'
+kagəkp,149_flyverb, <kagək-p fly-GR 'flies'
+nəjuʔugij,151_hide,<nəjuʔu-gij hide-IMP 'hide!'
 puʔuj,152_chew, <puʔuj IMP 'chew (it)' 
 kaʔap,153_eat, < kaʔa-p eat-GR 'eats'
 uʔukp,154_drink, <uʔuk-p drink-GR 'drinks'
@@ -150,40 +150,40 @@ tsuʔutsp,155_bite, <tsuʔuts-p bite-GR 'bites'
 tsiʔitsp,156_suck, <tsiʔits-p suck-GR 'sucks'
 maʔajəgahʲ ►,157_yawn, <maʔajəgahʲ  yawn IMP 'yawn!'
 tsuhp,158_spit, <tsuj-p  spit-GR 'spits'
-►,159_dream,
-►,160_sleep,
-►,161_live,
-►,162_die,
-►,163_kill,
-►,164_see,
-►,165_hear,
+kəmaʔap,159_dream, <kəmaʔa-p dream-GR 'dreams'
+maʔap,160_sleep,<maʔa-p sleep-GR 'sleeps'
+tsanaʔap►,161_live, <tsanaʔa-p live-GR 'lives'
+oʔokp,162_die, <oʔok-p die-GR 'dies'
+jahajoʔokp,163_kill, <jah-aj-oʔok-p CAUS-?-die-GR 'kills'
+ihʃpʲ,164_see, <ihʃ-pʲ see-GR 'sees'
+mideʔepʲ,165_hear, <mideʔe-pʲ hear-GR 'hears'
 ʃuʔukp,166_sniffsmell, < ʃuʔuk-p smell-GR 'smells'
-►,167_know,
-►,168_think,
+ɲahaʔap,167_know, < j-nahaʔa-p  3SG-know-GR 'knows'
+tətmay,168_think, <tət-may think-IMP 'think!'
 ʃiʔikp,,169_laugh, <ʃiʔik-p laugh-GR  'laughs'
 jaʔaʃp,170_cry, <jaʔaʃ-p CRY-GR  'cries'
-►,171_blow,
-►,172_burn,
-►,173_flow,
-►,174_sew,
-►,176_hit,
-►,177_cut,
-►,178_split,
-►,179_dig,
-►,180_hunt,
-►,181_hold,
-►,182_fear,
-►,183_count,
-►,184_breathe,
+pohp,171_blow, <poj-p blow-GR 'blows'
+tetʲoj,172_burn, <te-j-toj there-3SG-burn 'there (it) burned'
+pəjəkp,173_flow, <pəjək-p flow/run-GR 'runs'
+ʃiʔipʲ,174_sew, <ʃiʔi-pʲ sew-GR 'sews'
+jahkepjohp,176_hit,<jahke-j-poh-p CAUS-3SG-hit-GR 'hits'
+haʔaʃʲpʲotp,177_cut, <haʔaʃʲ-j-pot-p cut-POSS-wood-GR 'cuts his wood'
+jahwakʃ,178_split, <jah-wak-ʃ CAUS-split-? 'split!'
+
+pəhkp,180_hunt, <pəhk-p hunt-GR 'hunts'
+mahtsitʲ►,181_hold, <mahts-itʲ hold-IMP 'hold (it)'
+tsəʔəkəp,182_fear, <tsəʔəkə-p fear-GR 'fears'
+mədʲow,183_count, <mədʲ-ow  count-IMP 'count!'
+ʃah,184_breathe, <IMP 'breath!'
 əʔətsp,185_vomit, <əʔəts-p vomit-GR 'vomits'
-►,186_tieup,
-►,187_squeeze,
-►,188_swell,
-►,189_say,
-►,190_scratch,
-►,191_stab,
-►,193_steal,
-►,194_choose,
+azim,186_tieup, 
+winwitʲp ►,187_squeeze, <winwitʲ-p squeeze-GR 'squeezes'
+kiʔiʃp,188_swell, <kiʔiʃ-p swell-GR 'swollen'
+kjohpʃʲ,189_say, <kjoh-pʃʲ j-say-GR  'said'
+akʃp►,190_scratch, <akʃ-p scratch-GR 'scratches'
+kuʔum,191_stab, IMP 'stab (it)'
+maʔatsp,193_steal, <maʔats-p steal-GR  'steels'
+jahpadekp,194_choose, <jah-padek-p CAUS-pick.up-GR 'pick (it) up'
 pʲəʔəmp,195_plant, <j-pəʔəm-p 3SG-plant-GR 'he/she plants'
 ontsaʔap,196_cook, <ontsaʔa-p cook-GR 'cooks'
 tiʔipʃp,197_shoot, <tiʔipʃ-p shoot-GR  'shoots'
