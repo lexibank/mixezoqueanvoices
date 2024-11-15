@@ -1832,7 +1832,7 @@ Jitotol-63_child-1,,Jitotol,63_child,une,une,u n e,,Kondic2023,,false,^ u n e $,
 Jitotol-64_name-1,,Jitotol,64_name,nəj,nəj,n ə j,,Kondic2023,,false,^ n ə j $,default
 Jitotol-65_mother-1,,Jitotol,65_mother,nana,nana,n a n a,,Kondic2023,,false,^ n a n a $,default
 Jitotol-66_father-1,,Jitotol,66_father,dada,dada,d a d a,n-tata 1SG-father 'my father' < tata 'father',Kondic2023,,false,^ d a d a $,default
-Jitotol-67_husband-1,,Jitotol,67_husband,jhaja,jhaja,j h a j a,< j-haya 3SG-man 'her husband' < haja 'husband,Kondic2023,,false,^ j h a j a $,default
+Jitotol-67_husband-1,,Jitotol,67_husband,jhaja,jhaja,j h a j a,"< j-haya 3SG-man 'her husband' < haja 'husband, man'",Kondic2023,,false,^ j h a j a $,default
 Jitotol-68_wife-1,,Jitotol,68_wife,jomu,jomu,j o m u,,Kondic2023,,false,^ j o m u $,default
 Jitotol-69_day-1,,Jitotol,69_day,hama,hama,h a m a,,Kondic2023,,false,^ h a m a $,default
 Jitotol-70_night-1,,Jitotol,70_night,tsuʔ,tsuʔ,ts u ʔ,,Kondic2023,,false,^ ts u ʔ $,default
@@ -1851,7 +1851,7 @@ Jitotol-83_sand-1,,Jitotol,83_sand,pojo,pojo,p o j o,,Kondic2023,,false,^ p o j 
 Jitotol-84_rain-1,,Jitotol,84_rain,tuʔu,tuʔu,t u ʔ u,,Kondic2023,,false,^ t uʔu $,default
 Jitotol-85_cloud-1,,Jitotol,85_cloud,ona,ona,o n a,,Kondic2023,,false,^ o n a $,default
 Jitotol-86_wind-1,,Jitotol,86_wind,ʃawa,ʃawa,ʃ a w a,,Kondic2023,,false,^ ʃ a w a $,default
-Jitotol-87_fog-1,,Jitotol,87_fog,nəonəj,nəonəj,n ə o n ə j,<nə-onəj PROGR-get.foggy 'it is getting foggy' < ona 'fog,Kondic2023,,false,^ n ə o n ə j $,default
+Jitotol-87_fog-1,,Jitotol,87_fog,nəonəj,nəonəj,n ə o n ə j,"<nə-onəj PROGR-get.foggy 'it is getting foggy' < ona 'fog, cloud'",Kondic2023,,false,^ n ə o n ə j $,default
 Jitotol-88_thunder-1,,Jitotol,88_thunder,nənakʃ,nənakʃ,n ə n a k ʃ,<nə-nakʃ PROGR-thunder 'está tonando',Kondic2023,,false,^ n ə n a k ʃ $,default
 Jitotol-89_lightning-1,,Jitotol,89_lightning,məj,məj,m ə j,,Kondic2023,,false,^ m ə j $,default
 Jitotol-90_meatflesh-1,,Jitotol,90_meatflesh,ʃiʔiʃ,ʃiʔiʃ,ʃ i ʔ i ʃ,,Kondic2023,,false,^ ʃ iʔi ʃ $,default
@@ -1934,7 +1934,7 @@ Jitotol-167_know-1,,Jitotol,167_know,mjuʃpa,mjuʃpa,m j u ʃ p a,< j-muʃ-pa 3S
 Jitotol-168_think-1,,Jitotol,168_think,kipʃpa,kipʃpa,k i p ʃ p a,< j-kipʃ-pa  3SG-think-INC 'he thinks' < kipʃ- 'to think',Kondic2023,,false,^ k i p ʃ p a $,default
 Jitotol-169_laugh-1,,Jitotol,169_laugh,ʃikpa,ʃikpa,ʃ i k p a,<ʃik-pa laugh-INC '(he) laughs' < ʃik- 'to laugh',Kondic2023,,false,^ ʃ i k p a $,default
 Jitotol-170_cry-1,,Jitotol,170_cry,həʔəbja,həʔəbja,h ə ʔ ə b j a,< həʔəj-pa cry-INC '(he) cries' < həʔəj- 'to cry',Kondic2023,,false,^ h əʔə b j a $,default
-Jitotol-171_blow-1,,Jitotol,171_blow,nəpoj ʃawa,nəpoj ʃawa,n ə p o j + ʃ a w a,<nə-poj PROGR-run ʃawa 'air,Kondic2023,,false,^ n ə p o j + ʃ a w a $,default
+Jitotol-171_blow-1,,Jitotol,171_blow,nəpoj ʃawa,nəpoj ʃawa,n ə p o j + ʃ a w a,"<nə-poj PROGR-run ʃawa 'air,wind' 'it is blowing'",Kondic2023,,false,^ n ə p o j + ʃ a w a $,default
 Jitotol-172_burn-1,,Jitotol,172_burn,poʔogba,poʔogba,p o ʔ o g b a,<poʔok-pa burn-INC '(it) burns' < poʔok- 'to burn',Kondic2023,,false,^ p oʔo g b a $,default
 Jitotol-173_flow-1,,Jitotol,173_flow,hətpa,hətpa,h ə t p a,<hət-pa flow-INC '(it) flows' < hət- 'to flow',Kondic2023,,false,^ h ə t p a $,default
 Jitotol-174_sew-1,,Jitotol,174_sew,natpa,natpa,n a t p a,<nat-pa sew-INC '(he) sews' < nat- 'to sew',Kondic2023,,false,^ n a t p a $,default
@@ -3166,195 +3166,194 @@ Protooaxacamixe-194_choose-2,,Protooaxacamixe,194_choose,win-ʔiʃ,win-ʔiʃ,,,W
 Protooaxacamixe-196_cook-1,,Protooaxacamixe,196_cook,ni-ʔïːʔts,ni-ʔïːʔts,,,Wichmann1995,,false,,
 Protooaxacamixe-198_work-1,,Protooaxacamixe,198_work,tuhn-k,tuhn-k,,,Wichmann1995,,false,,
 Protooaxacamixe-199_open-1,,Protooaxacamixe,199_open,jak-ʔa-waːhts,jak-ʔa-waːhts,,,Wichmann1995,,false,,
-Puxmetacan-1_one-1,,Puxmetacan,1_one,►,►,,,Kondic2019,,false,,
-Puxmetacan-2_two-1,,Puxmetacan,2_two,►,►,,,Kondic2019,,false,,
-Puxmetacan-3_three-1,,Puxmetacan,3_three,►,►,,,Kondic2019,,false,,
-Puxmetacan-4_four-1,,Puxmetacan,4_four,►,►,,,Kondic2019,,false,,
-Puxmetacan-5_year-1,,Puxmetacan,5_year,►,►,,,Kondic2019,,false,,
-Puxmetacan-6_right-1,,Puxmetacan,6_right,►,►,,,Kondic2019,,false,,
-Puxmetacan-7_left-1,,Puxmetacan,7_left,►,►,,,Kondic2019,,false,,
-Puxmetacan-8_i-1,,Puxmetacan,8_i,►,►,,,Kondic2019,,false,,
-Puxmetacan-9_weallexcl-1,,Puxmetacan,9_weallexcl,►,►,,,Kondic2019,,false,,
-Puxmetacan-10_weallincl-1,,Puxmetacan,10_weallincl,►,►,,,Kondic2019,,false,,
-Puxmetacan-11_yousg-1,,Puxmetacan,11_yousg,►,►,,,Kondic2019,,false,,
-Puxmetacan-12_heshe-1,,Puxmetacan,12_heshe,►,►,,,Kondic2019,,false,,
-Puxmetacan-13_theyall-1,,Puxmetacan,13_theyall,►,►,,,Kondic2019,,false,,
-Puxmetacan-14_nonot-1,,Puxmetacan,14_nonot,►,►,,,Kondic2019,,false,,
-Puxmetacan-15_what-1,,Puxmetacan,15_what,►,►,,,Kondic2019,,false,,
-Puxmetacan-16_who-1,,Puxmetacan,16_who,►,►,,,Kondic2019,,false,,
-Puxmetacan-17_where-1,,Puxmetacan,17_where,►,►,,,Kondic2019,,false,,
-Puxmetacan-18_when-1,,Puxmetacan,18_when,►,►,,,Kondic2019,,false,,
-Puxmetacan-19_how-1,,Puxmetacan,19_how,►,►,,,Kondic2019,,false,,
-Puxmetacan-20_this-1,,Puxmetacan,20_this,►,►,,,Kondic2019,,false,,
-Puxmetacan-21_that-1,,Puxmetacan,21_that,►,►,,,Kondic2019,,false,,
+Puxmetacan-1_one-1,,Puxmetacan,1_one,tuʔuk,tuʔuk,t u ʔ u k,,Kondic2019,,false,^ t uʔu k $,default
+Puxmetacan-2_two-1,,Puxmetacan,2_two,matsk,matsk,m a ts k,,Kondic2019,,false,^ m a ts k $,default
+Puxmetacan-3_three-1,,Puxmetacan,3_three,təgəʔək,təgəʔək,t ə g ə ʔ ə k,,Kondic2019,,false,^ t ə g əʔə k $,default
+Puxmetacan-4_four-1,,Puxmetacan,4_four,taʔaʔk,taʔaʔk,t a ʔ a ʔ k,,Kondic2019,,false,^ t aʔa ʔ k $,default
+Puxmetacan-5_year-1,,Puxmetacan,5_year,haməht,haməht,h a m ə h t,,Kondic2019,,false,^ h a m ə h t $,default
+Puxmetacan-6_right-1,,Puxmetacan,6_right,aʔoj,aʔoj,a ʔ o j,,Kondic2019,,false,^ a ʔ o j $,default
+Puxmetacan-7_left-1,,Puxmetacan,7_left,anaʔa,anaʔa,a n a ʔ a,,Kondic2019,,false,^ a n aʔa $,default
+Puxmetacan-8_i-1,,Puxmetacan,8_i,əts,əts,ə ts,,Kondic2019,,false,^ ə ts $,default
+Puxmetacan-9_weallexcl-1,,Puxmetacan,9_weallexcl,namaj,namaj,n a m a j,,Kondic2019,,false,^ n a m a j $,default
+Puxmetacan-10_weallincl-1,,Puxmetacan,10_weallincl,əʔəts,əʔəts,ə ʔ ə ts,,Kondic2019,,false,^ əʔə ts $,default
+Puxmetacan-11_yousg-1,,Puxmetacan,11_yousg,miʔits,miʔits,m i ʔ i ts,,Kondic2019,,false,^ m iʔi ts $,default
+Puxmetacan-12_heshe-1,,Puxmetacan,12_heshe,jəʔə,jəʔə,j ə ʔ ə,,Kondic2019,,false,^ j əʔə $,default
+Puxmetacan-13_theyall-1,,Puxmetacan,13_theyall,jəʔəhtʲ,jəʔəhtʲ,j ə ʔ ə h tʲ,,Kondic2019,,false,^ j əʔə h tʲ $,default
+Puxmetacan-14_nonot-1,,Puxmetacan,14_nonot,kah,kah,k a h,,Kondic2019,,false,^ k a h $,default
+Puxmetacan-15_what-1,,Puxmetacan,15_what,ti,ti,t i,,Kondic2019,,false,^ t i $,default
+Puxmetacan-16_who-1,,Puxmetacan,16_who,pən,pən,p ə n,,Kondic2019,,false,^ p ə n $,default
+Puxmetacan-17_where-1,,Puxmetacan,17_where,maʔa,maʔa,m a ʔ a,,Kondic2019,,false,^ m aʔa $,default
+Puxmetacan-18_when-1,,Puxmetacan,18_when,wanaʔa,wanaʔa,w a n a ʔ a,,Kondic2019,,false,^ w a n aʔa $,default
+Puxmetacan-19_how-1,,Puxmetacan,19_how,wiʔiʃ,wiʔiʃ,w i ʔ i ʃ,,Kondic2019,,false,^ w iʔi ʃ $,default
+Puxmetacan-20_this-1,,Puxmetacan,20_this,ətʲaʔat,ətʲaʔat,ə tʲ a ʔ a t,,Kondic2019,,false,^ ə tʲ aʔa t $,default
+Puxmetacan-21_that-1,,Puxmetacan,21_that,ʃiʔit,ʃiʔit,ʃ i ʔ i t,,Kondic2019,,false,^ ʃ iʔi t $,default
 Puxmetacan-22_and-1,,Puxmetacan,22_and,►,►,,,Kondic2019,,false,,
-Puxmetacan-23_above-1,,Puxmetacan,23_above,►,►,,,Kondic2019,,false,,
-Puxmetacan-24_below-1,,Puxmetacan,24_below,►,►,,,Kondic2019,,false,,
-Puxmetacan-25_ininside-1,,Puxmetacan,25_ininside,►,►,,,Kondic2019,,false,,
-Puxmetacan-27_head-1,,Puxmetacan,27_head,►,►,,,Kondic2019,,false,,
-Puxmetacan-28_hair-1,,Puxmetacan,28_hair,►,►,,,Kondic2019,,false,,
-Puxmetacan-29_eye-1,,Puxmetacan,29_eye,►,►,,,Kondic2019,,false,,
-Puxmetacan-30_nose-1,,Puxmetacan,30_nose,►,►,,,Kondic2019,,false,,
-Puxmetacan-31_ear-1,,Puxmetacan,31_ear,►,►,,,Kondic2019,,false,,
-Puxmetacan-32_mouth-1,,Puxmetacan,32_mouth,►,►,,,Kondic2019,,false,,
-Puxmetacan-33_tongue-1,,Puxmetacan,33_tongue,►,►,,,Kondic2019,,false,,
-Puxmetacan-34_tooth-1,,Puxmetacan,34_tooth,►,►,,,Kondic2019,,false,,
-Puxmetacan-35_hand-1,,Puxmetacan,35_hand,►,►,,,Kondic2019,,false,,
-Puxmetacan-36_shoulder-1,,Puxmetacan,36_shoulder,►,►,,,Kondic2019,,false,,
-Puxmetacan-37_neck-1,,Puxmetacan,37_neck,►,►,,,Kondic2019,,false,,
-Puxmetacan-38_back-1,,Puxmetacan,38_back,►,►,,,Kondic2019,,false,,
-Puxmetacan-39_leg-1,,Puxmetacan,39_leg,►,►,,,Kondic2019,,false,,
-Puxmetacan-40_blood-1,,Puxmetacan,40_blood,►,►,,,Kondic2019,,false,,
-Puxmetacan-41_bone-1,,Puxmetacan,41_bone,►,►,,,Kondic2019,,false,,
-Puxmetacan-42_skin-1,,Puxmetacan,42_skin,►,►,,,Kondic2019,,false,,
-Puxmetacan-43_belly-1,,Puxmetacan,43_belly,►,►,,,Kondic2019,,false,,
-Puxmetacan-44_intestines-1,,Puxmetacan,44_intestines,►,►,,,Kondic2019,,false,,
-Puxmetacan-45_breast-1,,Puxmetacan,45_breast,►,►,,,Kondic2019,,false,,
-Puxmetacan-46_liver-1,,Puxmetacan,46_liver,►,►,,,Kondic2019,,false,,
-Puxmetacan-47_dog-1,,Puxmetacan,47_dog,►,►,,,Kondic2019,,false,,
-Puxmetacan-48_bird-1,,Puxmetacan,48_bird,►,►,,,Kondic2019,,false,,
-Puxmetacan-49_fish-1,,Puxmetacan,49_fish,►,►,,,Kondic2019,,false,,
-Puxmetacan-50_snake-1,,Puxmetacan,50_snake,►,►,,,Kondic2019,,false,,
-Puxmetacan-51_worm-1,,Puxmetacan,51_worm,►,►,,,Kondic2019,,false,,
-Puxmetacan-52_louse-1,,Puxmetacan,52_louse,►,►,,,Kondic2019,,false,,
-Puxmetacan-53_rat-1,,Puxmetacan,53_rat,►,►,,,Kondic2019,,false,,
-Puxmetacan-54_spider-1,,Puxmetacan,54_spider,►,►,,,Kondic2019,,false,,
-Puxmetacan-55_mosquito-1,,Puxmetacan,55_mosquito,►,►,,,Kondic2019,,false,,
-Puxmetacan-56_egg-1,,Puxmetacan,56_egg,►,►,,,Kondic2019,,false,,
-Puxmetacan-57_tail-1,,Puxmetacan,57_tail,►,►,,,Kondic2019,,false,,
-Puxmetacan-58_wing-1,,Puxmetacan,58_wing,►,►,,,Kondic2019,,false,,
-Puxmetacan-60_person-1,,Puxmetacan,60_person,►,►,,,Kondic2019,,false,,
-Puxmetacan-61_man-1,,Puxmetacan,61_man,►,►,,,Kondic2019,,false,,
-Puxmetacan-62_woman-1,,Puxmetacan,62_woman,►,►,,,Kondic2019,,false,,
-Puxmetacan-63_child-1,,Puxmetacan,63_child,►,►,,,Kondic2019,,false,,
-Puxmetacan-64_name-1,,Puxmetacan,64_name,►,►,,,Kondic2019,,false,,
-Puxmetacan-65_mother-1,,Puxmetacan,65_mother,►,►,,,Kondic2019,,false,,
-Puxmetacan-66_father-1,,Puxmetacan,66_father,►,►,,,Kondic2019,,false,,
-Puxmetacan-67_husband-1,,Puxmetacan,67_husband,►,►,,,Kondic2019,,false,,
-Puxmetacan-68_wife-1,,Puxmetacan,68_wife,►,►,,,Kondic2019,,false,,
-Puxmetacan-69_day-1,,Puxmetacan,69_day,►,►,,,Kondic2019,,false,,
-Puxmetacan-70_night-1,,Puxmetacan,70_night,►,►,,,Kondic2019,,false,,
-Puxmetacan-71_moon-1,,Puxmetacan,71_moon,►,►,,,Kondic2019,,false,,
-Puxmetacan-72_star-1,,Puxmetacan,72_star,►,►,,,Kondic2019,,false,,
-Puxmetacan-73_sky-1,,Puxmetacan,73_sky,►,►,,,Kondic2019,,false,,
-Puxmetacan-74_water-1,,Puxmetacan,74_water,►,►,,,Kondic2019,,false,,
-Puxmetacan-77_fire-1,,Puxmetacan,77_fire,►,►,,,Kondic2019,,false,,
-Puxmetacan-78_smoke-1,,Puxmetacan,78_smoke,►,►,,,Kondic2019,,false,,
-Puxmetacan-79_ash-1,,Puxmetacan,79_ash,►,►,,,Kondic2019,,false,,
-Puxmetacan-80_stone-1,,Puxmetacan,80_stone,►,►,,,Kondic2019,,false,,
-Puxmetacan-81_earthsoil-1,,Puxmetacan,81_earthsoil,►,►,,,Kondic2019,,false,,
-Puxmetacan-82_dust-1,,Puxmetacan,82_dust,►,►,,,Kondic2019,,false,,
-Puxmetacan-83_sand-1,,Puxmetacan,83_sand,►,►,,,Kondic2019,,false,,
-Puxmetacan-84_rain-1,,Puxmetacan,84_rain,►,►,,,Kondic2019,,false,,
-Puxmetacan-85_cloud-1,,Puxmetacan,85_cloud,►,►,,,Kondic2019,,false,,
-Puxmetacan-86_wind-1,,Puxmetacan,86_wind,►,►,,,Kondic2019,,false,,
-Puxmetacan-88_thunder-1,,Puxmetacan,88_thunder,►,►,,,Kondic2019,,false,,
-Puxmetacan-89_lightning-1,,Puxmetacan,89_lightning,►,►,,,Kondic2019,,false,,
-Puxmetacan-90_meatflesh-1,,Puxmetacan,90_meatflesh,►,►,,,Kondic2019,,false,,
-Puxmetacan-91_salt-1,,Puxmetacan,91_salt,►,►,,,Kondic2019,,false,,
-Puxmetacan-92_fatgrease-1,,Puxmetacan,92_fatgrease,►,►,,,Kondic2019,,false,,
-Puxmetacan-93_fruit-1,,Puxmetacan,93_fruit,►,►,,,Kondic2019,,false,,
-Puxmetacan-94_woodsforest-1,,Puxmetacan,94_woodsforest,►,►,,,Kondic2019,,false,,
-Puxmetacan-95_root-1,,Puxmetacan,95_root,►,►,,,Kondic2019,,false,,
-Puxmetacan-96_branch-1,,Puxmetacan,96_branch,►,►,,,Kondic2019,,false,,
-Puxmetacan-97_leaf-1,,Puxmetacan,97_leaf,►,►,,,Kondic2019,,false,,
-Puxmetacan-98_wood-1,,Puxmetacan,98_wood,►,►,,,Kondic2019,,false,,
-Puxmetacan-99_grass-1,,Puxmetacan,99_grass,►,►,,,Kondic2019,,false,,
-Puxmetacan-100_flower-1,,Puxmetacan,100_flower,►,►,,,Kondic2019,,false,,
-Puxmetacan-101_thatchroof-1,,Puxmetacan,101_thatchroof,►,►,,,Kondic2019,,false,,
-Puxmetacan-102_house-1,,Puxmetacan,102_house,►,►,,,Kondic2019,,false,,
-Puxmetacan-103_rope-1,,Puxmetacan,103_rope,►,►,,,Kondic2019,,false,,
-Puxmetacan-104_needle-1,,Puxmetacan,104_needle,►,►,,,Kondic2019,,false,,
-Puxmetacan-105_roadpath-1,,Puxmetacan,105_roadpath,►,►,,,Kondic2019,,false,,
-Puxmetacan-106_black-1,,Puxmetacan,106_black,►,►,,,Kondic2019,,false,,
-Puxmetacan-107_white-1,,Puxmetacan,107_white,►,►,,,Kondic2019,,false,,
-Puxmetacan-108_red-1,,Puxmetacan,108_red,►,►,,,Kondic2019,,false,,
-Puxmetacan-109_green-1,,Puxmetacan,109_green,►,►,,,Kondic2019,,false,,
-Puxmetacan-110_yellow-1,,Puxmetacan,110_yellow,►,►,,,Kondic2019,,false,,
-Puxmetacan-111_big-1,,Puxmetacan,111_big,►,►,,,Kondic2019,,false,,
-Puxmetacan-112_small-1,,Puxmetacan,112_small,►,►,,,Kondic2019,,false,,
-Puxmetacan-113_long-1,,Puxmetacan,113_long,►,►,,,Kondic2019,,false,,
-Puxmetacan-114_short-1,,Puxmetacan,114_short,►,►,,,Kondic2019,,false,,
-Puxmetacan-115_thick-1,,Puxmetacan,115_thick,►,►,,,Kondic2019,,false,,
-Puxmetacan-116_thin-1,,Puxmetacan,116_thin,►,►,,,Kondic2019,,false,,
-Puxmetacan-117_narrow-1,,Puxmetacan,117_narrow,►,►,,,Kondic2019,,false,,
-Puxmetacan-118_wide-1,,Puxmetacan,118_wide,►,►,,,Kondic2019,,false,,
-Puxmetacan-119_sharp-1,,Puxmetacan,119_sharp,►,►,,,Kondic2019,,false,,
-Puxmetacan-120_bluntdull-1,,Puxmetacan,120_bluntdull,►,►,,,Kondic2019,,false,,
-Puxmetacan-121_shyashamed-1,,Puxmetacan,121_shyashamed,►,►,,,Kondic2019,,false,,
-Puxmetacan-122_old-1,,Puxmetacan,122_old,►,►,,,Kondic2019,,false,,
-Puxmetacan-123_painfulsick-1,,Puxmetacan,123_painfulsick,►,►,,,Kondic2019,,false,,
-Puxmetacan-124_good-1,,Puxmetacan,124_good,►,►,,,Kondic2019,,false,,
-Puxmetacan-125_bad-1,,Puxmetacan,125_bad,►,►,,,Kondic2019,,false,,
-Puxmetacan-126_correcttrue-1,,Puxmetacan,126_correcttrue,►,►,,,Kondic2019,,false,,
-Puxmetacan-127_dirty-1,,Puxmetacan,127_dirty,►,►,,,Kondic2019,,false,,
-Puxmetacan-128_rotten-1,,Puxmetacan,128_rotten,►,►,,,Kondic2019,,false,,
-Puxmetacan-129_all-1,,Puxmetacan,129_all,►,►,,,Kondic2019,,false,,
-Puxmetacan-130_heavy-1,,Puxmetacan,130_heavy,►,►,,,Kondic2019,,false,,
-Puxmetacan-131_far-1,,Puxmetacan,131_far,►,►,,,Kondic2019,,false,,
-Puxmetacan-132_near-1,,Puxmetacan,132_near,►,►,,,Kondic2019,,false,,
-Puxmetacan-133_warm-1,,Puxmetacan,133_warm,►,►,,,Kondic2019,,false,,
-Puxmetacan-134_cold-1,,Puxmetacan,134_cold,►,►,,,Kondic2019,,false,,
-Puxmetacan-135_dry-1,,Puxmetacan,135_dry,►,►,,,Kondic2019,,false,,
-Puxmetacan-136_wet-1,,Puxmetacan,136_wet,►,►,,,Kondic2019,,false,,
-Puxmetacan-137_new-1,,Puxmetacan,137_new,►,►,,,Kondic2019,,false,,
-Puxmetacan-138_other-1,,Puxmetacan,138_other,►,►,,,Kondic2019,,false,,
-Puxmetacan-139_come-1,,Puxmetacan,139_come,►,►,,,Kondic2019,,false,,
-Puxmetacan-140_walk-1,,Puxmetacan,140_walk,►,►,,,Kondic2019,,false,,
-Puxmetacan-141_grow-1,,Puxmetacan,141_grow,►,►,,,Kondic2019,,false,,
-Puxmetacan-142_stand-1,,Puxmetacan,142_stand,►,►,,,Kondic2019,,false,,
-Puxmetacan-143_sit-1,,Puxmetacan,143_sit,►,►,,,Kondic2019,,false,,
-Puxmetacan-145_liedown-1,,Puxmetacan,145_liedown,►,►,,,Kondic2019,,false,,
-Puxmetacan-146_turn-1,,Puxmetacan,146_turn,►,►,,,Kondic2019,,false,,
-Puxmetacan-147_climb-1,,Puxmetacan,147_climb,►,►,,,Kondic2019,,false,,
-Puxmetacan-148_swim-1,,Puxmetacan,148_swim,►,►,,,Kondic2019,,false,,
-Puxmetacan-149_flyverb-1,,Puxmetacan,149_flyverb,►,►,,,Kondic2019,,false,,
-Puxmetacan-151_hide-1,,Puxmetacan,151_hide,►,►,,,Kondic2019,,false,,
-Puxmetacan-152_chew-1,,Puxmetacan,152_chew,►,►,,,Kondic2019,,false,,
-Puxmetacan-153_eat-1,,Puxmetacan,153_eat,►,►,,,Kondic2019,,false,,
-Puxmetacan-154_drink-1,,Puxmetacan,154_drink,►,►,,,Kondic2019,,false,,
-Puxmetacan-155_bite-1,,Puxmetacan,155_bite,►,►,,,Kondic2019,,false,,
-Puxmetacan-156_suck-1,,Puxmetacan,156_suck,►,►,,,Kondic2019,,false,,
-Puxmetacan-157_yawn-1,,Puxmetacan,157_yawn,►,►,,,Kondic2019,,false,,
-Puxmetacan-158_spit-1,,Puxmetacan,158_spit,►,►,,,Kondic2019,,false,,
-Puxmetacan-159_dream-1,,Puxmetacan,159_dream,►,►,,,Kondic2019,,false,,
-Puxmetacan-160_sleep-1,,Puxmetacan,160_sleep,►,►,,,Kondic2019,,false,,
-Puxmetacan-161_live-1,,Puxmetacan,161_live,►,►,,,Kondic2019,,false,,
-Puxmetacan-162_die-1,,Puxmetacan,162_die,►,►,,,Kondic2019,,false,,
-Puxmetacan-163_kill-1,,Puxmetacan,163_kill,►,►,,,Kondic2019,,false,,
-Puxmetacan-164_see-1,,Puxmetacan,164_see,►,►,,,Kondic2019,,false,,
-Puxmetacan-165_hear-1,,Puxmetacan,165_hear,►,►,,,Kondic2019,,false,,
-Puxmetacan-166_sniffsmell-1,,Puxmetacan,166_sniffsmell,►,►,,,Kondic2019,,false,,
-Puxmetacan-167_know-1,,Puxmetacan,167_know,►,►,,,Kondic2019,,false,,
-Puxmetacan-168_think-1,,Puxmetacan,168_think,►,►,,,Kondic2019,,false,,
-Puxmetacan-169_laugh-1,,Puxmetacan,169_laugh,►,►,,,Kondic2019,,false,,
-Puxmetacan-170_cry-1,,Puxmetacan,170_cry,►,►,,,Kondic2019,,false,,
-Puxmetacan-171_blow-1,,Puxmetacan,171_blow,►,►,,,Kondic2019,,false,,
-Puxmetacan-172_burn-1,,Puxmetacan,172_burn,►,►,,,Kondic2019,,false,,
-Puxmetacan-173_flow-1,,Puxmetacan,173_flow,►,►,,,Kondic2019,,false,,
-Puxmetacan-174_sew-1,,Puxmetacan,174_sew,►,►,,,Kondic2019,,false,,
-Puxmetacan-176_hit-1,,Puxmetacan,176_hit,►,►,,,Kondic2019,,false,,
-Puxmetacan-177_cut-1,,Puxmetacan,177_cut,►,►,,,Kondic2019,,false,,
-Puxmetacan-178_split-1,,Puxmetacan,178_split,►,►,,,Kondic2019,,false,,
-Puxmetacan-179_dig-1,,Puxmetacan,179_dig,►,►,,,Kondic2019,,false,,
-Puxmetacan-180_hunt-1,,Puxmetacan,180_hunt,►,►,,,Kondic2019,,false,,
-Puxmetacan-181_hold-1,,Puxmetacan,181_hold,►,►,,,Kondic2019,,false,,
-Puxmetacan-182_fear-1,,Puxmetacan,182_fear,►,►,,,Kondic2019,,false,,
-Puxmetacan-183_count-1,,Puxmetacan,183_count,►,►,,,Kondic2019,,false,,
-Puxmetacan-184_breathe-1,,Puxmetacan,184_breathe,►,►,,,Kondic2019,,false,,
-Puxmetacan-185_vomit-1,,Puxmetacan,185_vomit,►,►,,,Kondic2019,,false,,
-Puxmetacan-186_tieup-1,,Puxmetacan,186_tieup,►,►,,,Kondic2019,,false,,
-Puxmetacan-187_squeeze-1,,Puxmetacan,187_squeeze,►,►,,,Kondic2019,,false,,
-Puxmetacan-188_swell-1,,Puxmetacan,188_swell,►,►,,,Kondic2019,,false,,
-Puxmetacan-189_say-1,,Puxmetacan,189_say,►,►,,,Kondic2019,,false,,
-Puxmetacan-190_scratch-1,,Puxmetacan,190_scratch,►,►,,,Kondic2019,,false,,
-Puxmetacan-191_stab-1,,Puxmetacan,191_stab,►,►,,,Kondic2019,,false,,
-Puxmetacan-193_steal-1,,Puxmetacan,193_steal,►,►,,,Kondic2019,,false,,
-Puxmetacan-194_choose-1,,Puxmetacan,194_choose,►,►,,,Kondic2019,,false,,
-Puxmetacan-195_plant-1,,Puxmetacan,195_plant,►,►,,,Kondic2019,,false,,
-Puxmetacan-196_cook-1,,Puxmetacan,196_cook,►,►,,,Kondic2019,,false,,
-Puxmetacan-197_shoot-1,,Puxmetacan,197_shoot,►,►,,,Kondic2019,,false,,
-Puxmetacan-198_work-1,,Puxmetacan,198_work,►,►,,,Kondic2019,,false,,
+Puxmetacan-23_above-1,,Puxmetacan,23_above,nəgəʃʲ,nəgəʃʲ,n ə g ə ʃʲ,,Kondic2019,,false,^ n ə g ə ʃʲ $,default
+Puxmetacan-24_below-1,,Puxmetacan,24_below,abatkəʔəj,abatkəʔəj,a b a t k ə ʔ ə j,,Kondic2019,,false,^ a b a t k əʔə j $,default
+Puxmetacan-25_ininside-1,,Puxmetacan,25_ininside,təgoʔotʲ,təgoʔotʲ,t ə g o ʔ o tʲ,,Kondic2019,,false,^ t ə g oʔo tʲ $,default
+Puxmetacan-27_head-1,,Puxmetacan,27_head,kowahk,kowahk,k o w a h k,,Kondic2019,,false,^ k o w a h k $,default
+Puxmetacan-28_hair-1,,Puxmetacan,28_hair,waʔaj,waʔaj,w a ʔ a j,,Kondic2019,,false,^ w aʔa j $,default
+Puxmetacan-29_eye-1,,Puxmetacan,29_eye,wiʔin,wiʔin,w i ʔ i n,,Kondic2019,,false,^ w iʔi n $,default
+Puxmetacan-30_nose-1,,Puxmetacan,30_nose,həʔəhp,həʔəhp,h ə ʔ ə h p,,Kondic2019,,false,^ h əʔə h p $,default
+Puxmetacan-31_ear-1,,Puxmetacan,31_ear,taʔatsk,taʔatsk,t a ʔ a ts k,,Kondic2019,,false,^ t aʔa ts k $,default
+Puxmetacan-32_mouth-1,,Puxmetacan,32_mouth,aʔaw,aʔaw,a ʔ a w,,Kondic2019,,false,^ aʔa w $,default
+Puxmetacan-33_tongue-1,,Puxmetacan,33_tongue,toʔots,toʔots,t o ʔ o ts,,Kondic2019,,false,^ t oʔo ts $,default
+Puxmetacan-34_tooth-1,,Puxmetacan,34_tooth,təʔəts,təʔəts,t ə ʔ ə ts,,Kondic2019,,false,^ t əʔə ts $,default
+Puxmetacan-35_hand-1,,Puxmetacan,35_hand,kəʔə,kəʔə,k ə ʔ ə,,Kondic2019,,false,^ k əʔə $,default
+Puxmetacan-36_shoulder-1,,Puxmetacan,36_shoulder,kehk,kehk,k e h k,,Kondic2019,,false,^ k e h k $,default
+Puxmetacan-37_neck-1,,Puxmetacan,37_neck,jok,jok,j o k,,Kondic2019,,false,^ j o k $,default
+Puxmetacan-38_back-1,,Puxmetacan,38_back,həʃk,həʃk,h ə ʃ k,,Kondic2019,,false,^ h ə ʃ k $,default
+Puxmetacan-39_leg-1,,Puxmetacan,39_leg,puʔuj,puʔuj,p u ʔ u j,,Kondic2019,,false,^ p uʔu j $,default
+Puxmetacan-40_blood-1,,Puxmetacan,40_blood,nəʔəpʲ,nəʔəpʲ,n ə ʔ ə pʲ,,Kondic2019,,false,^ n əʔə pʲ $,default
+Puxmetacan-41_bone-1,,Puxmetacan,41_bone,pahk,pahk,p a h k,,Kondic2019,,false,^ p a h k $,default
+Puxmetacan-42_skin-1,,Puxmetacan,42_skin,naʔak,naʔak,n a ʔ a k,,Kondic2019,,false,^ n aʔa k $,default
+Puxmetacan-43_belly-1,,Puxmetacan,43_belly,moʃ,moʃ,m o ʃ,,Kondic2019,,false,^ m o ʃ $,default
+Puxmetacan-44_intestines-1,,Puxmetacan,44_intestines,tiʔintʲ,tiʔintʲ,t i ʔ i n tʲ,,Kondic2019,,false,^ t iʔi n tʲ $,default
+Puxmetacan-45_breast-1,,Puxmetacan,45_breast,tsiʔitsk,tsiʔitsk,ts i ʔ i ts k,,Kondic2019,,false,^ ts iʔi ts k $,default
+Puxmetacan-46_liver-1,,Puxmetacan,46_liver,joʔot,joʔot,j o ʔ o t,,Kondic2019,,false,^ j oʔo t $,default
+Puxmetacan-47_dog-1,,Puxmetacan,47_dog,uk,uk,u k,,Kondic2019,,false,^ u k $,default
+Puxmetacan-48_bird-1,,Puxmetacan,48_bird,hoʔon,hoʔon,h o ʔ o n,,Kondic2019,,false,^ h oʔo n $,default
+Puxmetacan-49_fish-1,,Puxmetacan,49_fish,nəjuʔuhk,nəjuʔuhk,n ə j u ʔ u h k,,Kondic2019,,false,^ n ə j uʔu h k $,default
+Puxmetacan-50_snake-1,,Puxmetacan,50_snake,tsaʔaɲ,tsaʔaɲ,ts a ʔ a ɲ,,Kondic2019,,false,^ ts aʔa ɲ $,default
+Puxmetacan-51_worm-1,,Puxmetacan,51_worm,naʃtiʔintʲ,naʃtiʔintʲ,n a ʃ t i ʔ i n tʲ,,Kondic2019,,false,^ n a ʃ t iʔi n tʲ $,default
+Puxmetacan-52_louse-1,,Puxmetacan,52_louse,aʔat,aʔat,a ʔ a t,,Kondic2019,,false,^ aʔa t $,default
+Puxmetacan-53_rat-1,,Puxmetacan,53_rat,tsuk,tsuk,ts u k,,Kondic2019,,false,^ ts u k $,default
+Puxmetacan-54_spider-1,,Puxmetacan,54_spider,poʔoʃʲ,poʔoʃʲ,p o ʔ o ʃʲ,,Kondic2019,,false,^ p oʔo ʃʲ $,default
+Puxmetacan-55_mosquito-1,,Puxmetacan,55_mosquito,heʔeɲ,heʔeɲ,h e ʔ e ɲ,,Kondic2019,,false,^ h eʔe ɲ $,default
+Puxmetacan-56_egg-1,,Puxmetacan,56_egg,təjuʔutʲ,təjuʔutʲ,t ə j u ʔ u tʲ,,Kondic2019,,false,^ t ə j uʔu tʲ $,default
+Puxmetacan-57_tail-1,,Puxmetacan,57_tail,piʔiʃʲ,piʔiʃʲ,p i ʔ i ʃʲ,,Kondic2019,,false,^ p iʔi ʃʲ $,default
+Puxmetacan-58_wing-1,,Puxmetacan,58_wing,kaʔak,kaʔak,k a ʔ a k,,Kondic2019,,false,^ k aʔa k $,default
+Puxmetacan-60_person-1,,Puxmetacan,60_person,haʔaj,haʔaj,h a ʔ a j,,Kondic2019,,false,^ h aʔa j $,default
+Puxmetacan-61_man-1,,Puxmetacan,61_man,jaʔatʲəhk,jaʔatʲəhk,j a ʔ a tʲ ə h k,,Kondic2019,,false,^ j aʔa tʲ ə h k $,default
+Puxmetacan-62_woman-1,,Puxmetacan,62_woman,toʃtʲəhk,toʃtʲəhk,t o ʃ tʲ ə h k,,Kondic2019,,false,^ t o ʃ tʲ ə h k $,default
+Puxmetacan-63_child-1,,Puxmetacan,63_child,jajənaʔak,jajənaʔak,j a j ə n a ʔ a k,,Kondic2019,,false,^ j a j ə n aʔa k $,default
+Puxmetacan-64_name-1,,Puxmetacan,64_name,haʔaʃəw,haʔaʃəw,h a ʔ a ʃ ə w,,Kondic2019,,false,^ h aʔa ʃ ə w $,default
+Puxmetacan-65_mother-1,,Puxmetacan,65_mother,tʲaʔak,tʲaʔak,tʲ a ʔ a k,<y-taak POSS-mother 'her/his mother',Kondic2019,,false,^ tʲ aʔa k $,default
+Puxmetacan-66_father-1,,Puxmetacan,66_father,tʲəʔətʲ,tʲəʔətʲ,tʲ ə ʔ ə tʲ,<y-təʔətʲ POSS-father 'her/his father',Kondic2019,,false,^ tʲ əʔə tʲ $,default
+Puxmetacan-67_husband-1,,Puxmetacan,67_husband,nijaʔatʲəhk,nijaʔatʲəhk,n i j a ʔ a tʲ ə h k,,Kondic2019,,false,^ n i j aʔa tʲ ə h k $,default
+Puxmetacan-68_wife-1,,Puxmetacan,68_wife,nədoʔoʃʲ,nədoʔoʃʲ,n ə d o ʔ o ʃʲ,,Kondic2019,,false,^ n ə d oʔo ʃʲ $,default
+Puxmetacan-69_day-1,,Puxmetacan,69_day,ʃəʔəɲ,ʃəʔəɲ,ʃ ə ʔ ə ɲ,,Kondic2019,,false,^ ʃ əʔə ɲ $,default
+Puxmetacan-70_night-1,,Puxmetacan,70_night,tsuʔu,tsuʔu,ts u ʔ u,,Kondic2019,,false,^ ts uʔu $,default
+Puxmetacan-71_moon-1,,Puxmetacan,71_moon,poʔo,poʔo,p o ʔ o,,Kondic2019,,false,^ p oʔo $,default
+Puxmetacan-72_star-1,,Puxmetacan,72_star,matsaʔa,matsaʔa,m a ts a ʔ a,,Kondic2019,,false,^ m a ts aʔa $,default
+Puxmetacan-73_sky-1,,Puxmetacan,73_sky,tsahpoʔot,tsahpoʔot,ts a h p o ʔ o t,,Kondic2019,,false,^ ts a h p oʔo t $,default
+Puxmetacan-74_water-1,,Puxmetacan,74_water,nəʔə,nəʔə,n ə ʔ ə,,Kondic2019,,false,^ n əʔə $,default
+Puxmetacan-77_fire-1,,Puxmetacan,77_fire,həʔən,həʔən,h ə ʔ ə n,,Kondic2019,,false,^ h əʔə n $,default
+Puxmetacan-78_smoke-1,,Puxmetacan,78_smoke,hanok,hanok,h a n o k,,Kondic2019,,false,^ h a n o k $,default
+Puxmetacan-79_ash-1,,Puxmetacan,79_ash,haʔam,haʔam,h a ʔ a m,,Kondic2019,,false,^ h aʔa m $,default
+Puxmetacan-80_stone-1,,Puxmetacan,80_stone,tsaʔah,tsaʔah,ts a ʔ a h,,Kondic2019,,false,^ ts aʔa h $,default
+Puxmetacan-81_earthsoil-1,,Puxmetacan,81_earthsoil,naʔaʃ,naʔaʃ,n a ʔ a ʃ,,Kondic2019,,false,^ n aʔa ʃ $,default
+Puxmetacan-82_dust-1,,Puxmetacan,82_dust,puʔuʃ,puʔuʃ,p u ʔ u ʃ,,Kondic2019,,false,^ p uʔu ʃ $,default
+Puxmetacan-83_sand-1,,Puxmetacan,83_sand,puʔuh,puʔuh,p u ʔ u h,,Kondic2019,,false,^ p uʔu h $,default
+Puxmetacan-84_rain-1,,Puxmetacan,84_rain,tuʔuh,tuʔuh,t u ʔ u h,,Kondic2019,,false,^ t uʔu h $,default
+Puxmetacan-85_cloud-1,,Puxmetacan,85_cloud,hok,hok,h o k,,Kondic2019,,false,^ h o k $,default
+Puxmetacan-86_wind-1,,Puxmetacan,86_wind,poh,poh,p o h,,Kondic2019,,false,^ p o h $,default
+Puxmetacan-88_thunder-1,,Puxmetacan,88_thunder,anaʔah,anaʔah,a n a ʔ a h,,Kondic2019,,false,^ a n aʔa h $,default
+Puxmetacan-89_lightning-1,,Puxmetacan,89_lightning,wətsuhkp,wətsuhkp,w ə ts u h k p,,Kondic2019,,false,^ w ə ts u h k p $,default
+Puxmetacan-90_meatflesh-1,,Puxmetacan,90_meatflesh,tsuʔutʲ,tsuʔutʲ,ts u ʔ u tʲ,,Kondic2019,,false,^ ts uʔu tʲ $,default
+Puxmetacan-91_salt-1,,Puxmetacan,91_salt,kaʔan,kaʔan,k a ʔ a n,,Kondic2019,,false,^ k aʔa n $,default
+Puxmetacan-92_fatgrease-1,,Puxmetacan,92_fatgrease,on,on,o n,,Kondic2019,,false,^ o n $,default
+Puxmetacan-93_fruit-1,,Puxmetacan,93_fruit,uhtstəʔəm,uhtstəʔəm,u h ts t ə ʔ ə m,,Kondic2019,,false,^ u h ts t əʔə m $,default
+Puxmetacan-94_woodsforest-1,,Puxmetacan,94_woodsforest,juk,juk,j u k,,Kondic2019,,false,^ j u k $,default
+Puxmetacan-95_root-1,,Puxmetacan,95_root,tʲikts,tʲikts,tʲ i k ts,<y-tikts POSS3-root 'its root',Kondic2019,,false,^ tʲ i k ts $,default
+Puxmetacan-96_branch-1,,Puxmetacan,96_branch,kepʃeʔeɲ,kepʃeʔeɲ,k e p ʃ e ʔ e ɲ,,Kondic2019,,false,^ k e p ʃ eʔe ɲ $,default
+Puxmetacan-97_leaf-1,,Puxmetacan,97_leaf,aʔaj,aʔaj,a ʔ a j,,Kondic2019,,false,^ aʔa j $,default
+Puxmetacan-98_wood-1,,Puxmetacan,98_wood,juk,juk,j u k,,Kondic2019,,false,^ j u k $,default
+Puxmetacan-99_grass-1,,Puxmetacan,99_grass,uhts,uhts,u h ts,,Kondic2019,,false,^ u h ts $,default
+Puxmetacan-100_flower-1,,Puxmetacan,100_flower,pəhʲ,pəhʲ,p ə hʲ,,Kondic2019,,false,^ p ə hʲ $,default
+Puxmetacan-101_thatchroof-1,,Puxmetacan,101_thatchroof,məʔətʲəhk,məʔətʲəhk,m ə ʔ ə tʲ ə h k,<məʔə-j-təhk roof-POSS3-house 'house roof',Kondic2019,,false,^ m əʔə tʲ ə h k $,default
+Puxmetacan-102_house-1,,Puxmetacan,102_house,təhk,təhk,t ə h k,,Kondic2019,,false,^ t ə h k $,default
+Puxmetacan-103_rope-1,,Puxmetacan,103_rope,tepʃʲ,tepʃʲ,t e p ʃʲ,,Kondic2019,,false,^ t e p ʃʲ $,default
+Puxmetacan-104_needle-1,,Puxmetacan,104_needle,ʃuʔuɲ,ʃuʔuɲ,ʃ u ʔ u ɲ,,Kondic2019,,false,^ ʃ uʔu ɲ $,default
+Puxmetacan-105_roadpath-1,,Puxmetacan,105_roadpath,tuʔu,tuʔu,t u ʔ u,,Kondic2019,,false,^ t uʔu $,default
+Puxmetacan-106_black-1,,Puxmetacan,106_black,tsiʃ,tsiʃ,ts i ʃ,,Kondic2019,,false,^ ts i ʃ $,default
+Puxmetacan-107_white-1,,Puxmetacan,107_white,poʔop,poʔop,p o ʔ o p,,Kondic2019,,false,^ p oʔo p $,default
+Puxmetacan-108_red-1,,Puxmetacan,108_red,tsapts,tsapts,ts a p ts,,Kondic2019,,false,^ ts a p ts $,default
+Puxmetacan-109_green-1,,Puxmetacan,109_green,tsuʃk,tsuʃk,ts u ʃ k,,Kondic2019,,false,^ ts u ʃ k $,default
+Puxmetacan-110_yellow-1,,Puxmetacan,110_yellow,puʔuts,puʔuts,p u ʔ u ts,,Kondic2019,,false,^ p uʔu ts $,default
+Puxmetacan-111_big-1,,Puxmetacan,111_big,məh,məh,m ə h,,Kondic2019,,false,^ m ə h $,default
+Puxmetacan-112_small-1,,Puxmetacan,112_small,muʔutsk,muʔutsk,m u ʔ u ts k,,Kondic2019,,false,^ m uʔu ts k $,default
+Puxmetacan-113_long-1,,Puxmetacan,113_long,joɲ,joɲ,j o ɲ,,Kondic2019,,false,^ j o ɲ $,default
+Puxmetacan-114_short-1,,Puxmetacan,114_short,kon,kon,k o n,,Kondic2019,,false,^ k o n $,default
+Puxmetacan-115_thick-1,,Puxmetacan,115_thick,mahpʃʲ,mahpʃʲ,m a h p ʃʲ,,Kondic2019,,false,^ m a h p ʃʲ $,default
+Puxmetacan-116_thin-1,,Puxmetacan,116_thin,pehʲ,pehʲ,p e hʲ,,Kondic2019,,false,^ p e hʲ $,default
+Puxmetacan-117_narrow-1,,Puxmetacan,117_narrow,ʃuʔuts,ʃuʔuts,ʃ u ʔ u ts,,Kondic2019,,false,^ ʃ uʔu ts $,default
+Puxmetacan-118_wide-1,,Puxmetacan,118_wide,məh,məh,m ə h,,Kondic2019,,false,^ m ə h $,default
+Puxmetacan-119_sharp-1,,Puxmetacan,119_sharp,həhp,həhp,h ə h p,,Kondic2019,,false,^ h ə h p $,default
+Puxmetacan-120_bluntdull-1,,Puxmetacan,120_bluntdull,hʲəhpkeʔep,hʲəhpkeʔep,hʲ ə h p k e ʔ e p,,Kondic2019,,false,^ hʲ ə h p k eʔe p $,default
+Puxmetacan-121_shyashamed-1,,Puxmetacan,121_shyashamed,tsoʔodʲuʔump,tsoʔodʲuʔump,ts o ʔ o dʲ u ʔ u m p,,Kondic2019,,false,^ ts oʔo dʲ uʔu m p $,default
+Puxmetacan-122_old-1,,Puxmetacan,122_old,məhaʔaj,məhaʔaj,m ə h a ʔ a j,,Kondic2019,,false,^ m ə h aʔa j $,default
+Puxmetacan-123_painfulsick-1,,Puxmetacan,123_painfulsick,pəhkp,pəhkp,p ə h k p,,Kondic2019,,false,^ p ə h k p $,default
+Puxmetacan-124_good-1,,Puxmetacan,124_good,oj,oj,o j,,Kondic2019,,false,^ o j $,default
+Puxmetacan-125_bad-1,,Puxmetacan,125_bad,aʃəʔək,aʃəʔək,a ʃ ə ʔ ə k,,Kondic2019,,false,^ a ʃ əʔə k $,default
+Puxmetacan-126_correcttrue-1,,Puxmetacan,126_correcttrue,ojəʔə,ojəʔə,o j ə ʔ ə,,Kondic2019,,false,^ o j əʔə $,default
+Puxmetacan-127_dirty-1,,Puxmetacan,127_dirty,hewjək,hewjək,h e w j ə k,,Kondic2019,,false,^ h e w j ə k $,default
+Puxmetacan-128_rotten-1,,Puxmetacan,128_rotten,təmjaʔan,təmjaʔan,t ə m j a ʔ a n,,Kondic2019,,false,^ t ə m j aʔa n $,default
+Puxmetacan-129_all-1,,Puxmetacan,129_all,neʔihtʲ,neʔihtʲ,n e ʔ i h tʲ,,Kondic2019,,false,^ n e ʔ i h tʲ $,default
+Puxmetacan-130_heavy-1,,Puxmetacan,130_heavy,heʔemtʲ,heʔemtʲ,h e ʔ e m tʲ,,Kondic2019,,false,^ h eʔe m tʲ $,default
+Puxmetacan-131_far-1,,Puxmetacan,131_far,hagam,hagam,h a g a m,,Kondic2019,,false,^ h a g a m $,default
+Puxmetacan-132_near-1,,Puxmetacan,132_near,wingon,wingon,w i n g o n,,Kondic2019,,false,^ w i n g o n $,default
+Puxmetacan-133_warm-1,,Puxmetacan,133_warm,ambəkp,ambəkp,a m b ə k p,,Kondic2019,,false,^ a m b ə k p $,default
+Puxmetacan-134_cold-1,,Puxmetacan,134_cold,pakʲ,pakʲ,p a kʲ,,Kondic2019,,false,^ p a kʲ $,default
+Puxmetacan-135_dry-1,,Puxmetacan,135_dry,jahtəʔəts,jahtəʔəts,j a h t ə ʔ ə ts,<jah-təʔəts CAUS-dry 'dried',Kondic2019,,false,^ j a h t əʔə ts $,default
+Puxmetacan-136_wet-1,,Puxmetacan,136_wet,ʃoʔok,ʃoʔok,ʃ o ʔ o k,,Kondic2019,,false,^ ʃ oʔo k $,default
+Puxmetacan-137_new-1,,Puxmetacan,137_new,anak,anak,a n a k,,Kondic2019,,false,^ a n a k $,default
+Puxmetacan-138_other-1,,Puxmetacan,138_other,jəʔəhətʲ,jəʔəhətʲ,j ə ʔ ə h ə tʲ,,Kondic2019,,false,^ j əʔə h ə tʲ $,default
+Puxmetacan-139_come-1,,Puxmetacan,139_come,tihjaʔatʲ,tihjaʔatʲ,t i h j a ʔ a tʲ,<imp 'come!',Kondic2019,,false,^ t i h j aʔa tʲ $,default
+Puxmetacan-140_walk-1,,Puxmetacan,140_walk,joʔoj,joʔoj,j o ʔ o j,IMP 'walk!',Kondic2019,,false,^ j oʔo j $,default
+Puxmetacan-141_grow-1,,Puxmetacan,141_grow,jaʔakp,jaʔakp,j a ʔ a k p,<jaʔak-p grow-GR 'grows',Kondic2019,,false,^ j aʔa k p $,default
+Puxmetacan-142_stand-1,,Puxmetacan,142_stand,wakuk,wakuk,w a k u k,IMPER 'stand!',Kondic2019,,false,^ w a k u k $,default
+Puxmetacan-143_sit-1,,Puxmetacan,143_sit,teknaʔap,teknaʔap,t e k n a ʔ a p,teknaʔa-p sit-GR 'sits',Kondic2019,,false,^ t e k n aʔa p $,default
+Puxmetacan-145_liedown-1,,Puxmetacan,145_liedown,koknaʔap,koknaʔap,k o k n a ʔ a p,<koknaʔa-p lie.down-GR 'lies down',Kondic2019,,false,^ k o k n aʔa p $,default
+Puxmetacan-146_turn-1,,Puxmetacan,146_turn,koʔumbit,koʔumbit,k o ʔ u m b i t,<koʔumbit IMP 'turn around!',Kondic2019,,false,^ k o ʔ u m b i t $,default
+Puxmetacan-147_climb-1,,Puxmetacan,147_climb,pat,pat,p a t,IMP 'climb!',Kondic2019,,false,^ p a t $,default
+Puxmetacan-148_swim-1,,Puxmetacan,148_swim,jun,jun,j u n,<jun IMP 'swim!',Kondic2019,,false,^ j u n $,default
+Puxmetacan-149_flyverb-1,,Puxmetacan,149_flyverb,kagəkp,kagəkp,k a g ə k p,<kagək-p fly-GR 'flies',Kondic2019,,false,^ k a g ə k p $,default
+Puxmetacan-151_hide-1,,Puxmetacan,151_hide,nəjuʔugij,nəjuʔugij,n ə j u ʔ u g i j,<nəjuʔu-gij hide-IMP 'hide!',Kondic2019,,false,^ n ə j uʔu g i j $,default
+Puxmetacan-152_chew-1,,Puxmetacan,152_chew,puʔuj,puʔuj,p u ʔ u j,<puʔuj IMP 'chew (it)',Kondic2019,,false,^ p uʔu j $,default
+Puxmetacan-153_eat-1,,Puxmetacan,153_eat,kaʔap,kaʔap,k a ʔ a p,< kaʔa-p eat-GR 'eats',Kondic2019,,false,^ k aʔa p $,default
+Puxmetacan-154_drink-1,,Puxmetacan,154_drink,uʔukp,uʔukp,u ʔ u k p,<uʔuk-p drink-GR 'drinks',Kondic2019,,false,^ uʔu k p $,default
+Puxmetacan-155_bite-1,,Puxmetacan,155_bite,tsuʔutsp,tsuʔutsp,ts u ʔ u ts p,<tsuʔuts-p bite-GR 'bites',Kondic2019,,false,^ ts uʔu ts p $,default
+Puxmetacan-156_suck-1,,Puxmetacan,156_suck,tsiʔitsp,tsiʔitsp,ts i ʔ i ts p,<tsiʔits-p suck-GR 'sucks',Kondic2019,,false,^ ts iʔi ts p $,default
+Puxmetacan-157_yawn-1,,Puxmetacan,157_yawn,maʔajəgahʲ,maʔajəgahʲ,m a ʔ a j ə g a hʲ,<maʔajəgahʲ yawn IMP 'yawn!',Kondic2019,,false,^ m aʔa j ə g a hʲ $,default
+Puxmetacan-158_spit-1,,Puxmetacan,158_spit,tsuhp,tsuhp,ts u h p,<tsuj-p spit-GR 'spits',Kondic2019,,false,^ ts u h p $,default
+Puxmetacan-159_dream-1,,Puxmetacan,159_dream,kəmaʔap,kəmaʔap,k ə m a ʔ a p,<kəmaʔa-p dream-GR 'dreams',Kondic2019,,false,^ k ə m aʔa p $,default
+Puxmetacan-160_sleep-1,,Puxmetacan,160_sleep,maʔap,maʔap,m a ʔ a p,<maʔa-p sleep-GR 'sleeps',Kondic2019,,false,^ m aʔa p $,default
+Puxmetacan-161_live-1,,Puxmetacan,161_live,tsanaʔap,tsanaʔap,ts a n a ʔ a p,<tsanaʔa-p live-GR 'lives',Kondic2019,,false,^ ts a n aʔa p $,default
+Puxmetacan-162_die-1,,Puxmetacan,162_die,oʔokp,oʔokp,o ʔ o k p,<oʔok-p die-GR 'dies',Kondic2019,,false,^ oʔo k p $,default
+Puxmetacan-163_kill-1,,Puxmetacan,163_kill,jahajoʔokp,jahajoʔokp,j a h a j o ʔ o k p,<jah-aj-oʔok-p CAUS-?-die-GR 'kills',Kondic2019,,false,^ j a h a j oʔo k p $,default
+Puxmetacan-164_see-1,,Puxmetacan,164_see,ihʃpʲ,ihʃpʲ,i h ʃ pʲ,<ihʃ-pʲ see-GR 'sees',Kondic2019,,false,^ i h ʃ pʲ $,default
+Puxmetacan-165_hear-1,,Puxmetacan,165_hear,mideʔepʲ,mideʔepʲ,m i d e ʔ e pʲ,<mideʔe-pʲ hear-GR 'hears',Kondic2019,,false,^ m i d eʔe pʲ $,default
+Puxmetacan-166_sniffsmell-1,,Puxmetacan,166_sniffsmell,ʃuʔukp,ʃuʔukp,ʃ u ʔ u k p,< ʃuʔuk-p smell-GR 'smells',Kondic2019,,false,^ ʃ uʔu k p $,default
+Puxmetacan-167_know-1,,Puxmetacan,167_know,ɲahaʔap,ɲahaʔap,ɲ a h a ʔ a p,< j-nahaʔa-p 3SG-know-GR 'knows',Kondic2019,,false,^ ɲ a h aʔa p $,default
+Puxmetacan-168_think-1,,Puxmetacan,168_think,tətmaj,tətmaj,t ə t m a j,<tət-maj think-IMP 'think!',Kondic2019,,false,^ t ə t m a j $,default
+Puxmetacan-169_laugh-1,,Puxmetacan,169_laugh,ʃiʔikp,ʃiʔikp,ʃ i ʔ i k p,<ʃiʔik-p laugh-GR 'laughs',Kondic2019,,false,^ ʃ iʔi k p $,default
+Puxmetacan-170_cry-1,,Puxmetacan,170_cry,jaʔaʃp,jaʔaʃp,j a ʔ a ʃ p,<jaʔaʃ-p CRY-GR 'cries',Kondic2019,,false,^ j aʔa ʃ p $,default
+Puxmetacan-171_blow-1,,Puxmetacan,171_blow,pohp,pohp,p o h p,<poj-p blow-GR 'blows',Kondic2019,,false,^ p o h p $,default
+Puxmetacan-172_burn-1,,Puxmetacan,172_burn,tetʲoj,tetʲoj,t e tʲ o j,<te-j-toj there-3SG-burn 'there (it) burned',Kondic2019,,false,^ t e tʲ o j $,default
+Puxmetacan-173_flow-1,,Puxmetacan,173_flow,pəjəkp,pəjəkp,p ə j ə k p,<pəjək-p flow/run-GR 'runs',Kondic2019,,false,^ p ə j ə k p $,default
+Puxmetacan-174_sew-1,,Puxmetacan,174_sew,ʃiʔipʲ,ʃiʔipʲ,ʃ i ʔ i pʲ,<ʃiʔi-pʲ sew-GR 'sews',Kondic2019,,false,^ ʃ iʔi pʲ $,default
+Puxmetacan-176_hit-1,,Puxmetacan,176_hit,jahkepjohp,jahkepjohp,j a h k e p j o h p,<jahke-j-poh-p CAUS-3SG-hit-GR 'hits',Kondic2019,,false,^ j a h k e p j o h p $,default
+Puxmetacan-177_cut-1,,Puxmetacan,177_cut,haʔaʃʲpʲotp,haʔaʃʲpʲotp,h a ʔ a ʃʲ pʲ o t p,<haʔaʃʲ-j-pot-p cut-POSS-wood-GR 'cuts his wood',Kondic2019,,false,^ h aʔa ʃʲ pʲ o t p $,default
+Puxmetacan-178_split-1,,Puxmetacan,178_split,jahwakʃ,jahwakʃ,j a h w a k ʃ,<jah-wak-ʃ CAUS-split-? 'split!',Kondic2019,,false,^ j a h w a k ʃ $,default
+Puxmetacan-180_hunt-1,,Puxmetacan,180_hunt,pəhkp,pəhkp,p ə h k p,<pəhk-p hunt-GR 'hunts',Kondic2019,,false,^ p ə h k p $,default
+Puxmetacan-181_hold-1,,Puxmetacan,181_hold,mahtsitʲ,mahtsitʲ,m a h ts i tʲ,<mahts-itʲ hold-IMP 'hold (it)',Kondic2019,,false,^ m a h ts i tʲ $,default
+Puxmetacan-182_fear-1,,Puxmetacan,182_fear,tsəʔəkəp,tsəʔəkəp,ts ə ʔ ə k ə p,<tsəʔəkə-p fear-GR 'fears',Kondic2019,,false,^ ts əʔə k ə p $,default
+Puxmetacan-183_count-1,,Puxmetacan,183_count,mədʲow,mədʲow,m ə dʲ o w,<mədʲ-ow count-IMP 'count!',Kondic2019,,false,^ m ə dʲ o w $,default
+Puxmetacan-184_breathe-1,,Puxmetacan,184_breathe,ʃah,ʃah,ʃ a h,<IMP 'breath!',Kondic2019,,false,^ ʃ a h $,default
+Puxmetacan-185_vomit-1,,Puxmetacan,185_vomit,əʔətsp,əʔətsp,ə ʔ ə ts p,<əʔəts-p vomit-GR 'vomits',Kondic2019,,false,^ əʔə ts p $,default
+Puxmetacan-186_tieup-1,,Puxmetacan,186_tieup,azim,azim,a z i m,,Kondic2019,,false,^ a z i m $,default
+Puxmetacan-187_squeeze-1,,Puxmetacan,187_squeeze,winwitʲp,winwitʲp,w i n w i tʲ p,<winwitʲ-p squeeze-GR 'squeezes',Kondic2019,,false,^ w i n w i tʲ p $,default
+Puxmetacan-188_swell-1,,Puxmetacan,188_swell,kiʔiʃp,kiʔiʃp,k i ʔ i ʃ p,<kiʔiʃ-p swell-GR 'swollen',Kondic2019,,false,^ k iʔi ʃ p $,default
+Puxmetacan-189_say-1,,Puxmetacan,189_say,kjohpʃʲ,kjohpʃʲ,k j o h p ʃʲ,<kjoh-pʃʲ j-say-GR 'said',Kondic2019,,false,^ k j o h p ʃʲ $,default
+Puxmetacan-190_scratch-1,,Puxmetacan,190_scratch,akʃp,akʃp,a k ʃ p,<akʃ-p scratch-GR 'scratches',Kondic2019,,false,^ a k ʃ p $,default
+Puxmetacan-191_stab-1,,Puxmetacan,191_stab,kuʔum,kuʔum,k u ʔ u m,IMP 'stab (it)',Kondic2019,,false,^ k uʔu m $,default
+Puxmetacan-193_steal-1,,Puxmetacan,193_steal,maʔatsp,maʔatsp,m a ʔ a ts p,<maʔats-p steal-GR 'steels',Kondic2019,,false,^ m aʔa ts p $,default
+Puxmetacan-194_choose-1,,Puxmetacan,194_choose,jahpadekp,jahpadekp,j a h p a d e k p,<jah-padek-p CAUS-pick.up-GR 'pick (it) up',Kondic2019,,false,^ j a h p a d e k p $,default
+Puxmetacan-195_plant-1,,Puxmetacan,195_plant,pʲəʔəmp,pʲəʔəmp,pʲ ə ʔ ə m p,<j-pəʔəm-p 3SG-plant-GR 'he/she plants',Kondic2019,,false,^ pʲ əʔə m p $,default
+Puxmetacan-196_cook-1,,Puxmetacan,196_cook,ontsaʔap,ontsaʔap,o n ts a ʔ a p,<ontsaʔa-p cook-GR 'cooks',Kondic2019,,false,^ o n ts aʔa p $,default
+Puxmetacan-197_shoot-1,,Puxmetacan,197_shoot,tiʔipʃp,tiʔipʃp,t i ʔ i p ʃ p,<tiʔipʃ-p shoot-GR 'shoots',Kondic2019,,false,^ t iʔi p ʃ p $,default
+Puxmetacan-198_work-1,,Puxmetacan,198_work,tuʔump,tuʔump,t u ʔ u m p,< tuʔun-p work-GR 'works',Kondic2019,,false,^ t uʔu m p $,default
 Rayon-1_one-1,,Rayon,1_one,tumə,tumə,t u m ə,,Kondic2023,,false,^ t u m ə $,default
 Rayon-2_two-1,,Rayon,2_two,metsa,metsa,m e ts a,,Kondic2023,,false,^ m e ts a $,default
 Rayon-3_three-1,,Rayon,3_three,tuka,tuka,t u k a,,Kondic2023,,false,^ t u k a $,default

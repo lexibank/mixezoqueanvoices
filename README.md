@@ -28,13 +28,13 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 28 (linked to 20 different Glottocodes)
 - **Concepts:** 199 (linked to 199 different Concepticon concept sets)
-- **Lexemes:** 4,877
+- **Lexemes:** 4,876
 - **Sources:** 3
 - **Synonymy:** 1.02
-- **Invalid lexemes:** 3,616
-- **Tokens:** 6,898
-- **Segments:** 41 (0 BIPA errors, 0 CLTS sound class errors, 41 CLTS modified)
-- **Inventory size (avg):** 7.43
+- **Invalid lexemes:** 3,428
+- **Tokens:** 7,906
+- **Segments:** 43 (0 BIPA errors, 0 CLTS sound class errors, 43 CLTS modified)
+- **Inventory size (avg):** 8.43
 
 # Contributors
 
