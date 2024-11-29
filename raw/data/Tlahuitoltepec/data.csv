@@ -68,10 +68,10 @@ paboʔo,180_hunt,<??
 tuh,197_shoot,<tuh IMP 'shoot!'
 wɨkum,191_stab,
 wop,176_hit,<wop IMP 'hit!'
-maʔats►,193_steal,<maʔats IMP 'steel!'
+maʔats,193_steal,<maʔats IMP 'steel!'
 jigoʔok,163_kill,<jik-koʔok CAUS-die IMP 'make (him/her) die!'
 oʔohkən,162_die,<oʔohk-ən die-NOM 'dying'
-hʲuhkʲɒhtən►,161_live,<hʲuhkʲ-ɒht-ən  live-?-NOM 'living, life'
+hʲuhkʲɒhtən,161_live,"<hʲuhkʲ-ɒht-ən  live-?-NOM 'living, life'"
 wɨtsahkʃ,190_scratch,
 poʔot,177_cut,<poʔot IMP 'cut!'
 kipʲ,98_wood,
@@ -79,9 +79,9 @@ nɒnknawʲakxə,178_split,<nɒnk-na-j-wakx-ə  ?-?-3SG-split-IMP 'split (it)!'
 hupʃuʔɲ,119_sharp,
 tun,198_work,<tun IMP 'work!'
 neʔep,195_plant,<neʔep IMP 'plant!'
-wɨʔehʃ►,194_choose, <wɨʔehʃ IMP 'choose!'
+wɨʔehʃ,194_choose, <wɨʔehʃ IMP 'choose!'
 jaʔak,141_grow, <jaʔak IMP 'grow!'
-kehʃpəhkp►,188_swell,<kehʃ-pəhk-p swell-?-GR 'it is swelling'
+kehʃpəhkp,188_swell,<kehʃ-pəhk-p swell-?-GR 'it is swelling'
 wɨməʔəʔkʃ,187_squeeze,<wɨməʔəʔkʃ IMP 'squeeze!'
 mɒts,181_hold,<mɒts IMP 'hold!'
 tɒh,179_dig,<tɒh IMP 'dig!'
@@ -96,7 +96,7 @@ tutuʔuts,56_egg,
 pəhk,59_feather,
 kahk,58_wing,
 kahkjəʔək,149_flyverb,<kahk-jəʔək wing-fly IMP 'fly!'
-tsuʔuhk►,53_rat,
+tsuʔuhk,53_rat,
 tsuʔutʲ,90_meatflesh,<tsuʔuts-j  meat-POSS3 'his/her meat/flesh
 on,92_fatgrease,
 tuʔtst,57_tail,
@@ -109,7 +109,7 @@ puʔuts,128_rotten,
 awɒh,96_branch,
 ɒʔɒj,97_leaf,
 pihʲ,100_flower,
-ujts tsɒʔɒy►,93_fruit,
+ujts tsɒʔɒy,93_fruit,
 ujts,99_grass,
 nɒʔɒhʃ,81_earthsoil,
 tsɒʔɒh,80_stone,
@@ -123,7 +123,7 @@ jukhotp,94_woodsforest,
 tsɒhp,73_sky,
 poʔo,71_moon,
 mɒʔɒtsɒʔ,72_star,
-joʔots►,85_cloud,
+joʔots,85_cloud,
 tuʔuh,84_rain,
 anaʔaw,88_thunder,
 wɨdzuk,89_lightning,
@@ -138,9 +138,9 @@ həʔən,77_fire,
 təʔəpʲ,172_burn,<təʔəp-j burn-GR  'burns'
 hok,78_smoke,
 hɒʔɒm,79_ash,
-jəʔk►,106_black,
+jəʔk,106_black,
 poʔop,107_white,
-tsɒʔpts►,108_red,
+tsɒʔpts,108_red,
 puɒʔts,110_yellow,
 tsuhʃk,109_green,
 mutsk,112_small,
@@ -183,7 +183,7 @@ nədukiʔitə,129_all,
 həts,22_and,
 sutsoʔoh,19_how,
 kaʔ,14_nonot,
-madʲow►,183_count,
+madʲow,183_count,
 tuʔuk,1_one,
 mahtsk,2_two,
 tegəʔək,3_three,
