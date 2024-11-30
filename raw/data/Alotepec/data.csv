@@ -67,16 +67,16 @@ tehps,103_rope,
 tum,180_hunt,<tum IMP 'hunt!'
 tuhp,197_shoot,<tuh-p shoot-GR 'shoots'
 kum,191_stab,<kum IMP 'stab!'
-►,176_hit,
-►,193_steal,
-►,163_kill,
-►,162_die,
-►,161_live,
-►,190_scratch,
-►,177_cut,
-►,98_wood,
-►,178_split,
-►,119_sharp,
+wop,176_hit,<wop IMP 'hit!'
+maʔats,193_steal, <maʔats IMP 'steel!'
+jahkʔæʔæk,163_kill,<jahk-ʔæʔæk CAUS-die IMP 'kill!'
+tijoʔknə,162_die,<ti-j-oʔk-nə already-3SG-die-?  'he already died'
+higʲahtpən,161_live,<hig-jaht-pən ?-live-?
+akʃp,190_scratch,<akʃ-p scratch-GR 'scratches'
+puhʃ,177_cut, <puhʃ  IMP 'cut!'
+kepʲ,98_wood,
+pəhwakʃ,178_split, <pəhwakʃ IMP 'split!'
+həhpʃuʔuɲ,119_sharp,
 ►,120_bluntdull,
 ►,198_work,
 ►,195_plant,
