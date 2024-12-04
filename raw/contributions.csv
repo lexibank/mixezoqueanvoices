@@ -1,6 +1,7 @@
 Language_ID,Role,Contributor
 Alotepec,ContributorRecordedBy1,Ana Kondić
 Alotepec,ContributorSoundEditingBy,Darja Dërmaku-Appelganz
+Alotepec,ContributorPhoneticTranscriptionBy,Ana Kondić
 Ayutla,ContributorRecordedBy1,Ana Kondić
 Ayutla,ContributorSoundEditingBy,Darja Dërmaku-Appelganz
 Cacalotepec,ContributorRecordedBy1,Ana Kondić
@@ -44,11 +45,13 @@ Protooaxacamixe,ContributorRecordedBy1,Ana Kondić
 Puxmetacan,ContributorRecordedBy1,Ana Kondić
 Puxmetacan,ContributorPhoneticTranscriptionBy,Ana Kondić
 Puxmetacan,ContributorSoundEditingBy,Darja Dërmaku-Appelganz
+Puxmetacan,ContributorPhoneticTranscriptionBy,Ana Kondić
 Rayon,ContributorRecordedBy1,Ana Kondić
 Rayon,ContributorSoundEditingBy,Hans-Jörg Bibiko
 Rayon,ContributorPhoneticTranscriptionBy,Ana Kondić
 Tamazulapam,ContributorRecordedBy1,Ana Kondić
 Tamazulapam,ContributorSoundEditingBy,Darja Dërmaku-Appelganz
+Tamazulapam,ContributorPhoneticTranscriptionBy,Ana Kondić
 Tapalapa,ContributorRecordedBy1,Ana Kondić
 Tapalapa,ContributorSoundEditingBy,Hans-Jörg Bibiko
 Tapalapa,ContributorPhoneticTranscriptionBy,Ana Kondić
@@ -56,6 +59,7 @@ Tepantlali,ContributorRecordedBy1,Ana Kondić
 Tepantlali,ContributorSoundEditingBy,Darja Dërmaku-Appelganz
 Tlahuitoltepec,ContributorRecordedBy1,Ana Kondić
 Tlahuitoltepec,ContributorSoundEditingBy,Darja Dërmaku-Appelganz
+Tlahuitoltepec,ContributorPhoneticTranscriptionBy,Ana Kondić
 Totontepec,ContributorRecordedBy1,Ana Kondić
 Totontepec,ContributorSoundEditingBy,Darja Dërmaku-Appelganz
 Tutla,ContributorRecordedBy1,Ana Kondić
