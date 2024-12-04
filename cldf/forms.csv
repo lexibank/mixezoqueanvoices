@@ -1,28 +1,28 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
-Alotepec-1_one-1,,Alotepec,1_one,►,►,,,Kondic2019,,false,,
-Alotepec-2_two-1,,Alotepec,2_two,►,►,,,Kondic2019,,false,,
-Alotepec-3_three-1,,Alotepec,3_three,►,►,,,Kondic2019,,false,,
-Alotepec-4_four-1,,Alotepec,4_four,►,►,,,Kondic2019,,false,,
-Alotepec-5_year-1,,Alotepec,5_year,►,►,,,Kondic2019,,false,,
+Alotepec-1_one-1,,Alotepec,1_one,tuʔuk,tuʔuk,t u ʔ u k,,Kondic2019,,false,^ t uʔu k $,default
+Alotepec-2_two-1,,Alotepec,2_two,mahtsk,mahtsk,m a h ts k,,Kondic2019,,false,^ m a h ts k $,default
+Alotepec-3_three-1,,Alotepec,3_three,təgəʔək,təgəʔək,t ə g ə ʔ ə k,,Kondic2019,,false,^ t ə g əʔə k $,default
+Alotepec-4_four-1,,Alotepec,4_four,mahtaʔaʃk,mahtaʔaʃk,m a h t a ʔ a ʃ k,,Kondic2019,,false,^ m a h t aʔa ʃ k $,default
+Alotepec-5_year-1,,Alotepec,5_year,həməht,həməht,h ə m ə h t,,Kondic2019,,false,^ h ə m ə h t $,default
 Alotepec-6_right-1,,Alotepec,6_right,agɒʔɒɲ,agɒʔɒɲ,a g ɒ ʔ ɒ ɲ,,Kondic2019,,false,^ a g ɒ ʔ ɒ ɲ $,default
 Alotepec-7_left-1,,Alotepec,7_left,anɒh,anɒh,a n ɒ h,,Kondic2019,,false,^ a n ɒ h $,default
-Alotepec-8_i-1,,Alotepec,8_i,►,►,,,Kondic2019,,false,,
-Alotepec-10_weallincl-1,,Alotepec,10_weallincl,►,►,,,Kondic2019,,false,,
-Alotepec-11_yousg-1,,Alotepec,11_yousg,►,►,,,Kondic2019,,false,,
-Alotepec-12_heshe-1,,Alotepec,12_heshe,►,►,,,Kondic2019,,false,,
-Alotepec-13_theyall-1,,Alotepec,13_theyall,►,►,,,Kondic2019,,false,,
-Alotepec-14_nonot-1,,Alotepec,14_nonot,►,►,,,Kondic2019,,false,,
-Alotepec-15_what-1,,Alotepec,15_what,►,►,,,Kondic2019,,false,,
-Alotepec-16_who-1,,Alotepec,16_who,►,►,,,Kondic2019,,false,,
-Alotepec-17_where-1,,Alotepec,17_where,►,►,,,Kondic2019,,false,,
-Alotepec-18_when-1,,Alotepec,18_when,►,►,,,Kondic2019,,false,,
-Alotepec-19_how-1,,Alotepec,19_how,►,►,,,Kondic2019,,false,,
-Alotepec-20_this-1,,Alotepec,20_this,►,►,,,Kondic2019,,false,,
-Alotepec-21_that-1,,Alotepec,21_that,►,►,,,Kondic2019,,false,,
-Alotepec-23_above-1,,Alotepec,23_above,►,►,,,Kondic2019,,false,,
-Alotepec-24_below-1,,Alotepec,24_below,►,►,,,Kondic2019,,false,,
-Alotepec-25_ininside-1,,Alotepec,25_ininside,►,►,,,Kondic2019,,false,,
-Alotepec-26_at-1,,Alotepec,26_at,►,►,,,Kondic2019,,false,,
+Alotepec-8_i-1,,Alotepec,8_i,əhts,əhts,ə h ts,,Kondic2019,,false,^ ə h ts $,default
+Alotepec-10_weallincl-1,,Alotepec,10_weallincl,əʔətsəmə,əʔətsəmə,ə ʔ ə ts ə m ə,,Kondic2019,,false,^ əʔə ts ə m ə $,default
+Alotepec-11_yousg-1,,Alotepec,11_yousg,mihts,mihts,m i h ts,,Kondic2019,,false,^ m i h ts $,default
+Alotepec-12_heshe-1,,Alotepec,12_heshe,jəʔə,jəʔə,j ə ʔ ə,,Kondic2019,,false,^ j əʔə $,default
+Alotepec-13_theyall-1,,Alotepec,13_theyall,jəʔəhətʲ,jəʔəhətʲ,j ə ʔ ə h ə tʲ,,Kondic2019,,false,^ j əʔə h ə tʲ $,default
+Alotepec-14_nonot-1,,Alotepec,14_nonot,kʲah,kʲah,kʲ a h,,Kondic2019,,false,^ kʲ a h $,default
+Alotepec-15_what-1,,Alotepec,15_what,tiʔi,tiʔi,t i ʔ i,,Kondic2019,,false,^ t iʔi $,default
+Alotepec-16_who-1,,Alotepec,16_who,pən,pən,p ə n,,Kondic2019,,false,^ p ə n $,default
+Alotepec-17_where-1,,Alotepec,17_where,moʔo,moʔo,m o ʔ o,,Kondic2019,,false,^ m oʔo $,default
+Alotepec-18_when-1,,Alotepec,18_when,wənaʔa,wənaʔa,w ə n a ʔ a,,Kondic2019,,false,^ w ə n aʔa $,default
+Alotepec-19_how-1,,Alotepec,19_how,wiʔiʃ,wiʔiʃ,w i ʔ i ʃ,,Kondic2019,,false,^ w iʔi ʃ $,default
+Alotepec-20_this-1,,Alotepec,20_this,ʃiʔiwə,ʃiʔiwə,ʃ i ʔ i w ə,,Kondic2019,,false,^ ʃ iʔi w ə $,default
+Alotepec-21_that-1,,Alotepec,21_that,jəʔəʃiʔiwə,jəʔəʃiʔiwə,j ə ʔ ə ʃ i ʔ i w ə,,Kondic2019,,false,^ j əʔə ʃ iʔi w ə $,default
+Alotepec-23_above-1,,Alotepec,23_above,nikəhʃp,nikəhʃp,n i k ə h ʃ p,,Kondic2019,,false,^ n i k ə h ʃ p $,default
+Alotepec-24_below-1,,Alotepec,24_below,awatkeʔepʲ,awatkeʔepʲ,a w a t k e ʔ e pʲ,,Kondic2019,,false,^ a w a t k eʔe pʲ $,default
+Alotepec-25_ininside-1,,Alotepec,25_ininside,hodoʔotʲ,hodoʔotʲ,h o d o ʔ o tʲ,,Kondic2019,,false,^ h o d oʔo tʲ $,default
+Alotepec-26_at-1,,Alotepec,26_at,moʔohə,moʔohə,m o ʔ o h ə,,Kondic2019,,false,^ m oʔo h ə $,default
 Alotepec-27_head-1,,Alotepec,27_head,kowahk,kowahk,k o w a h k,,Kondic2019,,false,^ k o w a h k $,default
 Alotepec-28_hair-1,,Alotepec,28_hair,kowaʔaj,kowaʔaj,k o w a ʔ a j,,Kondic2019,,false,^ k o w aʔa j $,default
 Alotepec-29_eye-1,,Alotepec,29_eye,wiʔin,wiʔin,w i ʔ i n,,Kondic2019,,false,^ w iʔi n $,default
@@ -43,19 +43,19 @@ Alotepec-43_belly-1,,Alotepec,43_belly,hoʔot,hoʔot,h o ʔ o t,,Kondic2019,,fal
 Alotepec-44_intestines-1,,Alotepec,44_intestines,tiʔints,tiʔints,t i ʔ i n ts,,Kondic2019,,false,^ t iʔi n ts $,default
 Alotepec-45_breast-1,,Alotepec,45_breast,tsitsk,tsitsk,ts i ts k,,Kondic2019,,false,^ ts i ts k $,default
 Alotepec-46_liver-1,,Alotepec,46_liver,hoʔot,hoʔot,h o ʔ o t,,Kondic2019,,false,^ h oʔo t $,default
-Alotepec-47_dog-1,,Alotepec,47_dog,►,►,,,Kondic2019,,false,,
-Alotepec-48_bird-1,,Alotepec,48_bird,►,►,,,Kondic2019,,false,,
-Alotepec-49_fish-1,,Alotepec,49_fish,►,►,,,Kondic2019,,false,,
-Alotepec-50_snake-1,,Alotepec,50_snake,►,►,,,Kondic2019,,false,,
-Alotepec-51_worm-1,,Alotepec,51_worm,►,►,,,Kondic2019,,false,,
-Alotepec-52_louse-1,,Alotepec,52_louse,►,►,,,Kondic2019,,false,,
-Alotepec-53_rat-1,,Alotepec,53_rat,►,►,,,Kondic2019,,false,,
-Alotepec-54_spider-1,,Alotepec,54_spider,►,►,,,Kondic2019,,false,,
-Alotepec-55_mosquito-1,,Alotepec,55_mosquito,►,►,,,Kondic2019,,false,,
-Alotepec-56_egg-1,,Alotepec,56_egg,►,►,,,Kondic2019,,false,,
-Alotepec-57_tail-1,,Alotepec,57_tail,►,►,,,Kondic2019,,false,,
-Alotepec-58_wing-1,,Alotepec,58_wing,►,►,,,Kondic2019,,false,,
-Alotepec-59_feather-1,,Alotepec,59_feather,►,►,,,Kondic2019,,false,,
+Alotepec-47_dog-1,,Alotepec,47_dog,uk,uk,u k,,Kondic2019,,false,^ u k $,default
+Alotepec-48_bird-1,,Alotepec,48_bird,hoʔon,hoʔon,h o ʔ o n,,Kondic2019,,false,^ h oʔo n $,default
+Alotepec-49_fish-1,,Alotepec,49_fish,ahkʃ,ahkʃ,a h k ʃ,,Kondic2019,,false,^ a h k ʃ $,default
+Alotepec-50_snake-1,,Alotepec,50_snake,tsaʔaɲ,tsaʔaɲ,ts a ʔ a ɲ,,Kondic2019,,false,^ ts aʔa ɲ $,default
+Alotepec-51_worm-1,,Alotepec,51_worm,tənək,tənək,t ə n ə k,,Kondic2019,,false,^ t ə n ə k $,default
+Alotepec-52_louse-1,,Alotepec,52_louse,at,at,a t,,Kondic2019,,false,^ a t $,default
+Alotepec-53_rat-1,,Alotepec,53_rat,aʔakts,aʔakts,a ʔ a k ts,,Kondic2019,,false,^ aʔa k ts $,default
+Alotepec-54_spider-1,,Alotepec,54_spider,poʔosp,poʔosp,p o ʔ o s p,,Kondic2019,,false,^ p oʔo s p $,default
+Alotepec-55_mosquito-1,,Alotepec,55_mosquito,uʔuʃ,uʔuʃ,u ʔ u ʃ,,Kondic2019,,false,^ uʔu ʃ $,default
+Alotepec-56_egg-1,,Alotepec,56_egg,tutuʔutʲ,tutuʔutʲ,t u t u ʔ u tʲ,,Kondic2019,,false,^ t u t uʔu tʲ $,default
+Alotepec-57_tail-1,,Alotepec,57_tail,piʔis,piʔis,p i ʔ i s,,Kondic2019,,false,^ p iʔi s $,default
+Alotepec-58_wing-1,,Alotepec,58_wing,kʲaʔakn,kʲaʔakn,kʲ a ʔ a k n,<j-kaʔakn 3POSS-wing 'its wing',Kondic2019,,false,^ kʲ aʔa k n $,default
+Alotepec-59_feather-1,,Alotepec,59_feather,həʔəmk,həʔəmk,h ə ʔ ə m k,,Kondic2019,,false,^ h əʔə m k $,default
 Alotepec-60_person-1,,Alotepec,60_person,hɒʔɒj,hɒʔɒj,h ɒ ʔ ɒ j,,Kondic2019,,false,^ h ɒ ʔ ɒ j $,default
 Alotepec-61_man-1,,Alotepec,61_man,jajtʲəhk,jajtʲəhk,j a j tʲ ə h k,,Kondic2019,,false,^ j a j tʲ ə h k $,default
 Alotepec-62_woman-1,,Alotepec,62_woman,toʃtʲəhk,toʃtʲəhk,t o ʃ tʲ ə h k,,Kondic2019,,false,^ t o ʃ tʲ ə h k $,default
@@ -65,87 +65,87 @@ Alotepec-65_mother-1,,Alotepec,65_mother,taʔak,taʔak,t a ʔ a k,,Kondic2019,,f
 Alotepec-66_father-1,,Alotepec,66_father,teʔetʲ,teʔetʲ,t e ʔ e tʲ,,Kondic2019,,false,^ t eʔe tʲ $,default
 Alotepec-67_husband-1,,Alotepec,67_husband,məʔəmhaʔaj,məʔəmhaʔaj,m ə ʔ ə m h a ʔ a j,,Kondic2019,,false,^ m əʔə m h aʔa j $,default
 Alotepec-68_wife-1,,Alotepec,68_wife,koʔodəhk,koʔodəhk,k o ʔ o d ə h k,,Kondic2019,,false,^ k oʔo d ə h k $,default
-Alotepec-69_day-1,,Alotepec,69_day,►,►,,,Kondic2019,,false,,
-Alotepec-70_night-1,,Alotepec,70_night,►,►,,,Kondic2019,,false,,
-Alotepec-71_moon-1,,Alotepec,71_moon,►,►,,,Kondic2019,,false,,
-Alotepec-72_star-1,,Alotepec,72_star,►,►,,,Kondic2019,,false,,
-Alotepec-73_sky-1,,Alotepec,73_sky,►,►,,,Kondic2019,,false,,
-Alotepec-74_water-1,,Alotepec,74_water,►,►,,,Kondic2019,,false,,
-Alotepec-75_lake-1,,Alotepec,75_lake,►,►,,,Kondic2019,,false,,
-Alotepec-76_sea-1,,Alotepec,76_sea,►,►,,,Kondic2019,,false,,
-Alotepec-77_fire-1,,Alotepec,77_fire,►,►,,,Kondic2019,,false,,
-Alotepec-78_smoke-1,,Alotepec,78_smoke,►,►,,,Kondic2019,,false,,
-Alotepec-79_ash-1,,Alotepec,79_ash,►,►,,,Kondic2019,,false,,
-Alotepec-80_stone-1,,Alotepec,80_stone,►,►,,,Kondic2019,,false,,
-Alotepec-81_earthsoil-1,,Alotepec,81_earthsoil,►,►,,,Kondic2019,,false,,
+Alotepec-69_day-1,,Alotepec,69_day,ʃəʔəɲ,ʃəʔəɲ,ʃ ə ʔ ə ɲ,,Kondic2019,,false,^ ʃ əʔə ɲ $,default
+Alotepec-70_night-1,,Alotepec,70_night,tsuʔuhəp,tsuʔuhəp,ts u ʔ u h ə p,,Kondic2019,,false,^ ts uʔu h ə p $,default
+Alotepec-71_moon-1,,Alotepec,71_moon,poʔo,poʔo,p o ʔ o,,Kondic2019,,false,^ p oʔo $,default
+Alotepec-72_star-1,,Alotepec,72_star,maʔatsaʔa,maʔatsaʔa,m a ʔ a ts a ʔ a,,Kondic2019,,false,^ m aʔa ts aʔa $,default
+Alotepec-73_sky-1,,Alotepec,73_sky,tsahp,tsahp,ts a h p,,Kondic2019,,false,^ ts a h p $,default
+Alotepec-74_water-1,,Alotepec,74_water,nəʔə,nəʔə,n ə ʔ ə,,Kondic2019,,false,^ n əʔə $,default
+Alotepec-75_lake-1,,Alotepec,75_lake,nəʔəʔagəjə,nəʔəʔagəjə,n ə ʔ ə ʔ a g ə j ə,,Kondic2019,,false,^ n əʔə ʔ a g ə j ə $,default
+Alotepec-76_sea-1,,Alotepec,76_sea,meh,meh,m e h,,Kondic2019,,false,^ m e h $,default
+Alotepec-77_fire-1,,Alotepec,77_fire,həʔən,həʔən,h ə ʔ ə n,,Kondic2019,,false,^ h əʔə n $,default
+Alotepec-78_smoke-1,,Alotepec,78_smoke,həʔənhok,həʔənhok,h ə ʔ ə n h o k,,Kondic2019,,false,^ h əʔə n h o k $,default
+Alotepec-79_ash-1,,Alotepec,79_ash,kuhʲaʔam,kuhʲaʔam,k u hʲ a ʔ a m,,Kondic2019,,false,^ k u hʲ aʔa m $,default
+Alotepec-80_stone-1,,Alotepec,80_stone,tsaʔa,tsaʔa,ts a ʔ a,,Kondic2019,,false,^ ts aʔa $,default
+Alotepec-81_earthsoil-1,,Alotepec,81_earthsoil,naʔaʃ,naʔaʃ,n a ʔ a ʃ,,Kondic2019,,false,^ n aʔa ʃ $,default
 Alotepec-82_dust-1,,Alotepec,82_dust,puʔʃ,puʔʃ,p u ʔ ʃ,,Kondic2019,,false,^ p u ʔ ʃ $,default
-Alotepec-83_sand-1,,Alotepec,83_sand,►,►,,,Kondic2019,,false,,
-Alotepec-84_rain-1,,Alotepec,84_rain,►,►,,,Kondic2019,,false,,
-Alotepec-85_cloud-1,,Alotepec,85_cloud,►,►,,,Kondic2019,,false,,
-Alotepec-87_fog-1,,Alotepec,87_fog,►,►,,,Kondic2019,,false,,
-Alotepec-88_thunder-1,,Alotepec,88_thunder,►,►,,,Kondic2019,,false,,
-Alotepec-89_lightning-1,,Alotepec,89_lightning,►,►,,,Kondic2019,,false,,
-Alotepec-90_meatflesh-1,,Alotepec,90_meatflesh,►,►,,,Kondic2019,,false,,
-Alotepec-91_salt-1,,Alotepec,91_salt,►,►,,,Kondic2019,,false,,
-Alotepec-92_fatgrease-1,,Alotepec,92_fatgrease,►,►,,,Kondic2019,,false,,
-Alotepec-93_fruit-1,,Alotepec,93_fruit,►,►,,,Kondic2019,,false,,
-Alotepec-95_root-1,,Alotepec,95_root,►,►,,,Kondic2019,,false,,
-Alotepec-96_branch-1,,Alotepec,96_branch,►,►,,,Kondic2019,,false,,
-Alotepec-97_leaf-1,,Alotepec,97_leaf,►,►,,,Kondic2019,,false,,
-Alotepec-98_wood-1,,Alotepec,98_wood,►,►,,,Kondic2019,,false,,
-Alotepec-99_grass-1,,Alotepec,99_grass,►,►,,,Kondic2019,,false,,
-Alotepec-100_flower-1,,Alotepec,100_flower,►,►,,,Kondic2019,,false,,
+Alotepec-83_sand-1,,Alotepec,83_sand,puʔuh,puʔuh,p u ʔ u h,,Kondic2019,,false,^ p uʔu h $,default
+Alotepec-84_rain-1,,Alotepec,84_rain,tuʔu,tuʔu,t u ʔ u,,Kondic2019,,false,^ t uʔu $,default
+Alotepec-85_cloud-1,,Alotepec,85_cloud,joʔots,joʔots,j o ʔ o ts,,Kondic2019,,false,^ j oʔo ts $,default
+Alotepec-87_fog-1,,Alotepec,87_fog,joʔots,joʔots,j o ʔ o ts,,Kondic2019,,false,^ j oʔo ts $,default
+Alotepec-88_thunder-1,,Alotepec,88_thunder,anaw,anaw,a n a w,,Kondic2019,,false,^ a n a w $,default
+Alotepec-89_lightning-1,,Alotepec,89_lightning,wətsuk,wətsuk,w ə ts u k,,Kondic2019,,false,^ w ə ts u k $,default
+Alotepec-90_meatflesh-1,,Alotepec,90_meatflesh,tsuʔuts,tsuʔuts,ts u ʔ u ts,,Kondic2019,,false,^ ts uʔu ts $,default
+Alotepec-91_salt-1,,Alotepec,91_salt,kaʔan,kaʔan,k a ʔ a n,,Kondic2019,,false,^ k aʔa n $,default
+Alotepec-92_fatgrease-1,,Alotepec,92_fatgrease,on,on,o n,,Kondic2019,,false,^ o n $,default
+Alotepec-93_fruit-1,,Alotepec,93_fruit,uhtsʔaʔam,uhtsʔaʔam,u h ts ʔ a ʔ a m,,Kondic2019,,false,^ u h ts ʔ aʔa m $,default
+Alotepec-95_root-1,,Alotepec,95_root,jaʔoʔots,jaʔoʔots,j a ʔ o ʔ o ts,,Kondic2019,,false,^ j a ʔ oʔo ts $,default
+Alotepec-96_branch-1,,Alotepec,96_branch,sengʲaʔaj,sengʲaʔaj,s e n gʲ a ʔ a j,,Kondic2019,,false,^ s e n gʲ aʔa j $,default
+Alotepec-97_leaf-1,,Alotepec,97_leaf,ujtsʔaʔaj,ujtsʔaʔaj,u j ts ʔ a ʔ a j,,Kondic2019,,false,^ u j ts ʔ aʔa j $,default
+Alotepec-98_wood-1,,Alotepec,98_wood,kepʲ,kepʲ,k e pʲ,,Kondic2019,,false,^ k e pʲ $,default
+Alotepec-99_grass-1,,Alotepec,99_grass,uhts,uhts,u h ts,,Kondic2019,,false,^ u h ts $,default
+Alotepec-100_flower-1,,Alotepec,100_flower,pəhʲ,pəhʲ,p ə hʲ,,Kondic2019,,false,^ p ə hʲ $,default
 Alotepec-101_thatchroof-1,,Alotepec,101_thatchroof,məʔəj,məʔəj,m ə ʔ ə j,,Kondic2019,,false,^ m əʔə j $,default
 Alotepec-102_house-1,,Alotepec,102_house,təhk,təhk,t ə h k,,Kondic2019,,false,^ t ə h k $,default
 Alotepec-103_rope-1,,Alotepec,103_rope,tehps,tehps,t e h p s,,Kondic2019,,false,^ t e h p s $,default
 Alotepec-104_needle-1,,Alotepec,104_needle,ʃuʔuɲ,ʃuʔuɲ,ʃ u ʔ u ɲ,,Kondic2019,,false,^ ʃ uʔu ɲ $,default
 Alotepec-105_roadpath-1,,Alotepec,105_roadpath,tuʔuh,tuʔuh,t u ʔ u h,,Kondic2019,,false,^ t uʔu h $,default
-Alotepec-106_black-1,,Alotepec,106_black,►,►,,,Kondic2019,,false,,
-Alotepec-107_white-1,,Alotepec,107_white,►,►,,,Kondic2019,,false,,
-Alotepec-108_red-1,,Alotepec,108_red,►,►,,,Kondic2019,,false,,
-Alotepec-109_green-1,,Alotepec,109_green,►,►,,,Kondic2019,,false,,
-Alotepec-110_yellow-1,,Alotepec,110_yellow,►,►,,,Kondic2019,,false,,
-Alotepec-111_big-1,,Alotepec,111_big,►,►,,,Kondic2019,,false,,
-Alotepec-112_small-1,,Alotepec,112_small,►,►,,,Kondic2019,,false,,
-Alotepec-113_long-1,,Alotepec,113_long,►,►,,,Kondic2019,,false,,
-Alotepec-114_short-1,,Alotepec,114_short,►,►,,,Kondic2019,,false,,
-Alotepec-115_thick-1,,Alotepec,115_thick,►,►,,,Kondic2019,,false,,
-Alotepec-116_thin-1,,Alotepec,116_thin,►,►,,,Kondic2019,,false,,
-Alotepec-117_narrow-1,,Alotepec,117_narrow,►,►,,,Kondic2019,,false,,
-Alotepec-118_wide-1,,Alotepec,118_wide,►,►,,,Kondic2019,,false,,
-Alotepec-119_sharp-1,,Alotepec,119_sharp,►,►,,,Kondic2019,,false,,
-Alotepec-120_bluntdull-1,,Alotepec,120_bluntdull,►,►,,,Kondic2019,,false,,
-Alotepec-121_shyashamed-1,,Alotepec,121_shyashamed,►,►,,,Kondic2019,,false,,
-Alotepec-122_old-1,,Alotepec,122_old,►,►,,,Kondic2019,,false,,
-Alotepec-123_painfulsick-1,,Alotepec,123_painfulsick,►,►,,,Kondic2019,,false,,
-Alotepec-124_good-1,,Alotepec,124_good,►,►,,,Kondic2019,,false,,
-Alotepec-125_bad-1,,Alotepec,125_bad,►,►,,,Kondic2019,,false,,
-Alotepec-126_correcttrue-1,,Alotepec,126_correcttrue,►,►,,,Kondic2019,,false,,
+Alotepec-106_black-1,,Alotepec,106_black,jək,jək,j ə k,,Kondic2019,,false,^ j ə k $,default
+Alotepec-107_white-1,,Alotepec,107_white,poʔop,poʔop,p o ʔ o p,,Kondic2019,,false,^ p oʔo p $,default
+Alotepec-108_red-1,,Alotepec,108_red,tsapts,tsapts,ts a p ts,,Kondic2019,,false,^ ts a p ts $,default
+Alotepec-109_green-1,,Alotepec,109_green,tsuʃk,tsuʃk,ts u ʃ k,,Kondic2019,,false,^ ts u ʃ k $,default
+Alotepec-110_yellow-1,,Alotepec,110_yellow,puʔuts,puʔuts,p u ʔ u ts,,Kondic2019,,false,^ p uʔu ts $,default
+Alotepec-111_big-1,,Alotepec,111_big,məh,məh,m ə h,,Kondic2019,,false,^ m ə h $,default
+Alotepec-112_small-1,,Alotepec,112_small,muʔutsk,muʔutsk,m u ʔ u ts k,,Kondic2019,,false,^ m uʔu ts k $,default
+Alotepec-113_long-1,,Alotepec,113_long,jeɲ,jeɲ,j e ɲ,,Kondic2019,,false,^ j e ɲ $,default
+Alotepec-114_short-1,,Alotepec,114_short,kon,kon,k o n,,Kondic2019,,false,^ k o n $,default
+Alotepec-115_thick-1,,Alotepec,115_thick,mahps,mahps,m a h p s,,Kondic2019,,false,^ m a h p s $,default
+Alotepec-116_thin-1,,Alotepec,116_thin,peh,peh,p e h,,Kondic2019,,false,^ p e h $,default
+Alotepec-117_narrow-1,,Alotepec,117_narrow,muʔutsk,muʔutsk,m u ʔ u ts k,,Kondic2019,,false,^ m uʔu ts k $,default
+Alotepec-118_wide-1,,Alotepec,118_wide,məhwiʔin,məhwiʔin,m ə h w i ʔ i n,,Kondic2019,,false,^ m ə h w iʔi n $,default
+Alotepec-119_sharp-1,,Alotepec,119_sharp,həhpʃuʔuɲ,həhpʃuʔuɲ,h ə h p ʃ u ʔ u ɲ,,Kondic2019,,false,^ h ə h p ʃ uʔu ɲ $,default
+Alotepec-120_bluntdull-1,,Alotepec,120_bluntdull,həhptuk,həhptuk,h ə h p t u k,,Kondic2019,,false,^ h ə h p t u k $,default
+Alotepec-121_shyashamed-1,,Alotepec,121_shyashamed,tsotʲuʔump,tsotʲuʔump,ts o tʲ u ʔ u m p,,Kondic2019,,false,^ ts o tʲ uʔu m p $,default
+Alotepec-122_old-1,,Alotepec,122_old,məhɒʔɒjɲ,məhɒʔɒjɲ,m ə h ɒ ʔ ɒ j ɲ,,Kondic2019,,false,^ m ə h ɒ ʔ ɒ j ɲ $,default
+Alotepec-123_painfulsick-1,,Alotepec,123_painfulsick,pəhkp,pəhkp,p ə h k p,,Kondic2019,,false,^ p ə h k p $,default
+Alotepec-124_good-1,,Alotepec,124_good,ojh,ojh,o j h,,Kondic2019,,false,^ o j h $,default
+Alotepec-125_bad-1,,Alotepec,125_bad,kʲahjoʔjə,kʲahjoʔjə,kʲ a h j o ʔ j ə,,Kondic2019,,false,^ kʲ a h j o ʔ j ə $,default
+Alotepec-126_correcttrue-1,,Alotepec,126_correcttrue,ojəʔə,ojəʔə,o j ə ʔ ə,,Kondic2019,,false,^ o j əʔə $,default
 Alotepec-127_dirty-1,,Alotepec,127_dirty,aʃəʔək,aʃəʔək,a ʃ ə ʔ ə k,,Kondic2019,,false,^ a ʃ əʔə k $,default
-Alotepec-128_rotten-1,,Alotepec,128_rotten,►,►,,,Kondic2019,,false,,
-Alotepec-129_all-1,,Alotepec,129_all,►,►,,,Kondic2019,,false,,
-Alotepec-130_heavy-1,,Alotepec,130_heavy,►,►,,,Kondic2019,,false,,
-Alotepec-131_far-1,,Alotepec,131_far,►,►,,,Kondic2019,,false,,
-Alotepec-132_near-1,,Alotepec,132_near,►,►,,,Kondic2019,,false,,
-Alotepec-133_warm-1,,Alotepec,133_warm,►,►,,,Kondic2019,,false,,
-Alotepec-134_cold-1,,Alotepec,134_cold,►,►,,,Kondic2019,,false,,
-Alotepec-135_dry-1,,Alotepec,135_dry,►,►,,,Kondic2019,,false,,
-Alotepec-136_wet-1,,Alotepec,136_wet,►,►,,,Kondic2019,,false,,
-Alotepec-137_new-1,,Alotepec,137_new,►,►,,,Kondic2019,,false,,
-Alotepec-138_other-1,,Alotepec,138_other,►,►,,,Kondic2019,,false,,
+Alotepec-128_rotten-1,,Alotepec,128_rotten,puʔuts,puʔuts,p u ʔ u ts,,Kondic2019,,false,^ p uʔu ts $,default
+Alotepec-129_all-1,,Alotepec,129_all,niʔihtʲ,niʔihtʲ,n i ʔ i h tʲ,,Kondic2019,,false,^ n iʔi h tʲ $,default
+Alotepec-130_heavy-1,,Alotepec,130_heavy,heʔents,heʔents,h e ʔ e n ts,,Kondic2019,,false,^ h eʔe n ts $,default
+Alotepec-131_far-1,,Alotepec,131_far,həgam,həgam,h ə g a m,,Kondic2019,,false,^ h ə g a m $,default
+Alotepec-132_near-1,,Alotepec,132_near,wingon,wingon,w i n g o n,,Kondic2019,,false,^ w i n g o n $,default
+Alotepec-133_warm-1,,Alotepec,133_warm,an,an,a n,,Kondic2019,,false,^ a n $,default
+Alotepec-134_cold-1,,Alotepec,134_cold,pakʲ,pakʲ,p a kʲ,,Kondic2019,,false,^ p a kʲ $,default
+Alotepec-135_dry-1,,Alotepec,135_dry,təʔəts,təʔəts,t ə ʔ ə ts,,Kondic2019,,false,^ t əʔə ts $,default
+Alotepec-136_wet-1,,Alotepec,136_wet,ʃoʔok,ʃoʔok,ʃ o ʔ o k,,Kondic2019,,false,^ ʃ oʔo k $,default
+Alotepec-137_new-1,,Alotepec,137_new,hembʲ,hembʲ,h e m bʲ,,Kondic2019,,false,^ h e m bʲ $,default
+Alotepec-138_other-1,,Alotepec,138_other,wiʔingpə,wiʔingpə,w i ʔ i n g p ə,,Kondic2019,,false,^ w iʔi n g p ə $,default
 Alotepec-139_come-1,,Alotepec,139_come,hat,hat,h a t,<hat IMP 'come!',Kondic2019,,false,^ h a t $,default
 Alotepec-140_walk-1,,Alotepec,140_walk,jeʔepʲ,jeʔepʲ,j e ʔ e pʲ,<jeʔep-j walk-GR 'walks',Kondic2019,,false,^ j eʔe pʲ $,default
-Alotepec-141_grow-1,,Alotepec,141_grow,►,►,,,Kondic2019,,false,,
+Alotepec-141_grow-1,,Alotepec,141_grow,jeʔekʲ,jeʔekʲ,j e ʔ e kʲ,<tə-jeʔek-j already-grow-GR '(s/he) already grew up',Kondic2019,,false,^ j eʔe kʲ $,default
 Alotepec-142_stand-1,,Alotepec,142_stand,tanə,tanə,t a n ə,<tan-ə stand-IMP?  'stand!',Kondic2019,,false,^ t a n ə $,default
 Alotepec-143_sit-1,,Alotepec,143_sit,uʔuɲ,uʔuɲ,u ʔ u ɲ,<uʔuɲ IMP 'sit!',Kondic2019,,false,^ uʔu ɲ $,default
-Alotepec-144_fall-1,,Alotepec,144_fall,►,►,,,Kondic2019,,false,,
+Alotepec-144_fall-1,,Alotepec,144_fall,kədaw,kədaw,k ə d a w,<kət-aw fall-PAST '(s/he) fell',Kondic2019,,false,^ k ə d a w $,default
 Alotepec-145_liedown-1,,Alotepec,145_liedown,koʔoknə,koʔoknə,k o ʔ o k n ə,<koʔokn-ə lie.down-IMP? 'lie down!',Kondic2019,,false,^ k oʔo k n ə $,default
 Alotepec-146_turn-1,,Alotepec,146_turn,ihʃəmbit,ihʃəmbit,i h ʃ ə m b i t,<?,Kondic2019,,false,^ i h ʃ ə m b i t $,default
-Alotepec-147_climb-1,,Alotepec,147_climb,►,►,,,Kondic2019,,false,,
+Alotepec-147_climb-1,,Alotepec,147_climb,pat,pat,p a t,<pat IMP 'climb!',Kondic2019,,false,^ p a t $,default
 Alotepec-148_swim-1,,Alotepec,148_swim,juɲ,juɲ,j u ɲ,<juɲ IMP 'swim!',Kondic2019,,false,^ j u ɲ $,default
-Alotepec-149_flyverb-1,,Alotepec,149_flyverb,►,►,,,Kondic2019,,false,,
-Alotepec-150_throw-1,,Alotepec,150_throw,►,►,,,Kondic2019,,false,,
-Alotepec-151_hide-1,,Alotepec,151_hide,►,►,,,Kondic2019,,false,,
+Alotepec-149_flyverb-1,,Alotepec,149_flyverb,kadəʔək,kadəʔək,k a d ə ʔ ə k,<?,Kondic2019,,false,^ k a d əʔə k $,default
+Alotepec-150_throw-1,,Alotepec,150_throw,əʃkup,əʃkup,ə ʃ k u p,<əʃkup IMP 'throw (it)!',Kondic2019,,false,^ ə ʃ k u p $,default
+Alotepec-151_hide-1,,Alotepec,151_hide,najuʔutsijə,najuʔutsijə,n a j u ʔ u ts i j ə,<na-juʔutsi-jə ?-hide-IMP? 'hide (yourself)!',Kondic2019,,false,^ n a j uʔu ts i j ə $,default
 Alotepec-152_chew-1,,Alotepec,152_chew,puʔuj,puʔuj,p u ʔ u j,<puʔuj IMP 'chew!',Kondic2019,,false,^ p uʔu j $,default
 Alotepec-153_eat-1,,Alotepec,153_eat,kaj,kaj,k a j,<kaj IMP 'eat!',Kondic2019,,false,^ k a j $,default
 Alotepec-154_drink-1,,Alotepec,154_drink,uʔuk,uʔuk,u ʔ u k,<uʔuk IMP 'drink!',Kondic2019,,false,^ uʔu k $,default
@@ -154,42 +154,42 @@ Alotepec-156_suck-1,,Alotepec,156_suck,jahktsiʔits,jahktsiʔits,j a h k ts i ʔ
 Alotepec-158_spit-1,,Alotepec,158_spit,nahtsuhə,nahtsuhə,n a h ts u h ə,<nah-tsuh-ə ?-spit-IMP 'spit!',Kondic2019,,false,^ n a h ts u h ə $,default
 Alotepec-159_dream-1,,Alotepec,159_dream,komaʔuhk,komaʔuhk,k o m a ʔ u h k,<ko-maʔaw-uhk ?-sleep-?  'dream!',Kondic2019,,false,^ k o m a ʔ u h k $,default
 Alotepec-160_sleep-1,,Alotepec,160_sleep,mɒʔɒj,mɒʔɒj,m ɒ ʔ ɒ j,<mɒʔɒj IMP 'sleep!',Kondic2019,,false,^ m ɒ ʔ ɒ j $,default
-Alotepec-161_live-1,,Alotepec,161_live,►,►,,,Kondic2019,,false,,
-Alotepec-162_die-1,,Alotepec,162_die,►,►,,,Kondic2019,,false,,
-Alotepec-163_kill-1,,Alotepec,163_kill,►,►,,,Kondic2019,,false,,
+Alotepec-161_live-1,,Alotepec,161_live,higʲahtpən,higʲahtpən,h i gʲ a h t p ə n,<hig-jaht-pən ?-live-?,Kondic2019,,false,^ h i gʲ a h t p ə n $,default
+Alotepec-162_die-1,,Alotepec,162_die,tijoʔknə,tijoʔknə,t i j o ʔ k n ə,<ti-j-oʔk-nə already-3SG-die-?  'he already died',Kondic2019,,false,^ t i j o ʔ k n ə $,default
+Alotepec-163_kill-1,,Alotepec,163_kill,jahkʔæʔæk,jahkʔæʔæk,j a h k ʔ æ ʔ æ k,<jahk-ʔæʔæk CAUS-die IMP 'kill!',Kondic2019,,false,^ j a h k ʔ æ ʔ æ k $,default
 Alotepec-164_see-1,,Alotepec,164_see,iʃ,iʃ,i ʃ,<iʃ IMP 'see!',Kondic2019,,false,^ i ʃ $,default
 Alotepec-165_hear-1,,Alotepec,165_hear,mədow,mədow,m ə d o w,<mədow IMP 'hear!',Kondic2019,,false,^ m ə d o w $,default
 Alotepec-166_sniffsmell-1,,Alotepec,166_sniffsmell,tsukəp,tsukəp,ts u k ə p,<tsuk-əp smell-GR 'smells',Kondic2019,,false,^ ts u k ə p $,default
 Alotepec-168_think-1,,Alotepec,168_think,winmaj,winmaj,w i n m a j,<winmaj IMP 'think!',Kondic2019,,false,^ w i n m a j $,default
 Alotepec-169_laugh-1,,Alotepec,169_laugh,ʃiʔikp,ʃiʔikp,ʃ i ʔ i k p,<ʃiʔik-p laugh-GR 'laughs',Kondic2019,,false,^ ʃ iʔi k p $,default
 Alotepec-170_cry-1,,Alotepec,170_cry,jaʔaʃp,jaʔaʃp,j a ʔ a ʃ p,<jaʔaʃ-p cry-GR 'cries',Kondic2019,,false,^ j aʔa ʃ p $,default
-Alotepec-171_blow-1,,Alotepec,171_blow,►,►,,,Kondic2019,,false,,
-Alotepec-172_burn-1,,Alotepec,172_burn,►,►,,,Kondic2019,,false,,
-Alotepec-173_flow-1,,Alotepec,173_flow,►,►,,,Kondic2019,,false,,
-Alotepec-175_pound-1,,Alotepec,175_pound,►,►,,,Kondic2019,,false,,
-Alotepec-176_hit-1,,Alotepec,176_hit,►,►,,,Kondic2019,,false,,
-Alotepec-177_cut-1,,Alotepec,177_cut,►,►,,,Kondic2019,,false,,
-Alotepec-178_split-1,,Alotepec,178_split,►,►,,,Kondic2019,,false,,
-Alotepec-179_dig-1,,Alotepec,179_dig,►,►,,,Kondic2019,,false,,
+Alotepec-171_blow-1,,Alotepec,171_blow,poh,poh,p o h,,Kondic2019,,false,^ p o h $,default
+Alotepec-172_burn-1,,Alotepec,172_burn,jahtoj,jahtoj,j a h t o j,<jah-toj CAUS-burn 'burn (it)!',Kondic2019,,false,^ j a h t o j $,default
+Alotepec-173_flow-1,,Alotepec,173_flow,jeepʲ,jeepʲ,j e e pʲ,<jeep-j run-GR 'flows',Kondic2019,,false,^ j e e pʲ $,default
+Alotepec-175_pound-1,,Alotepec,175_pound,maʔaw,maʔaw,m a ʔ a w,<maʔaw IMP 'pound!',Kondic2019,,false,^ m aʔa w $,default
+Alotepec-176_hit-1,,Alotepec,176_hit,wop,wop,w o p,<wop IMP 'hit!',Kondic2019,,false,^ w o p $,default
+Alotepec-177_cut-1,,Alotepec,177_cut,puhʃ,puhʃ,p u h ʃ,<puhʃ  IMP 'cut!',Kondic2019,,false,^ p u h ʃ $,default
+Alotepec-178_split-1,,Alotepec,178_split,pəhwakʃ,pəhwakʃ,p ə h w a k ʃ,<pəhwakʃ IMP 'split!',Kondic2019,,false,^ p ə h w a k ʃ $,default
+Alotepec-179_dig-1,,Alotepec,179_dig,tah,tah,t a h,<tah IMP 'dig!',Kondic2019,,false,^ t a h $,default
 Alotepec-180_hunt-1,,Alotepec,180_hunt,tum,tum,t u m,<tum IMP 'hunt!',Kondic2019,,false,^ t u m $,default
-Alotepec-181_hold-1,,Alotepec,181_hold,►,►,,,Kondic2019,,false,,
+Alotepec-181_hold-1,,Alotepec,181_hold,midahtʲ,midahtʲ,m i d a h tʲ,<midah-tʲ have-GR '(s/he) has it',Kondic2019,,false,^ m i d a h tʲ $,default
 Alotepec-182_fear-1,,Alotepec,182_fear,tsəʔəkəw,tsəʔəkəw,ts ə ʔ ə k ə w,,Kondic2019,,false,^ ts əʔə k ə w $,default
-Alotepec-183_count-1,,Alotepec,183_count,►,►,,,Kondic2019,,false,,
+Alotepec-183_count-1,,Alotepec,183_count,majdzow,majdzow,m a j dz o w,<majtsow IMP 'count!',Kondic2019,,false,^ m a j dz o w $,default
 Alotepec-184_breathe-1,,Alotepec,184_breathe,ʃahəp,ʃahəp,ʃ a h ə p,<ʃah-əp breathe-GR 'breathes',Kondic2019,,false,^ ʃ a h ə p $,default
 Alotepec-185_vomit-1,,Alotepec,185_vomit,əʔətsp,əʔətsp,ə ʔ ə ts p,<əʔəts-p vomit-GR 'vomits',Kondic2019,,false,^ əʔə ts p $,default
 Alotepec-186_tieup-1,,Alotepec,186_tieup,ʃots,ʃots,ʃ o ts,,Kondic2019,,false,^ ʃ o ts $,default
-Alotepec-187_squeeze-1,,Alotepec,187_squeeze,►,►,,,Kondic2019,,false,,
-Alotepec-188_swell-1,,Alotepec,188_swell,►,►,,,Kondic2019,,false,,
+Alotepec-187_squeeze-1,,Alotepec,187_squeeze,paʔanmuk,paʔanmuk,p a ʔ a n m u k,<paʔanmuk IMP 'squeeze (it)!',Kondic2019,,false,^ p aʔa n m u k $,default
+Alotepec-188_swell-1,,Alotepec,188_swell,tʲuktik,tʲuktik,tʲ u k t i k,<?,Kondic2019,,false,^ tʲ u k t i k $,default
 Alotepec-189_say-1,,Alotepec,189_say,duʔunwjaʔaɲ,duʔunwjaʔaɲ,d u ʔ u n w j a ʔ a ɲ,<duʔun-j-waʔan-j so-3SG-say-GR  'he says so',Kondic2019,,false,^ d uʔu n w j aʔa ɲ $,default
-Alotepec-190_scratch-1,,Alotepec,190_scratch,►,►,,,Kondic2019,,false,,
+Alotepec-190_scratch-1,,Alotepec,190_scratch,akʃp,akʃp,a k ʃ p,<akʃ-p scratch-GR 'scratches',Kondic2019,,false,^ a k ʃ p $,default
 Alotepec-191_stab-1,,Alotepec,191_stab,kum,kum,k u m,<kum IMP 'stab!',Kondic2019,,false,^ k u m $,default
-Alotepec-192_buy-1,,Alotepec,192_buy,►,►,,,Kondic2019,,false,,
-Alotepec-193_steal-1,,Alotepec,193_steal,►,►,,,Kondic2019,,false,,
-Alotepec-195_plant-1,,Alotepec,195_plant,►,►,,,Kondic2019,,false,,
+Alotepec-192_buy-1,,Alotepec,192_buy,huj,huj,h u j,<huj IMP 'buy!',Kondic2019,,false,^ h u j $,default
+Alotepec-193_steal-1,,Alotepec,193_steal,maʔats,maʔats,m a ʔ a ts,<maʔats IMP 'steel!',Kondic2019,,false,^ m aʔa ts $,default
+Alotepec-195_plant-1,,Alotepec,195_plant,niʔip,niʔip,n i ʔ i p,<niʔip IMP 'planta!',Kondic2019,,false,^ n iʔi p $,default
 Alotepec-196_cook-1,,Alotepec,196_cook,tokʃpəʔəmbəh,tokʃpəʔəmbəh,t o k ʃ p ə ʔ ə m b ə h,<tokʃ-pəmp-əh  food-put.on.fire-IMP  'put the food on fire!',Kondic2019,,false,^ t o k ʃ p əʔə m b ə h $,default
 Alotepec-197_shoot-1,,Alotepec,197_shoot,tuhp,tuhp,t u h p,<tuh-p shoot-GR 'shoots',Kondic2019,,false,^ t u h p $,default
-Alotepec-198_work-1,,Alotepec,198_work,►,►,,,Kondic2019,,false,,
-Alotepec-199_open-1,,Alotepec,199_open,►,►,,,Kondic2019,,false,,
+Alotepec-198_work-1,,Alotepec,198_work,tuʔuŋ,tuʔuŋ,t u ʔ u ŋ,<tuʔuŋ IMP 'work!',Kondic2019,,false,^ t uʔu ŋ $,default
+Alotepec-199_open-1,,Alotepec,199_open,jahkʔawɒʔɒts,jahkʔawɒʔɒts,j a h k ʔ a w ɒ ʔ ɒ ts,<jahk-ʔawɒʔɒts CAUS-open 'open (it)!',Kondic2019,,false,^ j a h k ʔ a w ɒ ʔ ɒ ts $,default
 Ayutla-1_one-1,,Ayutla,1_one,►,►,,,Kondic2019,,false,,
 Ayutla-2_two-1,,Ayutla,2_two,►,►,,,Kondic2019,,false,,
 Ayutla-3_three-1,,Ayutla,3_three,►,►,,,Kondic2019,,false,,
