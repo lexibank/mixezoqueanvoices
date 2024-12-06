@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1-251-gc2906ac",
+            "dc:created": "v1.0.1-254-g84cc7fe",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         },
         {
