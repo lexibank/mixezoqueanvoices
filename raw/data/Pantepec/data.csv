@@ -1,92 +1,92 @@
 Pantepec,English Translation,Comment
-►,35_hand,
-►,7_left,
-►,6_right,
-►,39_leg,
-►,140_walk,
-►,105_roadpath,
-►,139_come,
-►,146_turn,
-►,148_swim,
-►,127_dirty,
-►,82_dust,
-►,42_skin,
-►,38_back,
-►,43_belly,
-►,41_bone,
-►,44_intestines,
-►,46_liver,
-►,45_breast,
-►,36_shoulder,
-►,167_know,
-►,168_think,
-►,182_fear,
-►,40_blood,
-►,27_head,
-►,37_neck,
-►,28_hair,
-►,30_nose,
-►,184_breathe,
-►,166_sniffsmell,
-►,32_mouth,
-►,34_tooth,
-►,33_tongue,
-►,169_laugh,
-►,170_cry,
-►,185_vomit,
-►,158_spit,
-►,153_eat,
-►,152_chew,
-►,196_cook,
-►,154_drink,
-►,155_bite,
-►,156_suck,
-►,31_ear,
-►,165_hear,
-►,29_eye,
-►,164_see,
-►,157_yawn,
-►,160_sleep,
-►,145_liedown,
-►,159_dream,
-►,143_sit,
-►,142_stand,
-►,60_person,
-►,61_man,
-►,62_woman,
-►,63_child,
-►,67_husband,
-►,68_wife,
-►,65_mother,
-►,66_father,
-►,102_house,
-►,101_thatchroof,
-►,64_name,
-►,189_say,
-►,103_rope,
-►,186_tieup,
-►,174_sew,
-►,104_needle,
-►,180_hunt,
-►,197_shoot,
-►,191_stab,
-►,176_hit,
-►,193_steal,
-►,163_kill,
-►,162_die,
-►,161_live,
-►,190_scratch,
-►,177_cut,
-►,98_wood,
-►,178_split,
-►,119_sharp,
-►,120_bluntdull,
-►,198_work,
-►,195_plant,
-►,194_choose,
-►,141_grow,
-►,188_swell,
-►,187_squeeze,
+kə,35_hand,
+agɲak,7_left,
+təʔənak,6_right,
+tsuhk,39_leg,
+witkuj,140_walk,<wit-kuj walk-NOM 'walking'
+tuk,105_roadpath,
+miʔinu,139_come,<miʔin-u come-COM 'came'
+tsenkseʔedu,146_turn,<tsenkseʔed-u turn-COM 'turned'
+suʔumu,148_swim,<suʔum-u swim-COM 'swam'
+nasəju,127_dirty,
+poʔojo,82_dust,
+naka,42_skin,<n-aka POSS1-sin 'my skin'
+uka,38_back,
+tʲoko,43_belly,<j-toko POSS3-belly 'his belly'
+pʲahk,41_bone,<j-pahk POSS3-bone 'his bone'
+pʲuʔu,44_intestines,<j-puʔu POSS3-intestines 'his intestines'
+pʲat,46_liver,<j-pat POSS3-liver 'his liver'
+tʲuʔutsi,45_breast,<j-tuʔutsi POSS3-breasts 'her breasts'
+pʲeki,36_shoulder,<j-peki POSS3-shoulder 'his shoulder'
+mʲuspa,167_know,<j-mus-pa A3-know-INC 'he knows'
+kipspa,168_think,<kips-pa thik-INC 
+natspa,182_fear,<nats-pa fear-INC
+nəwit,40_blood,
+kowahk,27_head,
+kʲənə,37_neck,<j-kənə POSS3-heck 'his neck'
+wʲahʲ,28_hair,<j-wahʲ POSS3-hair 'his hair'
+kinə,30_nose,
+heʔekaʔawʲa,184_breathe,<heʔekaʔaj-pa breath-INC 
+hʲuʔukispa,166_sniffsmell,<j-huʔuk-is-pa A3-smell-?-INC 'he smells it'
+jahnaka,32_mouth,
+tʲəʔəhts,34_tooth,<j-təʔəhts POSS3-tooth 'his tooth'
+tʲoʔohts,33_tongue,<j-toʔohts POSS3-tongue 'his tongue'
+sikpa,169_laugh,<sik-pa laugh-INC 'laughs'
+həʔəwʲa,170_cry,<həʔəj-pa cry-INC 'cries'
+əʔətsu,185_vomit,<əʔəts-u vomit-COM 'vomited'
+tsuhpa,158_spit,<tsuh-pa split-INC 'splits'
+kutpa,153_eat,<kut-pa eat-INC 'eats'
+waspa,152_chew,<was-pa chew-INC 'chews'
+tʲətpakʲutkuj,196_cook,<j-tət-pa j-kut-kuj A3-prepare-INC POSS3-eat-NOM 'prepares his eating'
+jukpa,154_drink,<juk-pa drink-INC
+kəʔəsowʲa,155_bite,<kəʔəsoj-pa bite-INC
+tʲiwatsuʔutsi,156_suck,<j-tiwa-tsuʔutsi 3A-offer?-breast 'gives her breasts'
+tʲaʔatsək,31_ear,<j-taʔatsək POSS3-ear 'his ear'
+madəhoʔowʲa,165_hear,<madəhoʔoj-pa hear-INC
+wʲiʔidəp,29_eye,<j-wiʔidəp POSS3-eye 'his eye'
+kembah,164_see,IMP
+hawaspa,157_yawn,<hawas-pa yawn-INC
+əʔəmba,160_sleep,<əʔən-pa sleep-INC
+əʔəmba,145_liedown,<əʔən-pa sleep-INC
+mawasʲəʔəwʲa,159_dream,<mawa-sʲəʔəj-pa sleep-dream-INC
+poʔokspa,143_sit,<poʔoks-pa sit-INC
+tenawʲa,142_stand,<tenaj-pa stand-INC
+pət,60_person,
+pət,61_man,
+jomoʔ,62_woman,
+une,63_child,
+haja,67_husband,
+jomoʔ,68_wife,
+mʲama,65_mother,<j-mama POSS3-mother 'his mother'
+hʲaʔada,66_father,<j-haʔada POSS3-father 'his father'
+tʲəhk,102_house,<j-təhk POSS3-house 'his house'
+nekseʔedek,101_thatchroof,
+nʲəʔəji,64_name,<j-nəʔəji POSS3-name 'his name'
+tʲaʔamu,189_say,<j-taʔam-u A3-say-COM 'he said'
+tsahʲ,103_rope,
+sʲiʔinu,186_tieup,<j-siʔin-u A3-tieup-COM 'he tied it up'
+nʲaʔaku,174_sew,<j-naʔak-u A3-sew-COM 'he sow it'
+akuʃʲa,104_needle,
+mangmake,180_hunt,?
+tʲuhu,197_shoot,<j-tuh-u A3-shoot-COM 'he shot'
+hʲuʔutsu,191_stab,<j-huʔuts-u A3-stab-COM 'he stabbed'
+nʲaksu,176_hit,<j-naks-u A3-hit-COM 'he hit'
+nʲuʔumu,193_steal,<j-nuʔum-u A3-steal-COM 'he stole'
+jahkaw,163_kill,<jahk-kaw CAUS-die
+kaw,162_die,
+ijtu,161_live,<ijt-u live-COM
+mʲoʔotsu,190_scratch,<j-moʔots-u A3-steal-COM 'he stole'
+tʲəksu,177_cut,<j-təks-u A3-cut-COM 'he cut'
+kuhʲ,98_wood,
+wʲeʔenu,178_split,<j-weʔen-u A3-split-COM 'he split'
+winaʔ,119_sharp,
+wit,120_bluntdull,
+josu,198_work,<j-jos-u A3-work-COM 'he worked'
+nʲihpu,195_plant,<j-nihp-u A3-plant-COM 'he planted'
+kʲowiʔiŋu,194_choose,<j-kowiʔiŋ-u E3-choose-COM 'he chose'
+jeeŋu,141_grow,<j-jeeŋ-u A3-grow-COM 'he grew'
+siŋu,188_swell,<siŋ-u swell-COM 'it swoll'
+k omiitsu,187_squeeze,
 ►,181_hold,
 ►,179_dig,
 ►,192_buy,
