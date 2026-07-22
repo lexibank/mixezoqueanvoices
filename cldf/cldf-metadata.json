@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/lexibank/mixezoqueanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1-327-g5eb00e4",
+            "dc:created": "v1.0.1-329-gc04bf4d",
             "dc:title": "Repository"
         },
         {
@@ -274,6 +274,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:description": "The audio files listed in this table are available in a separate deposit on Zenodo with DOI 10.5281/zenodo.21497449",
             "dc:extent": 13770,
             "tableSchema": {
                 "columns": [
@@ -284,7 +285,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
-                        "valueUrl": "https://s3.nexus.mpcdf.mpg.de/eva-dlce-papuanvoices/{Name}",
+                        "valueUrl": "https://s3.nexus.mpcdf.mpg.de/eva-dlce-mixezoqueanvoices/{Name}",
                         "name": "ID"
                     },
                     {

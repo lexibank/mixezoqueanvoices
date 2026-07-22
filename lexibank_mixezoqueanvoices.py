@@ -1,3 +1,4 @@
+import re
 import pathlib
 import functools
 import itertools
@@ -13,19 +14,20 @@ from csvw.metadata import URITemplate
 from csvw.dsv import reader
 import collections
 
-MEDIA_DOI = '10.5281/zenodo.21494371'
+MEDIA_DOI = '10.5281/zenodo.21497449'
 MEDIA = f'https://zenodo.org/records/{MEDIA_DOI.split(".")[-1]}/files/'
-MEDIA_WAV = MEDIA + 'media.zip'
-MEDIA_DERIVED = MEDIA + 'media_derived.zip'
-MEDIA_V2 = MEDIA + 'media_v2.zip'
 
 
-def media_row(bs, fid, media_v1):
+def media_row(bs, fid, media_by_zip):
     p = pathlib.Path(bs['bitstreamid'])
     mimetype = 'audio/x-wav' if p.suffix == '.wav' else bs['content-type']
-    url = MEDIA_V2
-    if bs['checksum'] in media_v1:
-        url = MEDIA_WAV if p.suffix == '.wav' else MEDIA_DERIVED
+    for fname, md5s in media_by_zip.items():
+        if bs['checksum'] in md5s:
+            url = f'{MEDIA}{fname}.zip'
+            break
+    else:
+        raise ValueError(bs)
+
     return {
         'ID': bs['checksum'],
         'Download_URL': url,
@@ -35,6 +37,13 @@ def media_row(bs, fid, media_v1):
         'size': bs['filesize'],
         'Form_ID': fid,
     }
+
+
+def iter_hashes(p):
+    for line in p.read_text().split('\n'):
+        m = re.search(r'/(?P<md5>[0-9a-f]{32})\.', line)
+        if m:
+            yield m.group('md5')
 
 
 ROLE_MAP = {
@@ -78,6 +87,13 @@ class Dataset(BaseDataset):
     def media_v1(self):
         return {r['ID'] for r in self.etc_dir.read_csv('media-v1.csv', dicts=True)}
 
+    @functools.cached_property
+    def media_by_zip(self):
+        res = {}
+        for fname in ['media', 'media_derived', 'media_v2', 'media_v2_1']:
+            res[fname] = set(iter_hashes(self.etc_dir / f'{fname}.txt'))
+        return res
+
     def cmd_makecldf(self, args):
         sc_fp_map = {
             m[0]: m[1] for m in self.etc_dir.read_csv('sc_fp_map.tsv', delimiter='\t')
@@ -96,7 +112,7 @@ class Dataset(BaseDataset):
 
             known_param_ids = set([d['ID'] for d in ds.objects['ParameterTable']])
 
-            ds.cldf.add_component(
+            t = ds.cldf.add_component(
                 'MediaTable',
                 {'name': 'size', 'datatype': 'integer'},
                 {
@@ -106,9 +122,10 @@ class Dataset(BaseDataset):
                     'datatype': 'string'
                 },
             )
+            t.common_props['dc:description'] = f"The audio files listed in this table are available in a separate deposit on Zenodo with DOI {MEDIA_DOI}"
             ds.cldf.remove_columns('MediaTable', 'Description')
             ds.cldf['MediaTable', 'ID'].valueUrl = URITemplate(
-                'https://s3.nexus.mpcdf.mpg.de/eva-dlce-papuanvoices/{Name}')
+                'https://s3.nexus.mpcdf.mpg.de/eva-dlce-mixezoqueanvoices/{Name}')
 
             sound_cat = self.raw_dir.read_json('catalog_mz.json')
             sound_map = dict()
@@ -209,7 +226,7 @@ class Dataset(BaseDataset):
 
                         for bs in sorted(sound_cat[sound_map[media_id]]['bitstreams'],
                                          key=lambda x: x['content-type']):
-                            ds.objects['MediaTable'].append(media_row(bs, new['ID'], self.media_v1))
+                            ds.objects['MediaTable'].append(media_row(bs, new['ID'], self.media_by_zip))
 
             ds.cldf.add_component(
                 'ContributionTable',
