@@ -1,5 +1,7 @@
 # Mixe-Zoquean Voices
 
+[![CLDF validation](https://github.com/lexibank/mixezoqueanvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/mixezoqueanvoices/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -16,35 +18,48 @@ Available online at https://mixezoqueanvoices.clld.org
 
 
 Conceptlists in Concepticon:
-- [Blust-1981-200](https://concepticon.clld.org/contributions/Blust-1981-200)
+- [Blust-1981-200](https://concepticon.clld.org/contributions/0)
+## Notes
+
+
+![map](map.svg)
+
+
 ## Statistics
 
 
-![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CLDF validation](https://github.com/lexibank/mixezoqueanvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/mixezoqueanvoices/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 92%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 88%](etc/badge_bipa.svg)
+![CLTS SoundClass: 88%](etc/badge_sc.svg)
 
 - **Varieties:** 28 (linked to 20 different Glottocodes)
 - **Concepts:** 199 (linked to 199 different Concepticon concept sets)
-- **Lexemes:** 4,875
+- **Lexemes:** 4,888
 - **Sources:** 3
 - **Synonymy:** 1.02
-- **Invalid lexemes:** 2,887
-- **Tokens:** 10,719
-- **Segments:** 46 (0 BIPA errors, 0 CLTS sound class errors, 46 CLTS modified)
-- **Inventory size (avg):** 12.04
+- **Invalid lexemes:** 1,382
+- **Tokens:** 19,117
+- **Segments:** 52 (6 BIPA errors, 6 CLTS sound class errors, 46 CLTS modified)
+- **Inventory size (avg):** 21.39
+
+## Possible Improvements:
+
+- Languages missing glottocodes: 2/28 (7.14%%)
+
 
 # Contributors
 
-Name               | GitHub user     | Description                          | Role
+Name               | GitHub user | Description                          | Role
 ---                | ---             | ---                                  | ---
-Ana Kondić |  | author, data entry, audio recordings, phonetc transcriptions | Author
-Paul Heggarty |  | Founded and manages https://soundcomparisons.com where this data was initially published | Other
-Darja Dërmaku-Appelganz |  | audio post-processing | Author
-Russell Gray |  | Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Mixe-Zoquean study. | Author
-Hans-Jörg Bibiko | @Bibiko | patron, maintainer, audio post-processing | Author
+Ana Kondić | | author, data entry, audio recordings, phonetc transcriptions | Author
+Paul Heggarty | | Founded and manages https://soundcomparisons.com where this data was initially published | Other
+Darja Dërmaku-Appelganz | | audio post-processing | Author
+Russell Gray | | Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Mixe-Zoquean study. | Author
+Hans-Jörg Bibiko | | patron, maintainer, audio post-processing | Author
+Robert Forkel | @xrotwang | maintainer | DataCurator
 
 
 

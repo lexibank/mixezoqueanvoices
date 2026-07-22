@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 
@@ -11,6 +11,7 @@ setup(
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
+    packages=find_packages(where='.'),
     py_modules=['lexibank_mixezoqueanvoices'],
     include_package_data=True,
     zip_safe=False,
@@ -18,15 +19,11 @@ setup(
         'lexibank.dataset': [
             'mixezoqueanvoices=lexibank_mixezoqueanvoices:Dataset',
         ],
-        "cldfbench.commands": [
-            "mixezoqueanvoices=mixezoqueanvoices_subcommands",
-        ]
     },
     install_requires=[
-        'pylexibank>=3.5.0',
-        'cldfbench>=1.14.0',
-        'zenodoclient>=0.5.1',
-        'csvw>=3.3.0',
+        'pylexibank>=4',
+        'cldfbench>=2',
+        'csvw>=4',
     ],
     extras_require={
         'test': [

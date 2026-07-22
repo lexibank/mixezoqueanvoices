@@ -1,14 +1,40 @@
 import pathlib
-import attr
+import functools
 import itertools
-import csv
+import mimetypes
+import dataclasses
+from typing import Optional
 
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Concept
 from pylexibank import FormSpec
 from pylexibank import progressbar
 from csvw.metadata import URITemplate
+from csvw.dsv import reader
 import collections
+
+MEDIA_DOI = '10.5281/zenodo.21494371'
+MEDIA = f'https://zenodo.org/records/{MEDIA_DOI.split(".")[-1]}/files/'
+MEDIA_WAV = MEDIA + 'media.zip'
+MEDIA_DERIVED = MEDIA + 'media_derived.zip'
+MEDIA_V2 = MEDIA + 'media_v2.zip'
+
+
+def media_row(bs, fid, media_v1):
+    p = pathlib.Path(bs['bitstreamid'])
+    mimetype = 'audio/x-wav' if p.suffix == '.wav' else bs['content-type']
+    url = MEDIA_V2
+    if bs['checksum'] in media_v1:
+        url = MEDIA_WAV if p.suffix == '.wav' else MEDIA_DERIVED
+    return {
+        'ID': bs['checksum'],
+        'Download_URL': url,
+        'Path_In_Zip': f'media/{bs["checksum"][:2]}/{bs["checksum"]}{p.suffix}',
+        'Name': f"{bs['checksum']}{mimetypes.guess_extension(mimetype) or ''}",
+        'Media_Type': mimetype,
+        'size': bs['filesize'],
+        'Form_ID': fid,
+    }
 
 
 ROLE_MAP = {
@@ -23,15 +49,15 @@ ROLE_MAP = {
 }
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLanguage(Language):
-    LongName = attr.ib(default=None)
-    IsProto = attr.ib(default=None)
+    LongName: Optional[str] = None
+    IsProto: Optional[bool] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomConcept(Concept):
-    Spanish_Gloss = attr.ib(default=None)
+    Spanish_Gloss: Optional[str] = None
 
 
 class Dataset(BaseDataset):
@@ -39,25 +65,25 @@ class Dataset(BaseDataset):
     id = 'mixezoqueanvoices'
 
     form_spec = FormSpec(
-            replacements=[],
-            missing_data=['..'],
-            normalize_unicode='NFC',
-            strip_inside_brackets=False,
-            )
+        replacements=[],
+        missing_data=['..'],
+        normalize_unicode='NFC',
+        strip_inside_brackets=False,
+    )
 
     concept_class = CustomConcept
     language_class = CustomLanguage
 
+    @functools.cached_property
+    def media_v1(self):
+        return {r['ID'] for r in self.etc_dir.read_csv('media-v1.csv', dicts=True)}
+
     def cmd_makecldf(self, args):
-
-        sc_fp_map = {}  # old cat format lg file path map
-        with open(self.etc_dir / 'sc_fp_map.tsv', 'r') as f:
-            for x in f:
-                m = x.strip().split('\t')
-                if m[1] != 'NULL':  # only non-proto lgs
-                    sc_fp_map[m[0]] = m[1]
-
-        sc_wp_map = {}  # old cat format word file path map
+        sc_fp_map = {
+            m[0]: m[1] for m in self.etc_dir.read_csv('sc_fp_map.tsv', delimiter='\t')
+            if m[1] != 'NULL'}  # old cat format lg file path map
+        sc_wp_map = {
+            m[0]: m[1] for m in self.etc_dir.read_csv('sc_wp_map.tsv', delimiter='\t')}
         sc_p_map = {}  # old cat format parameter map
 
         with args.writer as ds:
@@ -68,16 +94,10 @@ class Dataset(BaseDataset):
                 del concept['IndexInSource']
                 ds.add_concept(**concept)
 
-            with open(self.etc_dir / 'sc_wp_map.tsv', 'r') as f:
-                for x in f:
-                    m = x.strip().split('\t')
-                    sc_wp_map[m[0]] = m[1]
-
             known_param_ids = set([d['ID'] for d in ds.objects['ParameterTable']])
 
             ds.cldf.add_component(
                 'MediaTable',
-                'objid',
                 {'name': 'size', 'datatype': 'integer'},
                 {
                     'name': 'Form_ID',
@@ -85,18 +105,10 @@ class Dataset(BaseDataset):
                     'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#formReference',
                     'datatype': 'string'
                 },
-                {
-                    'name': 'mimetype',
-                    'required': True,
-                    'datatype': {'base': 'string', 'format': '[^/]+/.+'}
-                },
             )
-            ds.cldf.remove_columns('MediaTable', 'Download_URL')
             ds.cldf.remove_columns('MediaTable', 'Description')
-            ds.cldf.remove_columns('MediaTable', 'Path_In_Zip')
-            ds.cldf.remove_columns('MediaTable', 'Media_Type')
-            ds.cldf['MediaTable', 'ID'].valueUrl = URITemplate('https://cdstar.eva.mpg.de/bitstreams/{objid}/{Name}')
-            ds.cldf['MediaTable', 'mimetype'].propertyUrl = URITemplate('http://cldf.clld.org/v1.0/terms.rdf#mediaType')
+            ds.cldf['MediaTable', 'ID'].valueUrl = URITemplate(
+                'https://s3.nexus.mpcdf.mpg.de/eva-dlce-papuanvoices/{Name}')
 
             sound_cat = self.raw_dir.read_json('catalog_mz.json')
             sound_map = dict()
@@ -117,12 +129,7 @@ class Dataset(BaseDataset):
                     continue
 
                 lang_id = lang_dir.name
-
-                with open(lang_dir / 'languages.csv') as f:
-                    reader = csv.DictReader(f)
-                    for row in reader:
-                        language = row
-                        break
+                language = next(reader(lang_dir / 'languages.csv', dicts=True))
                 source = language['Source']
                 del language['Source']
                 del language['ORG_LG_NAME']
@@ -135,92 +142,74 @@ class Dataset(BaseDataset):
                 seen_pron2 = collections.defaultdict(lambda: False)
 
                 # Do not sort data.csv files - form id index refers to import
-                with open(lang_dir / 'data.csv') as f:
-                    reader = csv.reader(f)
-                    for i, row in enumerate(reader):
-                        value = row[0].strip()
-                        if i > 0:
-                            param_id = row[1].strip()
-                            comment = row[2].strip() if len(row) > 2 else None
-                            if param_id in known_param_ids:
-                                if value == '►' or language['IsProto'] == 'True':
-                                    new = ds.add_form_with_segments(
-                                        Language_ID=lang_id,
-                                        Local_ID='',
-                                        Parameter_ID=param_id,
-                                        Value=value,
-                                        Form=self.form_spec.clean(self.lexemes.get(value, value)),
-                                        Segments=[''],
-                                        Comment=comment,
-                                        Loan=False,
-                                        Source=source,
-                                    )
-                                else:
-                                    new = ds.add_form(
-                                        Language_ID=lang_id,
-                                        Local_ID='',
-                                        Parameter_ID=param_id,
-                                        Value=value,
-                                        Form=self.form_spec.clean(self.lexemes.get(value, value)),
-                                        Comment=comment,
-                                        Loan=False,
-                                        Source=source,
-                                    )
+                for i, row in enumerate(reader(lang_dir / 'data.csv')):
+                    value = row[0].strip()
+                    if i == 0:
+                        continue
+                    param_id = row[1].strip()
+                    comment = row[2].strip() if len(row) > 2 else None
+                    if param_id not in known_param_ids:
+                        # Dunno what to make of these:
+                        assert param_id in {'186_youall', '173_at'}, param_id
+                        continue
+                    form_kw = dict(
+                        Language_ID=lang_id,
+                        Local_ID='',
+                        Parameter_ID=param_id,
+                        Value=value,
+                        Form=self.form_spec.clean(self.lexemes.get(value, value)),
+                        Comment=comment,
+                        Loan=False,
+                        Source=source,
+                    )
+                    if value == '►' or language['IsProto'] == 'True':
+                        form_kw['Segments'] = ['']
+                        new = ds.add_form_with_segments(**form_kw)
+                    else:
+                        new = ds.add_form(**form_kw)
 
-                                # try old media IDs first
-                                old_id = False
+                    assert new
+                    # try old media IDs first
+                    old_id = False
+                    media_id = None
+
+                    if lang_id in sc_fp_map and param_id in sc_p_map and sc_p_map[param_id] in sc_wp_map:
+                        lex_idx = seen_lexemes_old[param_id]
+                        media_id = f'{sc_fp_map[lang_id]}{sc_wp_map[sc_p_map[param_id]]}'
+                        if lex_idx != 1:
+                            media_id += f'_lex{lex_idx}'
+                        old_id = True
+
+                    # if no old media ID is found try it with _pron2 (there're only _pron2 without _lex)
+                    if media_id is None or (media_id not in sound_map or sound_map[media_id] not in sound_cat):
+                        old_id = False
+                        media_id = None
+                        if lang_id in sc_fp_map and param_id in sc_p_map and sc_p_map[param_id] in sc_wp_map:
+                            media_id = '{}{}_pron2'.format(sc_fp_map[lang_id], sc_wp_map[sc_p_map[param_id]])
+                            if seen_pron2[media_id]:
                                 media_id = None
+                            else:
+                                old_id = True
 
-                                if lang_id in sc_fp_map and param_id in sc_p_map and sc_p_map[param_id] in sc_wp_map:
-                                    lex_idx = seen_lexemes_old[param_id]
-                                    if lex_idx == 1:
-                                        media_id = '{}{}'.format(sc_fp_map[lang_id],
-                                                                 sc_wp_map[sc_p_map[param_id]])
-                                    else:
-                                        media_id = '{}{}_lex{}'.format(sc_fp_map[lang_id],
-                                                                       sc_wp_map[sc_p_map[param_id]],
-                                                                       lex_idx)
-                                    old_id = True
+                    # if no old media ID is found take new ones
+                    if media_id is None or (media_id not in sound_map or sound_map[media_id] not in sound_cat):
+                        lex_idx = seen_lexemes_new[param_id]
+                        media_id = f'{lang_id}_{param_id}'
+                        if lex_idx != 1:
+                            media_id += f'__{lex_idx}'
+                        old_id = False
 
-                                # if no old media ID is found try it with _pron2 (there're only _pron2 without _lex)
-                                if media_id is None or (media_id not in sound_map or sound_map[media_id] not in sound_cat):
-                                    old_id = False
-                                    media_id = None
-                                    if lang_id in sc_fp_map and param_id in sc_p_map and sc_p_map[param_id] in sc_wp_map:
-                                        lex_idx = seen_lexemes_old[param_id]
-                                        media_id = '{}{}_pron2'.format(sc_fp_map[lang_id], sc_wp_map[sc_p_map[param_id]])
-                                        if seen_pron2[media_id]:
-                                            media_id = None
-                                        else:
-                                            old_id = True
+                    if media_id is not None and media_id in sound_map and sound_map[media_id] in sound_cat:
+                        if old_id:
+                            seen_lexemes_old[param_id] += 1
+                            if media_id.endswith('_pron2'):
+                                seen_pron2[media_id] = True
+                        else:
+                            seen_lexemes_new[param_id] += 1
 
-                                # if no old media ID is found take new ones
-                                if media_id is None or (media_id not in sound_map or sound_map[media_id] not in sound_cat):
-                                    lex_idx = seen_lexemes_new[param_id]
-                                    if lex_idx == 1:
-                                        media_id = '{}_{}'.format(lang_id, param_id)
-                                    else:
-                                        media_id = '{}_{}__{}'.format(lang_id, param_id, lex_idx)
-                                    old_id = False
-
-                                if media_id is not None and media_id in sound_map and sound_map[media_id] in sound_cat:
-                                    if old_id:
-                                        seen_lexemes_old[param_id] += 1
-                                        if media_id.endswith('_pron2'):
-                                            seen_pron2[media_id] = True
-                                    else:
-                                        seen_lexemes_new[param_id] += 1
-
-                                    for bs in sorted(sound_cat[sound_map[media_id]]['bitstreams'],
-                                                     key=lambda x: x['content-type']):
-                                        ds.objects['MediaTable'].append({
-                                            'ID': bs['checksum'],
-                                            'Name': bs['bitstreamid'],
-                                            'objid': sound_map[media_id],
-                                            'mimetype': bs['content-type'],
-                                            'size': bs['filesize'],
-                                            'Form_ID': new['ID'],
-                                        })
+                        for bs in sorted(sound_cat[sound_map[media_id]]['bitstreams'],
+                                         key=lambda x: x['content-type']):
+                            ds.objects['MediaTable'].append(media_row(bs, new['ID'], self.media_v1))
 
             ds.cldf.add_component(
                 'ContributionTable',
